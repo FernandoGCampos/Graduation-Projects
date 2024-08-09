@@ -1,0 +1,3 @@
+C:/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq1/cmake-build-error-warming-flags/CMakeFiles/TrabArq1.dir
+C:/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq1/cmake-build-error-warming-flags/CMakeFiles/edit_cache.dir
+C:/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq1/cmake-build-error-warming-flags/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lexicoGame.dir/main.cpp.o  -o lexicoGame 

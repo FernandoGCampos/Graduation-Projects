@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Centrifuga.dir/main.cpp.o  -o Centrifuga 

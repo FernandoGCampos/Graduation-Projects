@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Legendre.dir/main.cpp.o  -o Legendre 

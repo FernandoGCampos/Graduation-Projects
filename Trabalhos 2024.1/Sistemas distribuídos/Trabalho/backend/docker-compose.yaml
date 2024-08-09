@@ -1,0 +1,208 @@
+services:
+  spark:
+    image: docker.io/bitnami/spark:3.5
+    environment:
+      - SPARK_MODE=master
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+      - SPARK_USER=spark
+    ports:
+      - '8080:8080'
+      - '7077:7077'
+
+  spark-worker1:
+    image: docker.io/bitnami/spark:3.5
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark:7077
+      - SPARK_WORKER_MEMORY=1G
+      - SPARK_WORKER_CORES=1
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+      - SPARK_USER=spark
+
+  spark-worker2:
+    image: docker.io/bitnami/spark:3.5
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark:7077
+      - SPARK_WORKER_MEMORY=1G
+      - SPARK_WORKER_CORES=1
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+      - SPARK_USER=spark
+
+  fastapi:
+    build:
+      context: .
+    volumes:
+      - ./app/main.py:/code/app/main.py
+    ports:
+      - '8000:8000'
+
+  db:
+    image: "postgres:16-alpine"
+    volumes:
+      - db-vol:/var/lib/postgresql/data
+      - ./sql/schema.sql:/docker-entrypoint-initdb.d/00-schema.sql
+      - ./sql/sample-data.sql:/docker-entrypoint-initdb.d/01-sample-data.sql
+    environment:
+      POSTGRES_USER: scd
+      POSTGRES_PASSWORD: scd
+      POSTGRES_DB: scd
+    ports:
+      - "5432:5432"
+
+  cadvisor:
+    image: gcr.io/cadvisor/cadvisor:latest
+    container_name: cadvisor
+    volumes:
+      - /:/rootfs:ro
+      - /var/run:/var/run:rw
+      - /sys:/sys:ro
+      - /var/lib/docker:/var/lib/docker:ro
+    restart: unless-stopped
+    ports:
+      - "8089:8080"
+
+  node-exporter:
+    image: prom/node-exporter:latest
+    container_name: node-exporter
+    restart: unless-stopped
+    volumes:
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+      - /:/rootfs:ro
+    command:
+      - '--path.procfs=/host/proc'
+      - '--path.rootfs=/rootfs'
+      - '--path.sysfs=/host/sys'
+      - '--collector.filesystem.mount-points-exclude=^/(sys|proc|dev|host|etc)($$|/)'
+    ports:
+      - '9100:9100'
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    restart: unless-stopped
+    volumes:
+      - ./prometheus:/etc/prometheus
+      - prometheus_data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/etc/prometheus/console_libraries'
+      - '--web.console.templates=/etc/prometheus/consoles'
+      - '--web.enable-lifecycle'
+    ports:
+      - "9090:9090"
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "5031:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_ALLOW_SIGN_UP=false
+    restart: unless-stopped
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./grafana/provisioning:/etc/grafana/provisioning
+
+  postgres-exporter:
+    image: prometheuscommunity/postgres-exporter
+    ports:
+      - 9187:9187
+    environment:
+      DATA_SOURCE_NAME: "postgresql://scd:scd@db:5432/scd?sslmode=disable"
+
+  nginx:
+    build:
+      context: .
+      dockerfile: ./DockerfileNginx
+    volumes:
+      - /var/log/nginx:/var/log/nginx:rw
+    ports:
+      - "7031:80"
+      - "7032:7032"
+
+  kafka1:
+    build:
+      context: .
+      dockerfile: ./DockerfileWebsocket
+    ports:
+      - "8082:8082"
+    environment:
+      - GROUP_ID=1
+    depends_on:
+      init_topic:
+        condition: service_completed_successfully
+
+  kafka2:
+    build:
+      context: .
+      dockerfile: ./DockerfileWebsocket
+    ports:
+      - "8083:8082"
+    environment:
+      - GROUP_ID=2
+    depends_on:
+      init_topic:
+        condition: service_completed_successfully
+
+  kafka:
+    image: bitnami/kafka
+    container_name: kafka
+    ports:
+      - 9092:9092
+    environment:
+      - KAFKA_ENABLE_KRAFT=yes
+      - KAFKA_CFG_PROCESS_ROLES=broker,controller
+      - KAFKA_CFG_CONTROLLER_LISTENER_NAMES=CONTROLLER
+      - KAFKA_CFG_LISTENERS=PLAINTEXT://:9092,CONTROLLER://:2181
+      - KAFKA_CFG_LISTENER_SECURITY_PROTOCOL_MAP=CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT
+      - KAFKA_CFG_ADVERTISED_LISTENERS=PLAINTEXT://kafka:9092
+      - KAFKA_BROKER_ID=1
+      - KAFKA_CFG_CONTROLLER_QUORUM_VOTERS=1@kafka:2181
+      - ALLOW_PLAINTEXT_LISTENER=yes
+      - KAFKA_CFG_NODE_ID=1
+      - KAFKA_KRAFT_CLUSTER_ID=MkU3OEVBNTcwNTJENDM2Qk
+    healthcheck:
+      test: "kafka-topics.sh --bootstrap-server localhost:9092 --list"
+      interval: 10s
+      timeout: 5s
+      retries: 30
+      start_period: 0s
+      start_interval: 1s
+
+  init_topic:
+    image: bitnami/kafka
+    command: ["/opt/bitnami/kafka/bin/kafka-topics.sh", "--create", "--bootstrap-server", "kafka:9092", "--replication-factor", "1", "--partitions", "1", "--topic", "updates"]
+    depends_on:
+      kafka:
+        condition: service_healthy
+
+  telegraf:
+    image: telegraf:latest
+    restart: always
+    container_name: telegraf
+    hostname: telegraf
+    volumes:
+      - /var/log/nginx:/var/log/nginx:ro
+      - ./telegraf/telegraf.conf:/etc/telegraf/telegraf.conf
+    ports:
+      - "9126:9126"
+    command: telegraf --config /etc/telegraf/telegraf.conf --debug
+
+volumes:
+  db-vol:
+  prometheus_data:
+  grafana_data:

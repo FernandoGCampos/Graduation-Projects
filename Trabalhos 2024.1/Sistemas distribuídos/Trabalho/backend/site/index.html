@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>Trabalho</title>
+		<meta charset="utf-8">
+
+        <link rel="stylesheet" type="text/css" href="index.css">
+	</head>
+
+	<body>
+        <a href="inserir/index.html"><b>inserir</b></a>
+        <section id="select_table">
+            <label for="table_options">Selecionar Tabela:</label>
+            <select id="table_options" onchange="change_table()">
+            </select><br/>
+            Filtros de busca:<input type="text" id="filters" name="filters"><br>
+            <button onclick="query_data()">Buscar</button>
+        </section>
+
+        <section id="view_data">
+            <table id="data">
+            </table>
+        </section>
+
+        <script src="script.js"></script>
+	</body>
+
+</html>

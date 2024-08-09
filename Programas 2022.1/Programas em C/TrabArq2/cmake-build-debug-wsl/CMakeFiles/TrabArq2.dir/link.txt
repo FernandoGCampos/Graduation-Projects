@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -g   CMakeFiles/TrabArq2.dir/main.c.o CMakeFiles/TrabArq2.dir/type2.c.o CMakeFiles/TrabArq2.dir/extralib.c.o CMakeFiles/TrabArq2.dir/data.c.o CMakeFiles/TrabArq2.dir/index2.c.o CMakeFiles/TrabArq2.dir/index1.c.o CMakeFiles/TrabArq2.dir/type1.c.o  -o TrabArq2 

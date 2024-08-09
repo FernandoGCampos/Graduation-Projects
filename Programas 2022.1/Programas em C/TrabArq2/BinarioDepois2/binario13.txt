@@ -1,0 +1,6493 @@
+Status: 1
+Topo: 25565
+Cabeçalho: LISTAGEM DA FROTA DOS VEICULOS NO BRASILCODIGO IDENTIFICADOR: ANO DE FABRICACAO: QUANTIDADE DE VEICULOS: ESTADO: 0NOME DA CIDADE: 1MARCA DO VEICULO: 2MODELO DO VEICULO: 
+Próximo byte offset: 26236
+Número removidos: 49
+
+Offset: 190
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 1
+Ano: 2006
+Quantidade: 14
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 217
+Status: 1
+Tamanho: 64
+Próximo: 13799
+ID: 2
+Ano: 2021
+Quantidade: 2113
+Sigla: MG
+Cidade: BELO HORIZONTE
+Marca: FIAT
+Modelo: SIENA 1.0
+Lixo: 
+
+Offset: 286
+Status: 1
+Tamanho: 43
+Próximo: 20614
+ID: 3
+Ano: 2017
+Quantidade: 17
+Sigla: RJ
+Cidade: NITEROI
+Marca: 
+Modelo: MT03
+Lixo: 
+
+Offset: 334
+Status: 0
+Tamanho: 39
+Próximo: -1
+ID: 4
+Ano: 1978
+Quantidade: 12
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: FUSCA 1300 L
+Lixo: 
+
+Offset: 378
+Status: 0
+Tamanho: 33
+Próximo: -1
+ID: 5
+Ano: 1992
+Quantidade: 15
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: GOL CL
+Lixo: 
+
+Offset: 416
+Status: 0
+Tamanho: 33
+Próximo: -1
+ID: 6
+Ano: -1
+Quantidade: 27
+Sigla: 
+Cidade: BUIQUE
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 454
+Status: 0
+Tamanho: 72
+Próximo: -1
+ID: 7
+Ano: 2012
+Quantidade: 1411
+Sigla: 
+Cidade: BELO HORIZONTE
+Marca: FIAT
+Modelo: UNO MILLE ECONOMY
+Lixo: 
+
+Offset: 531
+Status: 0
+Tamanho: 41
+Próximo: -1
+ID: 8
+Ano: 2004
+Quantidade: 38
+Sigla: MG
+Cidade: 
+Marca: VW
+Modelo: GOL 1.0
+Lixo: 
+
+Offset: 577
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 9
+Ano: 2011
+Quantidade: 13
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: NXR150 BROS ESD
+Lixo: 
+
+Offset: 624
+Status: 0
+Tamanho: 40
+Próximo: -1
+ID: 10
+Ano: 1984
+Quantidade: 13
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: CHEVROLET D10
+Lixo: 
+
+Offset: 669
+Status: 0
+Tamanho: 65
+Próximo: -1
+ID: 11
+Ano: 2007
+Quantidade: 15
+Sigla: PA
+Cidade: BELEM
+Marca: RENAULT
+Modelo: CLIO AUT 10 16VH
+Lixo: 
+
+Offset: 739
+Status: 0
+Tamanho: 61
+Próximo: -1
+ID: 22
+Ano: 2011
+Quantidade: 14
+Sigla: 
+Cidade: PONTA GROSSA
+Marca: 
+Modelo: BRAVO ESSENCE 1.8
+Lixo: 
+
+Offset: 805
+Status: 0
+Tamanho: 48
+Próximo: -1
+ID: 23
+Ano: 1970
+Quantidade: 925
+Sigla: MG
+Cidade: BELO HORIZONTE
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 858
+Status: 0
+Tamanho: 49
+Próximo: -1
+ID: 24
+Ano: -1
+Quantidade: 20
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: CG 160 TITAN
+Lixo: 
+
+Offset: 912
+Status: 0
+Tamanho: 38
+Próximo: -1
+ID: 25
+Ano: -1
+Quantidade: 18
+Sigla: MG
+Cidade: JOSENOPOLIS
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 955
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 26
+Ano: 2008
+Quantidade: 13
+Sigla: PA
+Cidade: 
+Marca: 
+Modelo: SUZUKI EN125 YES
+Lixo: 
+
+Offset: 1003
+Status: 0
+Tamanho: 48
+Próximo: -1
+ID: 27
+Ano: 2009
+Quantidade: 820
+Sigla: 
+Cidade: 
+Marca: CHEVROLET
+Modelo: CLASSIC
+Lixo: 
+
+Offset: 1056
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 28
+Ano: 2014
+Quantidade: 29
+Sigla: 
+Cidade: BETIM
+Marca: CHEVROLET
+Modelo: 
+Lixo: 
+
+Offset: 1107
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 29
+Ano: 2013
+Quantidade: 11
+Sigla: MG
+Cidade: UBA
+Marca: 
+Modelo: COMET 150 70
+Lixo: 
+
+Offset: 1159
+Status: 0
+Tamanho: 59
+Próximo: -1
+ID: 30
+Ano: 2011
+Quantidade: 11
+Sigla: AM
+Cidade: AUTAZES
+Marca: HONDA
+Modelo: BIZ 125 EX
+Lixo: 
+
+Offset: 1223
+Status: 0
+Tamanho: 33
+Próximo: -1
+ID: 31
+Ano: 2011
+Quantidade: 14
+Sigla: 
+Cidade: 
+Marca: YAMAHA
+Modelo: 
+Lixo: 
+
+Offset: 1261
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 32
+Ano: -1
+Quantidade: 15
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: 
+
+Offset: 1317
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 33
+Ano: 1995
+Quantidade: 12
+Sigla: RJ
+Cidade: 
+Marca: FIAT
+Modelo: FIORINO 1.0
+Lixo: 
+
+Offset: 1369
+Status: 1
+Tamanho: 48
+Próximo: 15446
+ID: 34
+Ano: 2019
+Quantidade: 18
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: FOX CONNECT MB
+Lixo: 
+
+Offset: 1422
+Status: 0
+Tamanho: 35
+Próximo: -1
+ID: 35
+Ano: -1
+Quantidade: 11
+Sigla: PR
+Cidade: CORBELIA
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 1462
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 36
+Ano: 2011
+Quantidade: 18
+Sigla: MG
+Cidade: ITAPEVA
+Marca: 
+Modelo: GOL 1.0
+Lixo: 
+
+Offset: 1513
+Status: 0
+Tamanho: 39
+Próximo: -1
+ID: 37
+Ano: 1972
+Quantidade: 16
+Sigla: PR
+Cidade: 
+Marca: FORD
+Modelo: F75
+Lixo: 
+
+Offset: 1557
+Status: 0
+Tamanho: 67
+Próximo: -1
+ID: 382
+Ano: 2020
+Quantidade: 119
+Sigla: AM
+Cidade: MANAUS
+Marca: CHEVROLET
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$
+
+Offset: 1629
+Status: 0
+Tamanho: 63
+Próximo: -1
+ID: 39
+Ano: 2007
+Quantidade: 11
+Sigla: PR
+Cidade: FOZ DO IGUACU
+Marca: 
+Modelo: STRADA ADVENT FLEX
+Lixo: 
+
+Offset: 1697
+Status: 1
+Tamanho: 66
+Próximo: 11074
+ID: 40
+Ano: 2018
+Quantidade: 27
+Sigla: ES
+Cidade: VITORIA
+Marca: YAMAHA
+Modelo: XTZ150 CROSSER Z
+Lixo: 
+
+Offset: 1768
+Status: 0
+Tamanho: 65
+Próximo: -1
+ID: 41
+Ano: -1
+Quantidade: 596
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: FORD
+Modelo: ESCORT XR3
+Lixo: 
+
+Offset: 1838
+Status: 0
+Tamanho: 58
+Próximo: -1
+ID: 42
+Ano: 2000
+Quantidade: 19
+Sigla: PE
+Cidade: RECIFE
+Marca: 
+Modelo: PEUGEOT 106 SELECTIO
+Lixo: 
+
+Offset: 1901
+Status: 0
+Tamanho: 52
+Próximo: -1
+ID: 43
+Ano: 2013
+Quantidade: 35
+Sigla: MG
+Cidade: VICOSA
+Marca: 
+Modelo: STRADA WORKING
+Lixo: 
+
+Offset: 1958
+Status: 0
+Tamanho: 68
+Próximo: -1
+ID: 44
+Ano: 2008
+Quantidade: 523
+Sigla: MT
+Cidade: TANGARA DA SERRA
+Marca: HONDA
+Modelo: CG 125 FAN
+Lixo: 
+
+Offset: 2031
+Status: 0
+Tamanho: 53
+Próximo: -1
+ID: 45
+Ano: 2004
+Quantidade: 10
+Sigla: 
+Cidade: 
+Marca: FORD
+Modelo: ECOSPORT XLT 1.6L
+Lixo: 
+
+Offset: 2089
+Status: 1
+Tamanho: 46
+Próximo: 8013
+ID: 46
+Ano: 2017
+Quantidade: 15
+Sigla: 
+Cidade: CURITIBA
+Marca: M.BENZ
+Modelo: 
+Lixo: 
+
+Offset: 2140
+Status: 0
+Tamanho: 68
+Próximo: -1
+ID: 47
+Ano: -1
+Quantidade: 16
+Sigla: MA
+Cidade: BARREIRINHAS
+Marca: CHEVROLET
+Modelo: CLASSIC LS
+Lixo: 
+
+Offset: 2213
+Status: 1
+Tamanho: 45
+Próximo: 21184
+ID: 48
+Ano: 2019
+Quantidade: 508
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: CB250F TWISTER CBS
+Lixo: 
+
+Offset: 2263
+Status: 0
+Tamanho: 67
+Próximo: -1
+ID: 49
+Ano: 2004
+Quantidade: 12
+Sigla: 
+Cidade: RIO VERDE
+Marca: FORD
+Modelo: ECOSPORT XLT 1.6L
+Lixo: 
+
+Offset: 2335
+Status: 0
+Tamanho: 71
+Próximo: -1
+ID: 50
+Ano: 2009
+Quantidade: 27
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: HARLEY DAVIDSON
+Modelo: FLSTF
+Lixo: 
+
+Offset: 2411
+Status: 1
+Tamanho: 60
+Próximo: 15625
+ID: 51
+Ano: 2019
+Quantidade: 13
+Sigla: RJ
+Cidade: NOVA IGUACU
+Marca: 
+Modelo: YARIS HB XLS15 AT
+Lixo: 
+
+Offset: 2476
+Status: 0
+Tamanho: 36
+Próximo: -1
+ID: 52
+Ano: 1997
+Quantidade: 11
+Sigla: 
+Cidade: TRES RIOS
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 2517
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 53
+Ano: 2001
+Quantidade: 20
+Sigla: AM
+Cidade: MANACAPURU
+Marca: 
+Modelo: CELTA
+Lixo: 
+
+Offset: 2569
+Status: 0
+Tamanho: 65
+Próximo: -1
+ID: 54
+Ano: 1990
+Quantidade: 11
+Sigla: GO
+Cidade: ANAPOLIS
+Marca: GM
+Modelo: OPALA DIPLOMATA SE
+Lixo: 
+
+Offset: 2639
+Status: 0
+Tamanho: 58
+Próximo: -1
+ID: 55
+Ano: 2001
+Quantidade: 20
+Sigla: RJ
+Cidade: RIO DAS OSTRAS
+Marca: GM
+Modelo: CELTA
+Lixo: 
+
+Offset: 2702
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 56
+Ano: -1
+Quantidade: 18
+Sigla: MG
+Cidade: ITAGUARA
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 2751
+Status: 0
+Tamanho: 52
+Próximo: -1
+ID: 57
+Ano: -1
+Quantidade: 28
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: CG 150 TITAN KS
+Lixo: 
+
+Offset: 2808
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 58
+Ano: -1
+Quantidade: 11
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 2835
+Status: 0
+Tamanho: 60
+Próximo: -1
+ID: 59
+Ano: -1
+Quantidade: 12
+Sigla: RJ
+Cidade: ANGRA DOS REIS
+Marca: 
+Modelo: NOVO FOX TL MA
+Lixo: 
+
+Offset: 2900
+Status: 0
+Tamanho: 67
+Próximo: -1
+ID: 60
+Ano: 1989
+Quantidade: 49
+Sigla: MS
+Cidade: CAMPO GRANDE
+Marca: GM
+Modelo: MONZA CLASSIC SE
+Lixo: 
+
+Offset: 2972
+Status: 0
+Tamanho: 58
+Próximo: -1
+ID: 61
+Ano: 2010
+Quantidade: 431
+Sigla: MG
+Cidade: NOVA SERRANA
+Marca: 
+Modelo: CG 150 FAN ESI
+Lixo: 
+
+Offset: 3035
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 62
+Ano: 2004
+Quantidade: 420
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: CG 150 TITAN KS
+Lixo: 
+
+Offset: 3082
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 63
+Ano: 2012
+Quantidade: 32
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 3109
+Status: 0
+Tamanho: 62
+Próximo: -1
+ID: 64
+Ano: 1987
+Quantidade: 11
+Sigla: 
+Cidade: JABOATAO DOS GUARARAPES
+Marca: 
+Modelo: L 708 E
+Lixo: 
+
+Offset: 3176
+Status: 0
+Tamanho: 33
+Próximo: -1
+ID: 65
+Ano: 1983
+Quantidade: 10
+Sigla: PE
+Cidade: OLINDA
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 3214
+Status: 0
+Tamanho: 35
+Próximo: -1
+ID: 84
+Ano: 2006
+Quantidade: 43
+Sigla: BA
+Cidade: JACOBINA
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 3254
+Status: 1
+Tamanho: 56
+Próximo: 13548
+ID: 100
+Ano: 2021
+Quantidade: 25
+Sigla: AM
+Cidade: MANAUS
+Marca: 
+Modelo: X1 S20I ACTIVEFLEX
+Lixo: 
+
+Offset: 3315
+Status: 0
+Tamanho: 49
+Próximo: -1
+ID: 101
+Ano: 1968
+Quantidade: 19
+Sigla: MG
+Cidade: PERDOES
+Marca: 
+Modelo: FUSCA 1300
+Lixo: 
+
+Offset: 3369
+Status: 0
+Tamanho: 34
+Próximo: -1
+ID: 102
+Ano: 2005
+Quantidade: 23
+Sigla: SE
+Cidade: ARACAJU
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 3408
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 103
+Ano: 2016
+Quantidade: 23
+Sigla: PE
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 3435
+Status: 0
+Tamanho: 62
+Próximo: -1
+ID: 104
+Ano: 2013
+Quantidade: 18
+Sigla: MT
+Cidade: LUCAS DO RIO VERDE
+Marca: 
+Modelo: NOVO GOL 1.6
+Lixo: 
+
+Offset: 3502
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 105
+Ano: 2004
+Quantidade: 28
+Sigla: 
+Cidade: COLNIZA
+Marca: YAMAHA
+Modelo: 
+Lixo: 
+
+Offset: 3552
+Status: 0
+Tamanho: 38
+Próximo: -1
+ID: 106
+Ano: 2016
+Quantidade: 35
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: VERSA 16 SV
+Lixo: 
+
+Offset: 3595
+Status: 0
+Tamanho: 36
+Próximo: -1
+ID: 107
+Ano: 2011
+Quantidade: 10
+Sigla: PR
+Cidade: 
+Marca: CHEVROLET
+Modelo: 
+Lixo: 
+
+Offset: 3636
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 108
+Ano: -1
+Quantidade: 10
+Sigla: MS
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 3663
+Status: 0
+Tamanho: 29
+Próximo: -1
+ID: 109
+Ano: 1974
+Quantidade: 21
+Sigla: PR
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 3697
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 110
+Ano: 1980
+Quantidade: 11
+Sigla: MS
+Cidade: TRES LAGOAS
+Marca: FIAT
+Modelo: 147
+Lixo: 
+
+Offset: 3757
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 111
+Ano: 1994
+Quantidade: 15
+Sigla: MS
+Cidade: CAMPO GRANDE
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 3808
+Status: 0
+Tamanho: 52
+Próximo: -1
+ID: 112
+Ano: 1998
+Quantidade: 281
+Sigla: CE
+Cidade: FORTALEZA
+Marca: 
+Modelo: GOL SPECIAL
+Lixo: 
+
+Offset: 3865
+Status: 0
+Tamanho: 69
+Próximo: -1
+ID: 113
+Ano: 2007
+Quantidade: 11
+Sigla: MA
+Cidade: PACO DO LUMIAR
+Marca: FIAT
+Modelo: PALIO ELX FLEX
+Lixo: 
+
+Offset: 3939
+Status: 0
+Tamanho: 36
+Próximo: -1
+ID: 114
+Ano: -1
+Quantidade: 22
+Sigla: MG
+Cidade: CARATINGA
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 3980
+Status: 0
+Tamanho: 70
+Próximo: -1
+ID: 115
+Ano: -1
+Quantidade: 10
+Sigla: ES
+Cidade: CACHOEIRO DE ITAPEMIRIM
+Marca: VW
+Modelo: POLO 1.6
+Lixo: 
+
+Offset: 4055
+Status: 0
+Tamanho: 38
+Próximo: -1
+ID: 116
+Ano: -1
+Quantidade: 22
+Sigla: RJ
+Cidade: NOVA IGUACU
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 4098
+Status: 0
+Tamanho: 34
+Próximo: -1
+ID: 117
+Ano: 1996
+Quantidade: 10
+Sigla: ES
+Cidade: IBATIBA
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 4137
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 118
+Ano: -1
+Quantidade: 36
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: FUSCA 1500
+Lixo: 
+
+Offset: 4186
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 119
+Ano: 2014
+Quantidade: 18
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: CG 125 FAN ESD
+Lixo: 
+
+Offset: 4242
+Status: 0
+Tamanho: 76
+Próximo: -1
+ID: 120
+Ano: 2014
+Quantidade: 14
+Sigla: 
+Cidade: CACHOEIRO DE ITAPEMIRIM
+Marca: HONDA
+Modelo: FIT CX FLEX
+Lixo: 
+
+Offset: 4323
+Status: 0
+Tamanho: 62
+Próximo: -1
+ID: 121
+Ano: 2015
+Quantidade: 255
+Sigla: 
+Cidade: RIO DE JANEIRO
+Marca: 
+Modelo: PUNTO ATTRACTIVE
+Lixo: 
+
+Offset: 4390
+Status: 0
+Tamanho: 38
+Próximo: -1
+ID: 122
+Ano: 1974
+Quantidade: 12
+Sigla: PR
+Cidade: PIEN
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 4433
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 123
+Ano: 2006
+Quantidade: 19
+Sigla: BA
+Cidade: 
+Marca: GM
+Modelo: ASTRA SEDAN ADVANTAGE
+Lixo: 
+
+Offset: 4493
+Status: 1
+Tamanho: 22
+Próximo: 10112
+ID: 124
+Ano: 2021
+Quantidade: 12
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 4520
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 125
+Ano: 2014
+Quantidade: 252
+Sigla: AC
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 4557
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 126
+Ano: 2013
+Quantidade: 25
+Sigla: BA
+Cidade: BARRA DA ESTIVA
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 4604
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 127
+Ano: -1
+Quantidade: 13
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 4631
+Status: 0
+Tamanho: 67
+Próximo: -1
+ID: 128
+Ano: 2005
+Quantidade: 12
+Sigla: RO
+Cidade: VILHENA
+Marca: FORD
+Modelo: FIESTA SEDAN1.6FLEX
+Lixo: 
+
+Offset: 4703
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 129
+Ano: 1998
+Quantidade: 12
+Sigla: BA
+Cidade: 
+Marca: 
+Modelo: KOMBI
+Lixo: 
+
+Offset: 4740
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 130
+Ano: 2013
+Quantidade: 13
+Sigla: BA
+Cidade: ALAGOINHAS
+Marca: DAFRA
+Modelo: 
+Lixo: 
+
+Offset: 4792
+Status: 0
+Tamanho: 52
+Próximo: -1
+ID: 131
+Ano: 1998
+Quantidade: 26
+Sigla: MG
+Cidade: CORONEL FABRICIANO
+Marca: GM
+Modelo: 
+Lixo: 
+
+Offset: 4849
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 132
+Ano: 2012
+Quantidade: 13
+Sigla: MT
+Cidade: NOVO SAO JOAQUIM
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 4897
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 133
+Ano: 1981
+Quantidade: 10
+Sigla: GO
+Cidade: PIRACANJUBA
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 4947
+Status: 1
+Tamanho: 32
+Próximo: 20578
+ID: 134
+Ano: 2017
+Quantidade: 20
+Sigla: CE
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 4984
+Status: 0
+Tamanho: 41
+Próximo: -1
+ID: 135
+Ano: -1
+Quantidade: 12
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 5030
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 136
+Ano: -1
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: PALIO FIRE
+Lixo: 
+
+Offset: 5081
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 137
+Ano: 1999
+Quantidade: 11
+Sigla: MA
+Cidade: SAO LUIS
+Marca: GM
+Modelo: 
+Lixo: 
+
+Offset: 5128
+Status: 0
+Tamanho: 54
+Próximo: -1
+ID: 138
+Ano: -1
+Quantidade: 20
+Sigla: PA
+Cidade: BELEM
+Marca: FIAT
+Modelo: MAREA SX
+Lixo: 
+
+Offset: 5187
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 139
+Ano: -1
+Quantidade: 23
+Sigla: RN
+Cidade: MACAU
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 5234
+Status: 0
+Tamanho: 53
+Próximo: -1
+ID: 140
+Ano: 2008
+Quantidade: 237
+Sigla: MG
+Cidade: ITAUNA
+Marca: 
+Modelo: CG 150 TITAN KS
+Lixo: 
+
+Offset: 5292
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 141
+Ano: 2003
+Quantidade: 36
+Sigla: ES
+Cidade: CARIACICA
+Marca: YAMAHA
+Modelo: 
+Lixo: 
+
+Offset: 5344
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 142
+Ano: 2013
+Quantidade: 51
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: L200 TRITON HPE D
+Lixo: 
+
+Offset: 5393
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 143
+Ano: -1
+Quantidade: 24
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: CG150 FAN ESDI
+Lixo: 
+
+Offset: 5449
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 144
+Ano: -1
+Quantidade: 50
+Sigla: CE
+Cidade: PENAFORTE
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 5500
+Status: 0
+Tamanho: 60
+Próximo: -1
+ID: 145
+Ano: -1
+Quantidade: 50
+Sigla: MG
+Cidade: IPATINGA
+Marca: HONDA
+Modelo: BIZ 125 ES
+Lixo: 
+
+Offset: 5565
+Status: 0
+Tamanho: 58
+Próximo: -1
+ID: 146
+Ano: -1
+Quantidade: 230
+Sigla: RJ
+Cidade: CAMPOS DOS GOYTACAZES
+Marca: 
+Modelo: FUSCA
+Lixo: 
+
+Offset: 5628
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 147
+Ano: -1
+Quantidade: 229
+Sigla: AM
+Cidade: MANAUS
+Marca: 
+Modelo: GOL CL
+Lixo: 
+
+Offset: 5677
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 148
+Ano: 2011
+Quantidade: 12
+Sigla: PR
+Cidade: QUATIGUA
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 5727
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 149
+Ano: 1997
+Quantidade: 225
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 5754
+Status: 0
+Tamanho: 49
+Próximo: -1
+ID: 150
+Ano: 2007
+Quantidade: 14
+Sigla: GO
+Cidade: 
+Marca: SUNDOWN
+Modelo: HUNTER 100
+Lixo: 
+
+Offset: 5808
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 151
+Ano: -1
+Quantidade: 20
+Sigla: PR
+Cidade: IVATE
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 5845
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 152
+Ano: 1996
+Quantidade: 29
+Sigla: MG
+Cidade: RIO PRETO
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 5893
+Status: 0
+Tamanho: 77
+Próximo: -1
+ID: 183
+Ano: 2003
+Quantidade: 32
+Sigla: MG
+Cidade: SAO JOAO DO PARAISO
+Marca: HONDA
+Modelo: CG 125 TITAN KSE
+Lixo: 
+
+Offset: 5975
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 184
+Ano: 2007
+Quantidade: 13
+Sigla: 
+Cidade: 
+Marca: FORD
+Modelo: FIESTA FLEX
+Lixo: 
+
+Offset: 6027
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 185
+Ano: -1
+Quantidade: 14
+Sigla: MG
+Cidade: 
+Marca: VOLVO
+Modelo: 
+Lixo: 
+
+Offset: 6064
+Status: 0
+Tamanho: 38
+Próximo: -1
+ID: 186
+Ano: 1993
+Quantidade: 32
+Sigla: RJ
+Cidade: MAGE
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 6107
+Status: 0
+Tamanho: 57
+Próximo: -1
+ID: 187
+Ano: 1972
+Quantidade: 198
+Sigla: PR
+Cidade: CASCAVEL
+Marca: VW
+Modelo: FUSCA 1500
+Lixo: 
+
+Offset: 6169
+Status: 0
+Tamanho: 48
+Próximo: -1
+ID: 188
+Ano: 1996
+Quantidade: 12
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: UNO MILLE EP
+Lixo: 
+
+Offset: 6222
+Status: 0
+Tamanho: 41
+Próximo: -1
+ID: 189
+Ano: 1991
+Quantidade: 13
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: SAO CARLOS C-1
+Lixo: 
+
+Offset: 6268
+Status: 0
+Tamanho: 40
+Próximo: -1
+ID: 190
+Ano: 2005
+Quantidade: 10
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: IDEA ELX FLEX
+Lixo: 
+
+Offset: 6313
+Status: 0
+Tamanho: 56
+Próximo: -1
+ID: 191
+Ano: 2008
+Quantidade: 196
+Sigla: ES
+Cidade: VILA VELHA
+Marca: VW
+Modelo: GOL 1.0
+Lixo: 
+
+Offset: 6374
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 192
+Ano: 2016
+Quantidade: 10
+Sigla: CE
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 6411
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 193
+Ano: -1
+Quantidade: 10
+Sigla: GO
+Cidade: 
+Marca: YAMAHA
+Modelo: NMAX
+Lixo: 
+
+Offset: 6458
+Status: 0
+Tamanho: 48
+Próximo: -1
+ID: 194
+Ano: 2007
+Quantidade: 32
+Sigla: 
+Cidade: RIO DE JANEIRO
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 6511
+Status: 0
+Tamanho: 67
+Próximo: -1
+ID: 195
+Ano: -1
+Quantidade: 22
+Sigla: 
+Cidade: PARANATAMA
+Marca: HONDA
+Modelo: CG 150 TITAN KS
+Lixo: 
+
+Offset: 6583
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 196
+Ano: 2012
+Quantidade: 20
+Sigla: PR
+Cidade: SENGES
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 6630
+Status: 0
+Tamanho: 62
+Próximo: -1
+ID: 197
+Ano: 1991
+Quantidade: 42
+Sigla: RJ
+Cidade: CAMPOS DOS GOYTACAZES
+Marca: 
+Modelo: APOLLO GL
+Lixo: 
+
+Offset: 6697
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 198
+Ano: 2008
+Quantidade: 13
+Sigla: AL
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 6734
+Status: 0
+Tamanho: 63
+Próximo: -1
+ID: 199
+Ano: 2016
+Quantidade: 27
+Sigla: RJ
+Cidade: MARICA
+Marca: HONDA
+Modelo: CG 160 FAN ESDI
+Lixo: 
+
+Offset: 6802
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 200
+Ano: 1990
+Quantidade: 19
+Sigla: GO
+Cidade: INHUMAS
+Marca: 
+Modelo: CG 125 TODAY
+Lixo: 
+
+Offset: 6858
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 201
+Ano: 2014
+Quantidade: 22
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 6885
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 202
+Ano: 2007
+Quantidade: 22
+Sigla: GO
+Cidade: ITAGUARI
+Marca: 
+Modelo: GOL 1.0
+Lixo: 
+
+Offset: 6937
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 203
+Ano: -1
+Quantidade: 48
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 6964
+Status: 0
+Tamanho: 39
+Próximo: -1
+ID: 204
+Ano: 2016
+Quantidade: 189
+Sigla: 
+Cidade: CAMPO GRANDE
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 7008
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 205
+Ano: -1
+Quantidade: 23
+Sigla: AM
+Cidade: 
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: 
+
+Offset: 7064
+Status: 0
+Tamanho: 58
+Próximo: -1
+ID: 206
+Ano: 1981
+Quantidade: 44
+Sigla: MT
+Cidade: CUIABA
+Marca: FORD
+Modelo: CORCEL II L
+Lixo: 
+
+Offset: 7127
+Status: 0
+Tamanho: 56
+Próximo: -1
+ID: 207
+Ano: 2006
+Quantidade: 16
+Sigla: RJ
+Cidade: SUMIDOURO
+Marca: 
+Modelo: CG 150 TITAN KS
+Lixo: 
+
+Offset: 7188
+Status: 0
+Tamanho: 63
+Próximo: -1
+ID: 208
+Ano: 2008
+Quantidade: 185
+Sigla: MG
+Cidade: MURIAE
+Marca: HONDA
+Modelo: CG 150 TITAN KS
+Lixo: 
+
+Offset: 7256
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 209
+Ano: 2014
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: NXR150 BROS ESD
+Lixo: 
+
+Offset: 7303
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 210
+Ano: 2012
+Quantidade: 39
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 7330
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 211
+Ano: -1
+Quantidade: 15
+Sigla: GO
+Cidade: 
+Marca: 
+Modelo: CG 150 TITAN EX
+Lixo: 
+
+Offset: 7377
+Status: 0
+Tamanho: 60
+Próximo: -1
+ID: 212
+Ano: -1
+Quantidade: 183
+Sigla: CE
+Cidade: FORTALEZA
+Marca: 
+Modelo: RENEGADE LNGTD AT D
+Lixo: 
+
+Offset: 7442
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 213
+Ano: -1
+Quantidade: 22
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: 
+
+Offset: 7498
+Status: 0
+Tamanho: 72
+Próximo: -1
+ID: 214
+Ano: -1
+Quantidade: 10
+Sigla: MG
+Cidade: CONSELHEIRO LAFAIETE
+Marca: YAMAHA
+Modelo: YBR 125ED
+Lixo: 
+
+Offset: 7575
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 240
+Ano: 2008
+Quantidade: 27
+Sigla: 
+Cidade: URUARA
+Marca: 
+Modelo: GOL 1.0
+Lixo: 
+
+Offset: 7625
+Status: 0
+Tamanho: 64
+Próximo: -1
+ID: 241
+Ano: 2009
+Quantidade: 169
+Sigla: 
+Cidade: GOIANIA
+Marca: FIAT
+Modelo: STRADA FIRE FLEX
+Lixo: 
+
+Offset: 7694
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 242
+Ano: 2007
+Quantidade: 26
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 7731
+Status: 0
+Tamanho: 36
+Próximo: -1
+ID: 243
+Ano: 1973
+Quantidade: 12
+Sigla: RJ
+Cidade: PARACAMBI
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 7772
+Status: 0
+Tamanho: 69
+Próximo: -1
+ID: 244
+Ano: -1
+Quantidade: 31
+Sigla: AL
+Cidade: DOIS RIACHOS
+Marca: HONDA
+Modelo: CG 125 TITAN KS
+Lixo: 
+
+Offset: 7846
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 245
+Ano: 2001
+Quantidade: 13
+Sigla: MA
+Cidade: BOM JARDIM
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 7898
+Status: 0
+Tamanho: 50
+Próximo: -1
+ID: 246
+Ano: 2015
+Quantidade: 19
+Sigla: RJ
+Cidade: RIO DAS OSTRAS
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 7953
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 247
+Ano: -1
+Quantidade: 22
+Sigla: 
+Cidade: MARABA
+Marca: TRAXX
+Modelo: JL50 Q2
+Lixo: 
+
+Offset: 8013
+Status: 1
+Tamanho: 45
+Próximo: 2213
+ID: 248
+Ano: 2021
+Quantidade: 48
+Sigla: RN
+Cidade: 
+Marca: FIAT
+Modelo: SIENA 1.4
+Lixo: 
+
+Offset: 8063
+Status: 0
+Tamanho: 31
+Próximo: -1
+ID: 249
+Ano: 2016
+Quantidade: 11
+Sigla: PR
+Cidade: 
+Marca: FORD
+Modelo: 
+Lixo: 
+
+Offset: 8099
+Status: 0
+Tamanho: 65
+Próximo: -1
+ID: 250
+Ano: -1
+Quantidade: 11
+Sigla: GO
+Cidade: GOIANIA
+Marca: PEUGEOT
+Modelo: 206SW 16FE FXA
+Lixo: 
+
+Offset: 8169
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 251
+Ano: 1973
+Quantidade: 17
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 8196
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 252
+Ano: 2006
+Quantidade: 20
+Sigla: MA
+Cidade: IMPERATRIZ
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 8245
+Status: 0
+Tamanho: 50
+Próximo: -1
+ID: 253
+Ano: 1994
+Quantidade: 13
+Sigla: DF
+Cidade: BRASILIA
+Marca: 
+Modelo: GOL FURGAO
+Lixo: 
+
+Offset: 8300
+Status: 0
+Tamanho: 40
+Próximo: -1
+ID: 254
+Ano: 2016
+Quantidade: 13
+Sigla: 
+Cidade: UNAI
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 8345
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 333
+Ano: 2006
+Quantidade: 18
+Sigla: RJ
+Cidade: NITEROI
+Marca: 
+Modelo: ECOSPORT XLT
+Lixo: 
+
+Offset: 8401
+Status: 0
+Tamanho: 54
+Próximo: -1
+ID: 334
+Ano: 2008
+Quantidade: 41
+Sigla: PR
+Cidade: CASCAVEL
+Marca: 
+Modelo: POLO SEDAN 1.6
+Lixo: 
+
+Offset: 8460
+Status: 0
+Tamanho: 48
+Próximo: -1
+ID: 335
+Ano: -1
+Quantidade: 30
+Sigla: BA
+Cidade: 
+Marca: FORD
+Modelo: CARGO 1517 E
+Lixo: 
+
+Offset: 8513
+Status: 0
+Tamanho: 58
+Próximo: -1
+ID: 336
+Ano: 1996
+Quantidade: 17
+Sigla: AL
+Cidade: ARAPIRACA
+Marca: FIAT
+Modelo: PALIO EL
+Lixo: 
+
+Offset: 8576
+Status: 0
+Tamanho: 31
+Próximo: -1
+ID: 337
+Ano: -1
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 8612
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 338
+Ano: 2012
+Quantidade: 12
+Sigla: PR
+Cidade: IRATI
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 8659
+Status: 0
+Tamanho: 53
+Próximo: -1
+ID: 339
+Ano: 2014
+Quantidade: 13
+Sigla: 
+Cidade: LAURO DE FREITAS
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 8717
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 340
+Ano: -1
+Quantidade: 11
+Sigla: PI
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 8744
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 341
+Ano: 2007
+Quantidade: 30
+Sigla: 
+Cidade: BELO HORIZONTE
+Marca: 
+Modelo: PUNTO 1.4
+Lixo: 
+
+Offset: 8804
+Status: 0
+Tamanho: 68
+Próximo: -1
+ID: 342
+Ano: -1
+Quantidade: 26
+Sigla: BA
+Cidade: BARREIRAS
+Marca: FIAT
+Modelo: UNO ATTRACTIVE 1.0
+Lixo: 
+
+Offset: 8877
+Status: 0
+Tamanho: 29
+Próximo: -1
+ID: 343
+Ano: 2001
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 8911
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 344
+Ano: 1989
+Quantidade: 10
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 8938
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 345
+Ano: -1
+Quantidade: 10
+Sigla: PE
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 8975
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 346
+Ano: 2006
+Quantidade: 16
+Sigla: MS
+Cidade: AQUIDAUANA
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 9026
+Status: 0
+Tamanho: 49
+Próximo: -1
+ID: 347
+Ano: 1993
+Quantidade: 22
+Sigla: PR
+Cidade: CAMBE
+Marca: 
+Modelo: CG 125 TODAY
+Lixo: 
+
+Offset: 9080
+Status: 0
+Tamanho: 62
+Próximo: -1
+ID: 348
+Ano: 1977
+Quantidade: 11
+Sigla: MG
+Cidade: CARMO DO CAJURU
+Marca: VW
+Modelo: BRASILIA
+Lixo: 
+
+Offset: 9147
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 349
+Ano: -1
+Quantidade: 10
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 9174
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 350
+Ano: 2003
+Quantidade: 35
+Sigla: 
+Cidade: 
+Marca: GM
+Modelo: CORSA CLASSIC
+Lixo: 
+
+Offset: 9226
+Status: 1
+Tamanho: 31
+Próximo: 10227
+ID: 351
+Ano: 2018
+Quantidade: 128
+Sigla: SE
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 9262
+Status: 0
+Tamanho: 56
+Próximo: -1
+ID: 352
+Ano: 1984
+Quantidade: 10
+Sigla: MG
+Cidade: GOVERNADOR VALADARES
+Marca: FORD
+Modelo: 
+Lixo: 
+
+Offset: 9323
+Status: 0
+Tamanho: 70
+Próximo: -1
+ID: 353
+Ano: 2005
+Quantidade: 20
+Sigla: ES
+Cidade: MIMOSO DO SUL
+Marca: HONDA
+Modelo: CG 150 TITAN KS
+Lixo: 
+
+Offset: 9398
+Status: 0
+Tamanho: 41
+Próximo: -1
+ID: 354
+Ano: 2016
+Quantidade: 127
+Sigla: DF
+Cidade: 
+Marca: 
+Modelo: VERSA 16SV CVT
+Lixo: 
+
+Offset: 9444
+Status: 0
+Tamanho: 76
+Próximo: -1
+ID: 355
+Ano: -1
+Quantidade: 10
+Sigla: ES
+Cidade: DIVINO DE SAO LOURENCO
+Marca: HONDA
+Modelo: CG 125 TITAN
+Lixo: 
+
+Offset: 9525
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 356
+Ano: 2010
+Quantidade: 12
+Sigla: CE
+Cidade: 
+Marca: HONDA
+Modelo: NXR150 BROS MIX ES
+Lixo: 
+
+Offset: 9585
+Status: 0
+Tamanho: 73
+Próximo: -1
+ID: 357
+Ano: 2005
+Quantidade: 31
+Sigla: PE
+Cidade: AFOGADOS DA INGAZEIRA
+Marca: HONDA
+Modelo: CG 125 FAN
+Lixo: 
+
+Offset: 9663
+Status: 0
+Tamanho: 48
+Próximo: -1
+ID: 358
+Ano: 2007
+Quantidade: 125
+Sigla: 
+Cidade: CAMPOS DOS GOYTACAZES
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 9716
+Status: 0
+Tamanho: 41
+Próximo: -1
+ID: 359
+Ano: 2013
+Quantidade: 16
+Sigla: MG
+Cidade: UNAI
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 9762
+Status: 0
+Tamanho: 33
+Próximo: -1
+ID: 360
+Ano: 2001
+Quantidade: 24
+Sigla: MG
+Cidade: 
+Marca: YAMAHA
+Modelo: 
+Lixo: 
+
+Offset: 9800
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 361
+Ano: 2008
+Quantidade: 15
+Sigla: GO
+Cidade: 
+Marca: FORD
+Modelo: FIESTA 1.6 FLEX
+Lixo: 
+
+Offset: 9856
+Status: 0
+Tamanho: 38
+Próximo: -1
+ID: 362
+Ano: -1
+Quantidade: 23
+Sigla: PE
+Cidade: 
+Marca: 
+Modelo: CELTA 1L LS
+Lixo: 
+
+Offset: 9899
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 363
+Ano: 2007
+Quantidade: 32
+Sigla: CE
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 9936
+Status: 0
+Tamanho: 54
+Próximo: -1
+ID: 364
+Ano: -1
+Quantidade: 15
+Sigla: MG
+Cidade: CONSELHEIRO LAFAIETE
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 9995
+Status: 0
+Tamanho: 73
+Próximo: -1
+ID: 365
+Ano: 2008
+Quantidade: 13
+Sigla: BA
+Cidade: RIACHO DE SANTANA
+Marca: JTA
+Modelo: SUZUKI EN125 YES
+Lixo: 
+
+Offset: 10073
+Status: 0
+Tamanho: 34
+Próximo: -1
+ID: 366
+Ano: 2012
+Quantidade: 29
+Sigla: 
+Cidade: MOSSORO
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 10112
+Status: 1
+Tamanho: 22
+Próximo: 15918
+ID: 367
+Ano: 2020
+Quantidade: 11
+Sigla: MS
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 10139
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 368
+Ano: 2016
+Quantidade: 28
+Sigla: 
+Cidade: SERRA
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 10176
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 369
+Ano: 2002
+Quantidade: 123
+Sigla: MS
+Cidade: 
+Marca: SR
+Modelo: RANDON SR CA
+Lixo: 
+
+Offset: 10227
+Status: 1
+Tamanho: 22
+Próximo: 4493
+ID: 370
+Ano: 2021
+Quantidade: 20
+Sigla: RO
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 10254
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 371
+Ano: 1981
+Quantidade: 122
+Sigla: AM
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 10281
+Status: 1
+Tamanho: 22
+Próximo: -1
+ID: 372
+Ano: 2017
+Quantidade: 11
+Sigla: PE
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 10308
+Status: 0
+Tamanho: 66
+Próximo: -1
+ID: 395
+Ano: 2005
+Quantidade: 26
+Sigla: MA
+Cidade: SAO DOMINGOS DO MARANHAO
+Marca: 
+Modelo: CG 125 FAN
+Lixo: 
+
+Offset: 10379
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 396
+Ano: 2004
+Quantidade: 20
+Sigla: CE
+Cidade: ARACATI
+Marca: 
+Modelo: GOL 1.0
+Lixo: 
+
+Offset: 10430
+Status: 0
+Tamanho: 79
+Próximo: -1
+ID: 397
+Ano: 2005
+Quantidade: 10
+Sigla: 
+Cidade: ALMIRANTE TAMANDARE
+Marca: GM
+Modelo: ASTRA HB 2P ADVANTAGE
+Lixo: 
+
+Offset: 10514
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 398
+Ano: 2010
+Quantidade: 21
+Sigla: PR
+Cidade: LONDRINA
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 10564
+Status: 0
+Tamanho: 35
+Próximo: -1
+ID: 399
+Ano: 1983
+Quantidade: 11
+Sigla: BA
+Cidade: CANDEIAS
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 10604
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 400
+Ano: 2006
+Quantidade: 24
+Sigla: CE
+Cidade: ITAPIPOCA
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 10652
+Status: 0
+Tamanho: 40
+Próximo: -1
+ID: 401
+Ano: 1983
+Quantidade: 115
+Sigla: RJ
+Cidade: 
+Marca: VW
+Modelo: VOYAGE
+Lixo: 
+
+Offset: 10697
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 402
+Ano: 2009
+Quantidade: 19
+Sigla: GO
+Cidade: 
+Marca: HONDA
+Modelo: CG150 TITAN MIX EX
+Lixo: 
+
+Offset: 10757
+Status: 0
+Tamanho: 49
+Próximo: -1
+ID: 403
+Ano: -1
+Quantidade: 15
+Sigla: MG
+Cidade: JUIZ DE FORA
+Marca: DODGE
+Modelo: 
+Lixo: 
+
+Offset: 10811
+Status: 0
+Tamanho: 50
+Próximo: -1
+ID: 425
+Ano: 1983
+Quantidade: 24
+Sigla: MG
+Cidade: BETIM
+Marca: VW
+Modelo: PARATI
+Lixo: 
+
+Offset: 10866
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 426
+Ano: -1
+Quantidade: 29
+Sigla: MA
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 10903
+Status: 1
+Tamanho: 61
+Próximo: 17420
+ID: 427
+Ano: 2018
+Quantidade: 13
+Sigla: RJ
+Cidade: ANGRA DOS REIS
+Marca: YAMAHA
+Modelo: NMAX
+Lixo: 
+
+Offset: 10969
+Status: 0
+Tamanho: 52
+Próximo: -1
+ID: 428
+Ano: 2014
+Quantidade: 15
+Sigla: RJ
+Cidade: 
+Marca: CHEVROLET
+Modelo: CRUZE LT NB
+Lixo: 
+
+Offset: 11026
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 429
+Ano: 2001
+Quantidade: 27
+Sigla: GO
+Cidade: 
+Marca: M.BENZ
+Modelo: A 160
+Lixo: 
+
+Offset: 11074
+Status: 1
+Tamanho: 66
+Próximo: 217
+ID: 430
+Ano: 2017
+Quantidade: 110
+Sigla: GO
+Cidade: RIO VERDE
+Marca: HONDA
+Modelo: CG 160 FAN ESDI
+Lixo: 
+
+Offset: 11145
+Status: 0
+Tamanho: 31
+Próximo: -1
+ID: 431
+Ano: -1
+Quantidade: 25
+Sigla: CE
+Cidade: 
+Marca: FORD
+Modelo: 
+Lixo: 
+
+Offset: 11181
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 432
+Ano: 1988
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: YAMAHA
+Modelo: DT 180 Z
+Lixo: 
+
+Offset: 11232
+Status: 0
+Tamanho: 49
+Próximo: -1
+ID: 433
+Ano: 1998
+Quantidade: 110
+Sigla: RO
+Cidade: 
+Marca: HONDA
+Modelo: CG 125 TITAN
+Lixo: 
+
+Offset: 11286
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 434
+Ano: -1
+Quantidade: 25
+Sigla: RJ
+Cidade: SAO GONCALO
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 11336
+Status: 0
+Tamanho: 36
+Próximo: -1
+ID: 435
+Ano: 1983
+Quantidade: 17
+Sigla: MG
+Cidade: PARAGUACU
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 11377
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 436
+Ano: 2006
+Quantidade: 34
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: CORSA HATCH MAXX
+Lixo: 
+
+Offset: 11425
+Status: 0
+Tamanho: 40
+Próximo: -1
+ID: 437
+Ano: 2009
+Quantidade: 13
+Sigla: PE
+Cidade: BONITO
+Marca: GM
+Modelo: 
+Lixo: 
+
+Offset: 11470
+Status: 0
+Tamanho: 40
+Próximo: -1
+ID: 438
+Ano: 2011
+Quantidade: 37
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 207PASSION XR
+Lixo: 
+
+Offset: 11515
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 439
+Ano: 2004
+Quantidade: 21
+Sigla: PR
+Cidade: 
+Marca: GM
+Modelo: VECTRA EXPRESSION
+Lixo: 
+
+Offset: 11571
+Status: 0
+Tamanho: 79
+Próximo: -1
+ID: 440
+Ano: -1
+Quantidade: 10
+Sigla: 
+Cidade: TEIXEIRA DE FREITAS
+Marca: CHEVROLET
+Modelo: ONIX 1.4AT LTZ
+Lixo: 
+
+Offset: 11655
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 441
+Ano: 1992
+Quantidade: 36
+Sigla: 
+Cidade: CONTAGEM
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 11702
+Status: 0
+Tamanho: 69
+Próximo: -1
+ID: 442
+Ano: 2000
+Quantidade: 108
+Sigla: CE
+Cidade: CAMPOS SALES
+Marca: HONDA
+Modelo: CG 125 TITAN KS
+Lixo: 
+
+Offset: 11776
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 443
+Ano: 2012
+Quantidade: 108
+Sigla: 
+Cidade: LAGARTO
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 11825
+Status: 0
+Tamanho: 57
+Próximo: -1
+ID: 444
+Ano: 2014
+Quantidade: 18
+Sigla: ES
+Cidade: CACHOEIRO DE ITAPEMIRIM
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 11887
+Status: 0
+Tamanho: 38
+Próximo: -1
+ID: 445
+Ano: -1
+Quantidade: 107
+Sigla: PI
+Cidade: AGUA BRANCA
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 11930
+Status: 0
+Tamanho: 56
+Próximo: -1
+ID: 446
+Ano: -1
+Quantidade: 107
+Sigla: MA
+Cidade: CODO
+Marca: HONDA
+Modelo: BIZ 100 ES
+Lixo: 
+
+Offset: 11991
+Status: 0
+Tamanho: 56
+Próximo: -1
+ID: 447
+Ano: 1996
+Quantidade: 17
+Sigla: GO
+Cidade: NOVO GAMA
+Marca: GM
+Modelo: CORSA GL
+Lixo: 
+
+Offset: 12052
+Status: 0
+Tamanho: 63
+Próximo: -1
+ID: 448
+Ano: 2004
+Quantidade: 14
+Sigla: 
+Cidade: MONTE ALEGRE
+Marca: FIAT
+Modelo: PALIO FIRE
+Lixo: 
+
+Offset: 12120
+Status: 0
+Tamanho: 52
+Próximo: -1
+ID: 449
+Ano: -1
+Quantidade: 25
+Sigla: CE
+Cidade: PENTECOSTE
+Marca: 
+Modelo: BIZ 125 KS
+Lixo: 
+
+Offset: 12177
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 450
+Ano: 2006
+Quantidade: 37
+Sigla: RN
+Cidade: 
+Marca: 
+Modelo: NXR150 BROS ESD
+Lixo: 
+
+Offset: 12224
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 451
+Ano: -1
+Quantidade: 32
+Sigla: 
+Cidade: CORUMBA
+Marca: FORD
+Modelo: KA FLEX
+Lixo: 
+
+Offset: 12284
+Status: 1
+Tamanho: 48
+Próximo: 1369
+ID: 452
+Ano: 2021
+Quantidade: 32
+Sigla: 
+Cidade: WENCESLAU BRAZ
+Marca: SR
+Modelo: 
+Lixo: 
+
+Offset: 12337
+Status: 0
+Tamanho: 80
+Próximo: -1
+ID: 453
+Ano: 2012
+Quantidade: 12
+Sigla: MG
+Cidade: SANTO ANTONIO DO MONTE
+Marca: FIAT
+Modelo: SIENA EL 1.4 FLEX
+Lixo: 
+
+Offset: 12422
+Status: 0
+Tamanho: 54
+Próximo: -1
+ID: 454
+Ano: -1
+Quantidade: 104
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: PALIO FIRE ECONOMY
+Lixo: 
+
+Offset: 12481
+Status: 0
+Tamanho: 34
+Próximo: -1
+ID: 455
+Ano: 2007
+Quantidade: 10
+Sigla: 
+Cidade: CASTELO
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 12520
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 456
+Ano: 1982
+Quantidade: 104
+Sigla: MS
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 12557
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 457
+Ano: 2000
+Quantidade: 104
+Sigla: 
+Cidade: PETROLINA
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 12608
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 507
+Ano: -1
+Quantidade: 20
+Sigla: PA
+Cidade: 
+Marca: VW
+Modelo: POLO MCA
+Lixo: 
+
+Offset: 12655
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 508
+Ano: 2015
+Quantidade: 10
+Sigla: PE
+Cidade: 
+Marca: HONDA
+Modelo: POP100
+Lixo: 
+
+Offset: 12703
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 509
+Ano: 1980
+Quantidade: 28
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: VARIANT II
+Lixo: 
+
+Offset: 12752
+Status: 0
+Tamanho: 35
+Próximo: -1
+ID: 510
+Ano: 2000
+Quantidade: 10
+Sigla: 
+Cidade: COLORADO
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 12792
+Status: 0
+Tamanho: 41
+Próximo: -1
+ID: 511
+Ano: 2006
+Quantidade: 10
+Sigla: MG
+Cidade: 
+Marca: VW
+Modelo: FOX 1.0
+Lixo: 
+
+Offset: 12838
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 512
+Ano: -1
+Quantidade: 21
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: 
+
+Offset: 12894
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 513
+Ano: -1
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 12921
+Status: 1
+Tamanho: 52
+Próximo: 18940
+ID: 514
+Ano: 2021
+Quantidade: 34
+Sigla: GO
+Cidade: GOIANIA
+Marca: 
+Modelo: RENEGADE MOAB
+Lixo: 
+
+Offset: 12978
+Status: 0
+Tamanho: 48
+Próximo: -1
+ID: 515
+Ano: 2016
+Quantidade: 21
+Sigla: RN
+Cidade: CEARA-MIRIM
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 13031
+Status: 0
+Tamanho: 61
+Próximo: -1
+ID: 516
+Ano: 2006
+Quantidade: 92
+Sigla: 
+Cidade: APARECIDA DE GOIANIA
+Marca: 
+Modelo: HUNTER 90
+Lixo: 
+
+Offset: 13097
+Status: 0
+Tamanho: 49
+Próximo: -1
+ID: 517
+Ano: -1
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: NXR 160 BROS
+Lixo: 
+
+Offset: 13151
+Status: 0
+Tamanho: 41
+Próximo: -1
+ID: 518
+Ano: 2013
+Quantidade: 19
+Sigla: MA
+Cidade: 
+Marca: 
+Modelo: CG 125 FAN ESD
+Lixo: 
+
+Offset: 13197
+Status: 0
+Tamanho: 66
+Próximo: -1
+ID: 519
+Ano: 2009
+Quantidade: 32
+Sigla: MS
+Cidade: CORUMBA
+Marca: FIAT
+Modelo: PALIO FIRE ECONOMY
+Lixo: 
+
+Offset: 13268
+Status: 0
+Tamanho: 35
+Próximo: -1
+ID: 520
+Ano: 2011
+Quantidade: 13
+Sigla: 
+Cidade: ILICINEA
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 13308
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 521
+Ano: -1
+Quantidade: 16
+Sigla: CE
+Cidade: FORTALEZA
+Marca: 
+Modelo: HERCULES C
+Lixo: 
+
+Offset: 13364
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 522
+Ano: 2010
+Quantidade: 11
+Sigla: PR
+Cidade: SARANDI
+Marca: TOYOTA
+Modelo: 
+Lixo: 
+
+Offset: 13414
+Status: 0
+Tamanho: 33
+Próximo: -1
+ID: 523
+Ano: 1983
+Quantidade: 10
+Sigla: MG
+Cidade: PIUMHI
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 13452
+Status: 0
+Tamanho: 53
+Próximo: -1
+ID: 524
+Ano: 2012
+Quantidade: 91
+Sigla: PA
+Cidade: JACUNDA
+Marca: 
+Modelo: NXR150 BROS ES
+Lixo: 
+
+Offset: 13510
+Status: 1
+Tamanho: 33
+Próximo: 16281
+ID: 525
+Ano: 2018
+Quantidade: 11
+Sigla: PE
+Cidade: MANARI
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 13548
+Status: 1
+Tamanho: 56
+Próximo: 20945
+ID: 526
+Ano: 2017
+Quantidade: 24
+Sigla: PR
+Cidade: SAO JOSE DOS PINHAIS
+Marca: JEEP
+Modelo: 
+Lixo: 
+
+Offset: 13609
+Status: 0
+Tamanho: 49
+Próximo: -1
+ID: 527
+Ano: 1998
+Quantidade: 90
+Sigla: PE
+Cidade: 
+Marca: HONDA
+Modelo: CG 125 CARGO
+Lixo: 
+
+Offset: 13663
+Status: 0
+Tamanho: 39
+Próximo: -1
+ID: 528
+Ano: 2013
+Quantidade: 90
+Sigla: GO
+Cidade: CALDAS NOVAS
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 13707
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 529
+Ano: 2013
+Quantidade: 16
+Sigla: 
+Cidade: TORITAMA
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 13754
+Status: 0
+Tamanho: 40
+Próximo: -1
+ID: 530
+Ano: 2015
+Quantidade: 10
+Sigla: ES
+Cidade: 
+Marca: 
+Modelo: KA SEL 1.5 SD
+Lixo: 
+
+Offset: 13799
+Status: 1
+Tamanho: 64
+Próximo: 17934
+ID: 531
+Ano: 2019
+Quantidade: 13
+Sigla: 
+Cidade: SALVADOR
+Marca: MAN
+Modelo: TGX 29.480 6X4 T
+Lixo: 
+
+Offset: 13868
+Status: 0
+Tamanho: 69
+Próximo: -1
+ID: 532
+Ano: 1985
+Quantidade: 38
+Sigla: PR
+Cidade: SAO JOSE DOS PINHAIS
+Marca: VW
+Modelo: FUSCA 1600
+Lixo: 
+
+Offset: 13942
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 533
+Ano: 2011
+Quantidade: 89
+Sigla: PR
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 13979
+Status: 0
+Tamanho: 57
+Próximo: -1
+ID: 534
+Ano: 2011
+Quantidade: 89
+Sigla: MG
+Cidade: DIVINOPOLIS
+Marca: 
+Modelo: UNO VIVACE 1.0
+Lixo: 
+
+Offset: 14041
+Status: 1
+Tamanho: 34
+Próximo: 13510
+ID: 535
+Ano: 2019
+Quantidade: 10
+Sigla: MG
+Cidade: 
+Marca: HYUNDAI
+Modelo: 
+Lixo: 
+
+Offset: 14080
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 536
+Ano: 2003
+Quantidade: 11
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 14107
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 537
+Ano: -1
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: XR 200R
+Lixo: 
+
+Offset: 14156
+Status: 0
+Tamanho: 33
+Próximo: -1
+ID: 549
+Ano: 2015
+Quantidade: 32
+Sigla: MG
+Cidade: 
+Marca: YAMAHA
+Modelo: 
+Lixo: 
+
+Offset: 14194
+Status: 0
+Tamanho: 35
+Próximo: -1
+ID: 550
+Ano: -1
+Quantidade: 10
+Sigla: 
+Cidade: ANDRADAS
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 14234
+Status: 0
+Tamanho: 62
+Próximo: -1
+ID: 551
+Ano: 1996
+Quantidade: 20
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: 
+Modelo: FORD VERONA 2I S
+Lixo: 
+
+Offset: 14301
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 552
+Ano: 1991
+Quantidade: 17
+Sigla: PR
+Cidade: CURITIBA
+Marca: GM
+Modelo: 
+Lixo: 
+
+Offset: 14348
+Status: 0
+Tamanho: 70
+Próximo: -1
+ID: 553
+Ano: 1985
+Quantidade: 14
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: GM
+Modelo: CHEVETTE HATCH SL
+Lixo: 
+
+Offset: 14423
+Status: 0
+Tamanho: 29
+Próximo: -1
+ID: 554
+Ano: 2011
+Quantidade: 49
+Sigla: AC
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 14457
+Status: 0
+Tamanho: 41
+Próximo: -1
+ID: 555
+Ano: -1
+Quantidade: 25
+Sigla: 
+Cidade: BETIM
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 14503
+Status: 0
+Tamanho: 54
+Próximo: -1
+ID: 556
+Ano: -1
+Quantidade: 15
+Sigla: BA
+Cidade: BOTUPORA
+Marca: VW
+Modelo: GOL 1.0
+Lixo: 
+
+Offset: 14562
+Status: 0
+Tamanho: 38
+Próximo: -1
+ID: 557
+Ano: 2015
+Quantidade: 10
+Sigla: PI
+Cidade: ITAINOPOLIS
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 14605
+Status: 0
+Tamanho: 31
+Próximo: -1
+ID: 558
+Ano: 1998
+Quantidade: 13
+Sigla: PE
+Cidade: 
+Marca: FORD
+Modelo: 
+Lixo: 
+
+Offset: 14641
+Status: 0
+Tamanho: 64
+Próximo: -1
+ID: 559
+Ano: -1
+Quantidade: 21
+Sigla: MG
+Cidade: JAPONVAR
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: 
+
+Offset: 14710
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 560
+Ano: -1
+Quantidade: 14
+Sigla: MG
+Cidade: JUATUBA
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 14759
+Status: 0
+Tamanho: 49
+Próximo: -1
+ID: 561
+Ano: 2007
+Quantidade: 10
+Sigla: CE
+Cidade: HORIZONTE
+Marca: 
+Modelo: CROSSFOX
+Lixo: 
+
+Offset: 14813
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 562
+Ano: 2015
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: NXR160 BROS ESDD
+Lixo: 
+
+Offset: 14861
+Status: 1
+Tamanho: 22
+Próximo: 10281
+ID: 563
+Ano: 2018
+Quantidade: 26
+Sigla: RO
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 14888
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 564
+Ano: 1978
+Quantidade: 27
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 14915
+Status: 0
+Tamanho: 34
+Próximo: -1
+ID: 565
+Ano: 2007
+Quantidade: 87
+Sigla: RR
+Cidade: 
+Marca: SUNDOWN
+Modelo: 
+Lixo: 
+
+Offset: 14954
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 566
+Ano: 2012
+Quantidade: 17
+Sigla: MG
+Cidade: 
+Marca: VW
+Modelo: NOVO GOL 1.6
+Lixo: 
+
+Offset: 15005
+Status: 0
+Tamanho: 67
+Próximo: -1
+ID: 851
+Ano: 1997
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: UNO MILLE SX
+Lixo: $$$$$$$$$$$$$$$$$$$
+
+Offset: 15077
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 568
+Ano: 2007
+Quantidade: 18
+Sigla: ES
+Cidade: VILA VELHA
+Marca: 
+Modelo: YBR 125ED
+Lixo: 
+
+Offset: 15133
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 583
+Ano: -1
+Quantidade: 10
+Sigla: RO
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 15170
+Status: 0
+Tamanho: 56
+Próximo: -1
+ID: 584
+Ano: 1984
+Quantidade: 24
+Sigla: 
+Cidade: ITUMBIARA
+Marca: GM
+Modelo: CHEVETTE
+Lixo: 
+
+Offset: 15231
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 585
+Ano: 2005
+Quantidade: 16
+Sigla: AP
+Cidade: 
+Marca: HONDA
+Modelo: NXR150 BROS KS
+Lixo: 
+
+Offset: 15287
+Status: 1
+Tamanho: 54
+Próximo: 15689
+ID: 586
+Ano: 2018
+Quantidade: 83
+Sigla: AL
+Cidade: MACEIO
+Marca: 
+Modelo: CAPTUR LIFE 16 A
+Lixo: 
+
+Offset: 15346
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 587
+Ano: 2008
+Quantidade: 21
+Sigla: BA
+Cidade: SALVADOR
+Marca: PEUGEOT
+Modelo: 
+Lixo: 
+
+Offset: 15398
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 588
+Ano: 1999
+Quantidade: 34
+Sigla: BA
+Cidade: 
+Marca: GM
+Modelo: ASTRA GLS
+Lixo: 
+
+Offset: 15446
+Status: 1
+Tamanho: 47
+Próximo: 25178
+ID: 589
+Ano: 2017
+Quantidade: 83
+Sigla: 
+Cidade: SAO MATEUS
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 15498
+Status: 0
+Tamanho: 72
+Próximo: -1
+ID: 783
+Ano: 2008
+Quantidade: 31
+Sigla: MS
+Cidade: 
+Marca: GM
+Modelo: ASTRA HB 4P ADVANTAGE
+Lixo: $$$$$$$$$$$$$$$$$
+
+Offset: 15575
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 591
+Ano: 2013
+Quantidade: 31
+Sigla: AP
+Cidade: 
+Marca: HYUNDAI
+Modelo: HR HDB
+Lixo: 
+
+Offset: 15625
+Status: 1
+Tamanho: 59
+Próximo: 3254
+ID: 677
+Ano: 2018
+Quantidade: 20
+Sigla: MG
+Cidade: JUIZ DE FORA
+Marca: 
+Modelo: COMPASS SPORT F
+Lixo: 
+
+Offset: 15689
+Status: 1
+Tamanho: 53
+Próximo: 16028
+ID: 678
+Ano: 2020
+Quantidade: 14
+Sigla: 
+Cidade: IBIRITE
+Marca: 
+Modelo: CG 160 TITAN S
+Lixo: 
+
+Offset: 15747
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 679
+Ano: 2001
+Quantidade: 21
+Sigla: BA
+Cidade: VITORIA DA CONQUISTA
+Marca: JTA
+Modelo: 
+Lixo: 
+
+Offset: 15807
+Status: 0
+Tamanho: 53
+Próximo: -1
+ID: 680
+Ano: 2009
+Quantidade: 10
+Sigla: 
+Cidade: CRUZ DAS ALMAS
+Marca: 
+Modelo: CB 300R
+Lixo: 
+
+Offset: 15865
+Status: 0
+Tamanho: 48
+Próximo: -1
+ID: 681
+Ano: 2010
+Quantidade: 26
+Sigla: 
+Cidade: UBA
+Marca: 
+Modelo: CELTA 2P LIFE
+Lixo: 
+
+Offset: 15918
+Status: 1
+Tamanho: 22
+Próximo: 14861
+ID: 682
+Ano: 2018
+Quantidade: 12
+Sigla: MA
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 15945
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 683
+Ano: 2003
+Quantidade: 17
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 15972
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 684
+Ano: 2014
+Quantidade: 11
+Sigla: MT
+Cidade: 
+Marca: HONDA
+Modelo: CG150 FAN ESDI
+Lixo: 
+
+Offset: 16028
+Status: 1
+Tamanho: 53
+Próximo: 12921
+ID: 685
+Ano: 2019
+Quantidade: 27
+Sigla: BA
+Cidade: 
+Marca: YAMAHA
+Modelo: YS150 FAZER SED
+Lixo: 
+
+Offset: 16086
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 686
+Ano: 2010
+Quantidade: 72
+Sigla: RJ
+Cidade: NOVA IGUACU
+Marca: GM
+Modelo: 
+Lixo: 
+
+Offset: 16136
+Status: 0
+Tamanho: 34
+Próximo: -1
+ID: 687
+Ano: -1
+Quantidade: 15
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: BIZ 125
+Lixo: 
+
+Offset: 16175
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 688
+Ano: 1998
+Quantidade: 28
+Sigla: PR
+Cidade: MARINGA
+Marca: GM
+Modelo: S10 2.2 S
+Lixo: 
+
+Offset: 16235
+Status: 0
+Tamanho: 41
+Próximo: -1
+ID: 689
+Ano: 2012
+Quantidade: 31
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: NXR150 BROS ES
+Lixo: 
+
+Offset: 16281
+Status: 1
+Tamanho: 32
+Próximo: 21233
+ID: 690
+Ano: 2021
+Quantidade: 34
+Sigla: PR
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 16318
+Status: 0
+Tamanho: 29
+Próximo: -1
+ID: 691
+Ano: 2012
+Quantidade: 72
+Sigla: PR
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 16352
+Status: 1
+Tamanho: 62
+Próximo: 10903
+ID: 692
+Ano: 2017
+Quantidade: 16
+Sigla: MG
+Cidade: PASSOS
+Marca: YAMAHA
+Modelo: XTZ250 TENERE
+Lixo: 
+
+Offset: 16419
+Status: 0
+Tamanho: 38
+Próximo: -1
+ID: 693
+Ano: 1996
+Quantidade: 30
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: GOL PLUS MI
+Lixo: 
+
+Offset: 16462
+Status: 0
+Tamanho: 48
+Próximo: -1
+ID: 694
+Ano: -1
+Quantidade: 18
+Sigla: PR
+Cidade: RONDON
+Marca: 
+Modelo: BIZ 125 ES
+Lixo: 
+
+Offset: 16515
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 695
+Ano: -1
+Quantidade: 44
+Sigla: GO
+Cidade: ANAPOLIS
+Marca: 
+Modelo: OPALA
+Lixo: 
+
+Offset: 16565
+Status: 0
+Tamanho: 36
+Próximo: -1
+ID: 712
+Ano: 1978
+Quantidade: 14
+Sigla: BA
+Cidade: BARREIRAS
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 16606
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 713
+Ano: 2014
+Quantidade: 20
+Sigla: GO
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 16643
+Status: 0
+Tamanho: 31
+Próximo: -1
+ID: 714
+Ano: 2011
+Quantidade: 28
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: SOFT
+Lixo: 
+
+Offset: 16679
+Status: 0
+Tamanho: 71
+Próximo: -1
+ID: 715
+Ano: 2016
+Quantidade: 21
+Sigla: 
+Cidade: PARAUAPEBAS
+Marca: CHEVROLET
+Modelo: ONIX 1.4MT LTZ
+Lixo: 
+
+Offset: 16755
+Status: 0
+Tamanho: 59
+Próximo: -1
+ID: 716
+Ano: 1977
+Quantidade: 16
+Sigla: MG
+Cidade: MANHUACU
+Marca: VW
+Modelo: FUSCA 1300 L
+Lixo: 
+
+Offset: 16819
+Status: 0
+Tamanho: 68
+Próximo: -1
+ID: 717
+Ano: -1
+Quantidade: 24
+Sigla: MG
+Cidade: BELO HORIZONTE
+Marca: DAF
+Modelo: XF105 FTS 460A
+Lixo: 
+
+Offset: 16892
+Status: 1
+Tamanho: 52
+Próximo: 22223
+ID: 718
+Ano: 2019
+Quantidade: 15
+Sigla: RN
+Cidade: 
+Marca: CHEVROLET
+Modelo: ONIX 1MT LT
+Lixo: 
+
+Offset: 16949
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 719
+Ano: -1
+Quantidade: 69
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: LEAD 110
+Lixo: 
+
+Offset: 16999
+Status: 0
+Tamanho: 63
+Próximo: -1
+ID: 720
+Ano: 2006
+Quantidade: 10
+Sigla: GO
+Cidade: EDEIA
+Marca: HONDA
+Modelo: CG 150 TITAN ESD
+Lixo: 
+
+Offset: 17067
+Status: 0
+Tamanho: 60
+Próximo: -1
+ID: 721
+Ano: 2009
+Quantidade: 10
+Sigla: MS
+Cidade: TRES LAGOAS
+Marca: GM
+Modelo: PRISMA JOY
+Lixo: 
+
+Offset: 17132
+Status: 0
+Tamanho: 71
+Próximo: -1
+ID: 722
+Ano: -1
+Quantidade: 48
+Sigla: MT
+Cidade: NOVA XAVANTINA
+Marca: HONDA
+Modelo: CG 125 TITAN KS
+Lixo: 
+
+Offset: 17208
+Status: 0
+Tamanho: 65
+Próximo: -1
+ID: 723
+Ano: -1
+Quantidade: 13
+Sigla: SE
+Cidade: ARACAJU
+Marca: MARCOPOLO
+Modelo: VOLARE W9 ON
+Lixo: 
+
+Offset: 17278
+Status: 0
+Tamanho: 69
+Próximo: -1
+ID: 724
+Ano: 2015
+Quantidade: 39
+Sigla: MT
+Cidade: CASTANHEIRA
+Marca: HONDA
+Modelo: NXR160 BROS ESDD
+Lixo: 
+
+Offset: 17352
+Status: 0
+Tamanho: 63
+Próximo: -1
+ID: 725
+Ano: -1
+Quantidade: 68
+Sigla: MG
+Cidade: JUIZ DE FORA
+Marca: 
+Modelo: PALIO ATTRACTIV 1.0
+Lixo: 
+
+Offset: 17420
+Status: 1
+Tamanho: 60
+Próximo: 2411
+ID: 726
+Ano: 2019
+Quantidade: 68
+Sigla: PR
+Cidade: CAMPO MOURAO
+Marca: SHINERAY
+Modelo: 50Q
+Lixo: 
+
+Offset: 17485
+Status: 0
+Tamanho: 49
+Próximo: -1
+ID: 727
+Ano: 2008
+Quantidade: 19
+Sigla: MT
+Cidade: JACIARA
+Marca: 
+Modelo: BIZ 125 KS
+Lixo: 
+
+Offset: 17539
+Status: 1
+Tamanho: 32
+Próximo: 4947
+ID: 728
+Ano: 2018
+Quantidade: 26
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 17576
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 729
+Ano: 1995
+Quantidade: 11
+Sigla: MG
+Cidade: PATROCINIO
+Marca: 
+Modelo: UNO CS IE
+Lixo: 
+
+Offset: 17632
+Status: 0
+Tamanho: 57
+Próximo: -1
+ID: 730
+Ano: 1981
+Quantidade: 11
+Sigla: RJ
+Cidade: TERESOPOLIS
+Marca: FIAT
+Modelo: 147 L
+Lixo: 
+
+Offset: 17694
+Status: 0
+Tamanho: 54
+Próximo: -1
+ID: 731
+Ano: 2013
+Quantidade: 68
+Sigla: 
+Cidade: 
+Marca: HYUNDAI
+Modelo: HB20S 1.6A PREM
+Lixo: 
+
+Offset: 17753
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 732
+Ano: 2012
+Quantidade: 10
+Sigla: MT
+Cidade: CANARANA
+Marca: RENAULT
+Modelo: 
+Lixo: 
+
+Offset: 17805
+Status: 0
+Tamanho: 48
+Próximo: -1
+ID: 749
+Ano: 1997
+Quantidade: 44
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: UNO MILLE SX
+Lixo: 
+
+Offset: 17858
+Status: 0
+Tamanho: 29
+Próximo: -1
+ID: 750
+Ano: 1994
+Quantidade: 10
+Sigla: PE
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 17892
+Status: 0
+Tamanho: 37
+Próximo: -1
+ID: 751
+Ano: 2006
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: BIZ 125 KS
+Lixo: 
+
+Offset: 17934
+Status: 1
+Tamanho: 63
+Próximo: 16352
+ID: 752
+Ano: 2019
+Quantidade: 17
+Sigla: GO
+Cidade: APARECIDA DE GOIANIA
+Marca: 
+Modelo: CITY EX CVT
+Lixo: 
+
+Offset: 18002
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 753
+Ano: 2006
+Quantidade: 19
+Sigla: RJ
+Cidade: 
+Marca: HONDA
+Modelo: XR 250 TORNADO
+Lixo: 
+
+Offset: 18058
+Status: 0
+Tamanho: 53
+Próximo: -1
+ID: 754
+Ano: -1
+Quantidade: 66
+Sigla: PE
+Cidade: CARUARU
+Marca: 
+Modelo: HB20 1M UNIQUE
+Lixo: 
+
+Offset: 18116
+Status: 0
+Tamanho: 50
+Próximo: -1
+ID: 755
+Ano: 2013
+Quantidade: 66
+Sigla: SE
+Cidade: TOMAR DO GERU
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 18171
+Status: 0
+Tamanho: 63
+Próximo: -1
+ID: 756
+Ano: 2000
+Quantidade: 16
+Sigla: PE
+Cidade: POMBOS
+Marca: HONDA
+Modelo: CG 125 TITAN ES
+Lixo: 
+
+Offset: 18239
+Status: 0
+Tamanho: 50
+Próximo: -1
+ID: 757
+Ano: 2013
+Quantidade: 66
+Sigla: AL
+Cidade: ARAPIRACA
+Marca: 
+Modelo: FOX 1 GII
+Lixo: 
+
+Offset: 18294
+Status: 0
+Tamanho: 60
+Próximo: -1
+ID: 758
+Ano: 1982
+Quantidade: 13
+Sigla: PI
+Cidade: TERESINA
+Marca: FIAT
+Modelo: PANORAMA CL
+Lixo: 
+
+Offset: 18359
+Status: 0
+Tamanho: 52
+Próximo: -1
+ID: 759
+Ano: 2009
+Quantidade: 66
+Sigla: RJ
+Cidade: SAO JOAO DE MERITI
+Marca: GM
+Modelo: 
+Lixo: 
+
+Offset: 18416
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 760
+Ano: -1
+Quantidade: 16
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: POP100
+Lixo: 
+
+Offset: 18464
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 761
+Ano: 2002
+Quantidade: 13
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: PALIO ELX
+Lixo: 
+
+Offset: 18514
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 762
+Ano: 2006
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 18551
+Status: 0
+Tamanho: 58
+Próximo: -1
+ID: 763
+Ano: 1998
+Quantidade: 11
+Sigla: AM
+Cidade: MANAUS
+Marca: 
+Modelo: RENAULT MEGANE 1.6 B
+Lixo: 
+
+Offset: 18614
+Status: 0
+Tamanho: 50
+Próximo: -1
+ID: 764
+Ano: -1
+Quantidade: 18
+Sigla: 
+Cidade: MEDEIROS NETO
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 18669
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 765
+Ano: 2005
+Quantidade: 66
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: CORSA SEDAN MAXX
+Lixo: 
+
+Offset: 18717
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 766
+Ano: -1
+Quantidade: 65
+Sigla: RO
+Cidade: CACOAL
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 18764
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 767
+Ano: 2001
+Quantidade: 65
+Sigla: PE
+Cidade: CARUARU
+Marca: 
+Modelo: GOL 16V PLUS
+Lixo: 
+
+Offset: 18820
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 768
+Ano: 2004
+Quantidade: 37
+Sigla: MT
+Cidade: JACIARA
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 18869
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 784
+Ano: 2015
+Quantidade: 17
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 18896
+Status: 1
+Tamanho: 39
+Próximo: 14041
+ID: 785
+Ano: 2021
+Quantidade: 32
+Sigla: 
+Cidade: CAMPO GRANDE
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 18940
+Status: 1
+Tamanho: 52
+Próximo: 16892
+ID: 786
+Ano: 2020
+Quantidade: 15
+Sigla: CE
+Cidade: FORTALEZA
+Marca: 
+Modelo: VM 330 8X2R
+Lixo: 
+
+Offset: 18997
+Status: 0
+Tamanho: 29
+Próximo: -1
+ID: 787
+Ano: 2010
+Quantidade: 36
+Sigla: MT
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 19031
+Status: 0
+Tamanho: 63
+Próximo: -1
+ID: 788
+Ano: 2012
+Quantidade: 13
+Sigla: PR
+Cidade: IVAIPORA
+Marca: FIAT
+Modelo: STRADA WORKING
+Lixo: 
+
+Offset: 19099
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 789
+Ano: 2001
+Quantidade: 64
+Sigla: ES
+Cidade: VILA VELHA
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 19150
+Status: 0
+Tamanho: 33
+Próximo: -1
+ID: 790
+Ano: -1
+Quantidade: 34
+Sigla: 
+Cidade: MANAUS
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 19188
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 791
+Ano: -1
+Quantidade: 15
+Sigla: PA
+Cidade: 
+Marca: GM
+Modelo: CHEVROLET C10
+Lixo: 
+
+Offset: 19240
+Status: 0
+Tamanho: 50
+Próximo: -1
+ID: 792
+Ano: 1994
+Quantidade: 21
+Sigla: PR
+Cidade: 
+Marca: FORD
+Modelo: ESCORT 1 HOBBY
+Lixo: 
+
+Offset: 19295
+Status: 0
+Tamanho: 49
+Próximo: -1
+ID: 793
+Ano: 2013
+Quantidade: 14
+Sigla: MA
+Cidade: SAO LUIS
+Marca: 
+Modelo: FIT TWIST
+Lixo: 
+
+Offset: 19349
+Status: 0
+Tamanho: 67
+Próximo: -1
+ID: 794
+Ano: 2014
+Quantidade: 18
+Sigla: MG
+Cidade: JUIZ DE FORA
+Marca: VW
+Modelo: SAVEIRO CE TL MB
+Lixo: 
+
+Offset: 19421
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 795
+Ano: 1982
+Quantidade: 64
+Sigla: RJ
+Cidade: 
+Marca: FORD
+Modelo: DEL REY
+Lixo: 
+
+Offset: 19469
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 796
+Ano: 1996
+Quantidade: 15
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 19496
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 797
+Ano: 2010
+Quantidade: 10
+Sigla: AL
+Cidade: SAO JOSE DA TAPERA
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 19546
+Status: 0
+Tamanho: 66
+Próximo: -1
+ID: 798
+Ano: 2014
+Quantidade: 11
+Sigla: 
+Cidade: FEIRA DE SANTANA
+Marca: 
+Modelo: VOYAGE EVIDENCE MB
+Lixo: 
+
+Offset: 19617
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 799
+Ano: 2016
+Quantidade: 18
+Sigla: GO
+Cidade: RIO VERDE
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 19665
+Status: 0
+Tamanho: 56
+Próximo: -1
+ID: 800
+Ano: 2013
+Quantidade: 63
+Sigla: AM
+Cidade: MANAUS
+Marca: VW
+Modelo: FOX 1.6 GII
+Lixo: 
+
+Offset: 19726
+Status: 0
+Tamanho: 35
+Próximo: -1
+ID: 801
+Ano: -1
+Quantidade: 46
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: PALIO EX
+Lixo: 
+
+Offset: 19766
+Status: 0
+Tamanho: 60
+Próximo: -1
+ID: 802
+Ano: 1990
+Quantidade: 25
+Sigla: PR
+Cidade: JAPURA
+Marca: HONDA
+Modelo: CG 125 TODAY
+Lixo: 
+
+Offset: 19831
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 803
+Ano: 2015
+Quantidade: 18
+Sigla: BA
+Cidade: VERA CRUZ
+Marca: 
+Modelo: CG150 FAN ESDI
+Lixo: 
+
+Offset: 19891
+Status: 0
+Tamanho: 30
+Próximo: -1
+ID: 804
+Ano: 2008
+Quantidade: 63
+Sigla: BA
+Cidade: 
+Marca: JTA
+Modelo: 
+Lixo: 
+
+Offset: 19926
+Status: 0
+Tamanho: 63
+Próximo: -1
+ID: 805
+Ano: -1
+Quantidade: 36
+Sigla: RJ
+Cidade: ANGRA DOS REIS
+Marca: VW
+Modelo: FUSCA 1300
+Lixo: 
+
+Offset: 19994
+Status: 0
+Tamanho: 54
+Próximo: -1
+ID: 806
+Ano: 2014
+Quantidade: 19
+Sigla: CE
+Cidade: JUAZEIRO DO NORTE
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 20053
+Status: 0
+Tamanho: 40
+Próximo: -1
+ID: 807
+Ano: 2013
+Quantidade: 12
+Sigla: RJ
+Cidade: MAGE
+Marca: CHEV
+Modelo: 
+Lixo: 
+
+Offset: 20098
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 808
+Ano: 2015
+Quantidade: 12
+Sigla: GO
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 20125
+Status: 0
+Tamanho: 80
+Próximo: -1
+ID: 660
+Ano: 2008
+Quantidade: 31
+Sigla: MG
+Cidade: CAMPO BELO
+Marca: 
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Offset: 20210
+Status: 0
+Tamanho: 65
+Próximo: -1
+ID: 810
+Ano: 2012
+Quantidade: 48
+Sigla: RJ
+Cidade: SAQUAREMA
+Marca: HONDA
+Modelo: CG 150 FAN ESI
+Lixo: 
+
+Offset: 20280
+Status: 0
+Tamanho: 65
+Próximo: -1
+ID: 811
+Ano: 2009
+Quantidade: 25
+Sigla: 
+Cidade: BARBACENA
+Marca: HONDA
+Modelo: CG 150 FAN ESI
+Lixo: 
+
+Offset: 20350
+Status: 0
+Tamanho: 71
+Próximo: -1
+ID: 812
+Ano: -1
+Quantidade: 26
+Sigla: MG
+Cidade: SAO JOSE DA LAPA
+Marca: HONDA
+Modelo: CG 125 FAN ES
+Lixo: 
+
+Offset: 20426
+Status: 0
+Tamanho: 38
+Próximo: -1
+ID: 813
+Ano: 1986
+Quantidade: 11
+Sigla: PR
+Cidade: PATO BRANCO
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 20469
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 814
+Ano: 2015
+Quantidade: 19
+Sigla: BA
+Cidade: ITABERABA
+Marca: YAMAHA
+Modelo: 
+Lixo: 
+
+Offset: 20521
+Status: 0
+Tamanho: 52
+Próximo: -1
+ID: 815
+Ano: -1
+Quantidade: 15
+Sigla: RN
+Cidade: NATAL
+Marca: 
+Modelo: FORD RANGER STX
+Lixo: 
+
+Offset: 20578
+Status: 1
+Tamanho: 31
+Próximo: 9226
+ID: 816
+Ano: 2020
+Quantidade: 21
+Sigla: PR
+Cidade: 
+Marca: JEEP
+Modelo: 
+Lixo: 
+
+Offset: 20614
+Status: 1
+Tamanho: 39
+Próximo: 18896
+ID: 817
+Ano: 2021
+Quantidade: 34
+Sigla: MS
+Cidade: CAMPO GRANDE
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 20658
+Status: 0
+Tamanho: 69
+Próximo: -1
+ID: 478
+Ano: -1
+Quantidade: 11
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: SANTANA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Offset: 20732
+Status: 0
+Tamanho: 52
+Próximo: -1
+ID: 819
+Ano: -1
+Quantidade: 10
+Sigla: PR
+Cidade: 
+Marca: SCANIA
+Modelo: T113 H 4X2 360
+Lixo: 
+
+Offset: 20789
+Status: 0
+Tamanho: 53
+Próximo: -1
+ID: 820
+Ano: 2004
+Quantidade: 15
+Sigla: 
+Cidade: VICOSA
+Marca: 
+Modelo: CBX 250 TWISTER
+Lixo: 
+
+Offset: 20847
+Status: 0
+Tamanho: 34
+Próximo: -1
+ID: 821
+Ano: 1995
+Quantidade: 17
+Sigla: 
+Cidade: ERVALIA
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 20886
+Status: 1
+Tamanho: 54
+Próximo: 15287
+ID: 822
+Ano: 2019
+Quantidade: 38
+Sigla: MT
+Cidade: 
+Marca: VW
+Modelo: NOVA SAVEIRO RB MBVS
+Lixo: 
+
+Offset: 20945
+Status: 1
+Tamanho: 54
+Próximo: 20886
+ID: 823
+Ano: 2019
+Quantidade: 13
+Sigla: MA
+Cidade: 
+Marca: FIAT
+Modelo: ARGO DRIVE 1.3 GSR
+Lixo: 
+
+Offset: 21004
+Status: 0
+Tamanho: 34
+Próximo: -1
+ID: 824
+Ano: 2016
+Quantidade: 62
+Sigla: RJ
+Cidade: 
+Marca: CITROEN
+Modelo: 
+Lixo: 
+
+Offset: 21043
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 825
+Ano: -1
+Quantidade: 27
+Sigla: MG
+Cidade: 
+Marca: YAMAHA
+Modelo: XVS950A MIDN.STAR
+Lixo: 
+
+Offset: 21103
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 826
+Ano: -1
+Quantidade: 21
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 21130
+Status: 0
+Tamanho: 49
+Próximo: -1
+ID: 827
+Ano: 2002
+Quantidade: 14
+Sigla: MG
+Cidade: ALEM PARAIBA
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 21184
+Status: 1
+Tamanho: 44
+Próximo: 22037
+ID: 889
+Ano: 2020
+Quantidade: 24
+Sigla: PE
+Cidade: SAO JOSE DO EGITO
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 21233
+Status: 1
+Tamanho: 32
+Próximo: 17539
+ID: 890
+Ano: 2018
+Quantidade: 22
+Sigla: ES
+Cidade: SERRA
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 21270
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 891
+Ano: 2008
+Quantidade: 12
+Sigla: MA
+Cidade: 
+Marca: 
+Modelo: SUZUKI EN125 YES
+Lixo: 
+
+Offset: 21318
+Status: 0
+Tamanho: 29
+Próximo: -1
+ID: 892
+Ano: 1998
+Quantidade: 11
+Sigla: ES
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 21352
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 893
+Ano: 2012
+Quantidade: 24
+Sigla: RJ
+Cidade: DUQUE DE CAXIAS
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 21408
+Status: 0
+Tamanho: 63
+Próximo: -1
+ID: 894
+Ano: 2009
+Quantidade: 12
+Sigla: CE
+Cidade: ICAPUI
+Marca: HONDA
+Modelo: CG 150 TITAN ES
+Lixo: 
+
+Offset: 21476
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 895
+Ano: 2012
+Quantidade: 16
+Sigla: MG
+Cidade: SAO JOAO DEL REI
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 21524
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 896
+Ano: 2010
+Quantidade: 15
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: NXR150 BROS MIX ES
+Lixo: 
+
+Offset: 21574
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 897
+Ano: 2001
+Quantidade: 57
+Sigla: CE
+Cidade: IGUATU
+Marca: 
+Modelo: YBR 125K
+Lixo: 
+
+Offset: 21625
+Status: 0
+Tamanho: 39
+Próximo: -1
+ID: 898
+Ano: 2008
+Quantidade: 30
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: GUERRA AG GR
+Lixo: 
+
+Offset: 21669
+Status: 0
+Tamanho: 75
+Próximo: -1
+ID: 899
+Ano: 2015
+Quantidade: 12
+Sigla: RJ
+Cidade: CAMPOS DOS GOYTACAZES
+Marca: HONDA
+Modelo: CITY EXL CVT
+Lixo: 
+
+Offset: 21749
+Status: 0
+Tamanho: 58
+Próximo: -1
+ID: 900
+Ano: 1997
+Quantidade: 10
+Sigla: 
+Cidade: ANTONIO OLINTO
+Marca: 
+Modelo: CG 125 TITAN
+Lixo: 
+
+Offset: 21812
+Status: 0
+Tamanho: 39
+Próximo: -1
+ID: 901
+Ano: -1
+Quantidade: 10
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: CROSSFOX GII
+Lixo: 
+
+Offset: 21856
+Status: 0
+Tamanho: 41
+Próximo: -1
+ID: 902
+Ano: 1978
+Quantidade: 13
+Sigla: MG
+Cidade: 
+Marca: GM
+Modelo: CARAVAN
+Lixo: 
+
+Offset: 21902
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 903
+Ano: 1997
+Quantidade: 12
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 21939
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 904
+Ano: 2015
+Quantidade: 11
+Sigla: MG
+Cidade: ITAUNA
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 21987
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 905
+Ano: 1998
+Quantidade: 21
+Sigla: GO
+Cidade: PORANGATU
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 22037
+Status: 1
+Tamanho: 44
+Próximo: 286
+ID: 906
+Ano: 2019
+Quantidade: 32
+Sigla: MA
+Cidade: 
+Marca: 
+Modelo: YARIS HB XL 13 MT
+Lixo: 
+
+Offset: 22086
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 907
+Ano: 2014
+Quantidade: 13
+Sigla: ES
+Cidade: VILA VELHA
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 22135
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 908
+Ano: 2013
+Quantidade: 13
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 22162
+Status: 0
+Tamanho: 56
+Próximo: -1
+ID: 909
+Ano: 2012
+Quantidade: 32
+Sigla: MG
+Cidade: SAO GONCALO DO PARA
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 22223
+Status: 1
+Tamanho: 52
+Próximo: 26046
+ID: 910
+Ano: 2018
+Quantidade: 57
+Sigla: CE
+Cidade: 
+Marca: CHEVROLET
+Modelo: S10 HC DD4A
+Lixo: 
+
+Offset: 22280
+Status: 0
+Tamanho: 48
+Próximo: -1
+ID: 911
+Ano: 2014
+Quantidade: 14
+Sigla: MG
+Cidade: DIVINOPOLIS
+Marca: VOLVO
+Modelo: 
+Lixo: 
+
+Offset: 22333
+Status: 0
+Tamanho: 52
+Próximo: -1
+ID: 912
+Ano: 2007
+Quantidade: 27
+Sigla: PE
+Cidade: 
+Marca: SUNDOWN
+Modelo: HUNTER 125 SE
+Lixo: 
+
+Offset: 22390
+Status: 0
+Tamanho: 67
+Próximo: -1
+ID: 913
+Ano: 1996
+Quantidade: 12
+Sigla: PR
+Cidade: SAO JOSE DOS PINHAIS
+Marca: 
+Modelo: FORD RANGER STX
+Lixo: 
+
+Offset: 22462
+Status: 0
+Tamanho: 53
+Próximo: -1
+ID: 914
+Ano: 2003
+Quantidade: 22
+Sigla: 
+Cidade: QUIXADA
+Marca: 
+Modelo: UNO MILLE FIRE
+Lixo: 
+
+Offset: 22520
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 915
+Ano: -1
+Quantidade: 26
+Sigla: 
+Cidade: JUAZEIRO DO NORTE
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 22569
+Status: 0
+Tamanho: 60
+Próximo: -1
+ID: 916
+Ano: 1981
+Quantidade: 13
+Sigla: AC
+Cidade: RIO BRANCO
+Marca: FORD
+Modelo: CORCEL II
+Lixo: 
+
+Offset: 22634
+Status: 0
+Tamanho: 69
+Próximo: -1
+ID: 917
+Ano: 2002
+Quantidade: 19
+Sigla: PR
+Cidade: CORNELIO PROCOPIO
+Marca: VW
+Modelo: GOL 16V POWER
+Lixo: 
+
+Offset: 22708
+Status: 0
+Tamanho: 63
+Próximo: -1
+ID: 918
+Ano: 1976
+Quantidade: 14
+Sigla: PR
+Cidade: SANTA IZABEL DO OESTE
+Marca: 
+Modelo: FUSCA 1300
+Lixo: 
+
+Offset: 22776
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 919
+Ano: 1994
+Quantidade: 57
+Sigla: CE
+Cidade: CRATO
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 22813
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 920
+Ano: 1988
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: FORD
+Modelo: DEL REY BELINA GHIA
+Lixo: 
+
+Offset: 22873
+Status: 0
+Tamanho: 33
+Próximo: -1
+ID: 921
+Ano: -1
+Quantidade: 15
+Sigla: PA
+Cidade: 
+Marca: YAMAHA
+Modelo: 
+Lixo: 
+
+Offset: 22911
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 922
+Ano: 2010
+Quantidade: 14
+Sigla: RJ
+Cidade: 
+Marca: VW
+Modelo: VOYAGE 1.0
+Lixo: 
+
+Offset: 22960
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 923
+Ano: 2012
+Quantidade: 19
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: GOLF 1.6 SPORTLINE
+Lixo: 
+
+Offset: 23010
+Status: 0
+Tamanho: 58
+Próximo: -1
+ID: 924
+Ano: 1989
+Quantidade: 12
+Sigla: 
+Cidade: GUARAPARI
+Marca: FORD
+Modelo: ESCORT L
+Lixo: 
+
+Offset: 23073
+Status: 0
+Tamanho: 33
+Próximo: -1
+ID: 925
+Ano: 2011
+Quantidade: 19
+Sigla: 
+Cidade: 
+Marca: YAMAHA
+Modelo: 
+Lixo: 
+
+Offset: 23111
+Status: 0
+Tamanho: 64
+Próximo: -1
+ID: 926
+Ano: 2001
+Quantidade: 32
+Sigla: 
+Cidade: FOZ DO IGUACU
+Marca: YAMAHA
+Modelo: YBR 125E
+Lixo: 
+
+Offset: 23180
+Status: 0
+Tamanho: 43
+Próximo: -1
+ID: 927
+Ano: 1980
+Quantidade: 21
+Sigla: 
+Cidade: 
+Marca: FIAT
+Modelo: 147 GLS
+Lixo: 
+
+Offset: 23228
+Status: 0
+Tamanho: 31
+Próximo: -1
+ID: 943
+Ano: 1995
+Quantidade: 19
+Sigla: GO
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 23264
+Status: 0
+Tamanho: 59
+Próximo: -1
+ID: 944
+Ano: 2003
+Quantidade: 55
+Sigla: MG
+Cidade: JOAO PINHEIRO
+Marca: VW
+Modelo: GOL 1.0
+Lixo: 
+
+Offset: 23328
+Status: 0
+Tamanho: 52
+Próximo: -1
+ID: 945
+Ano: 2004
+Quantidade: 55
+Sigla: BA
+Cidade: 
+Marca: HONDA
+Modelo: CG 150 TITAN ES
+Lixo: 
+
+Offset: 23385
+Status: 0
+Tamanho: 42
+Próximo: -1
+ID: 946
+Ano: 1988
+Quantidade: 55
+Sigla: RJ
+Cidade: ARARUAMA
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 23432
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 947
+Ano: 2003
+Quantidade: 55
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 23459
+Status: 0
+Tamanho: 61
+Próximo: -1
+ID: 948
+Ano: 2009
+Quantidade: 51
+Sigla: CE
+Cidade: MONSENHOR TABOSA
+Marca: 
+Modelo: CG 125 FAN KS
+Lixo: 
+
+Offset: 23525
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 949
+Ano: 2005
+Quantidade: 22
+Sigla: MG
+Cidade: UNAI
+Marca: SR
+Modelo: GUERRA AG GR
+Lixo: 
+
+Offset: 23585
+Status: 0
+Tamanho: 63
+Próximo: -1
+ID: 950
+Ano: 2008
+Quantidade: 24
+Sigla: 
+Cidade: PARNAMIRIM
+Marca: VW
+Modelo: POLO SEDAN 1.6
+Lixo: 
+
+Offset: 23653
+Status: 0
+Tamanho: 66
+Próximo: -1
+ID: 951
+Ano: 2002
+Quantidade: 20
+Sigla: CE
+Cidade: MORADA NOVA
+Marca: FIAT
+Modelo: UNO MILLE FIRE
+Lixo: 
+
+Offset: 23724
+Status: 0
+Tamanho: 41
+Próximo: -1
+ID: 952
+Ano: 2007
+Quantidade: 24
+Sigla: BA
+Cidade: BRUMADO
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 23770
+Status: 0
+Tamanho: 40
+Próximo: -1
+ID: 953
+Ano: 1997
+Quantidade: 20
+Sigla: MG
+Cidade: 
+Marca: VW
+Modelo: GOL MI
+Lixo: 
+
+Offset: 23815
+Status: 0
+Tamanho: 32
+Próximo: -1
+ID: 954
+Ano: 2009
+Quantidade: 12
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 23852
+Status: 0
+Tamanho: 67
+Próximo: -1
+ID: 955
+Ano: 2008
+Quantidade: 22
+Sigla: BA
+Cidade: EUNAPOLIS
+Marca: YAMAHA
+Modelo: FACTOR YBR125 E
+Lixo: 
+
+Offset: 23924
+Status: 0
+Tamanho: 61
+Próximo: -1
+ID: 956
+Ano: 1983
+Quantidade: 12
+Sigla: MG
+Cidade: TEOFILO OTONI
+Marca: VW
+Modelo: VOYAGE LS
+Lixo: 
+
+Offset: 23990
+Status: 0
+Tamanho: 29
+Próximo: -1
+ID: 957
+Ano: 2012
+Quantidade: 11
+Sigla: PR
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 24024
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 958
+Ano: 1996
+Quantidade: 40
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 24051
+Status: 0
+Tamanho: 29
+Próximo: -1
+ID: 959
+Ano: 2000
+Quantidade: 10
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 24085
+Status: 0
+Tamanho: 65
+Próximo: -1
+ID: 960
+Ano: 2008
+Quantidade: 19
+Sigla: MG
+Cidade: BETIM
+Marca: GM
+Modelo: VECTRA SEDAN ELEGANCE
+Lixo: 
+
+Offset: 24155
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 961
+Ano: 1976
+Quantidade: 13
+Sigla: RJ
+Cidade: ITATIAIA
+Marca: VW
+Modelo: BRASILIA
+Lixo: 
+
+Offset: 24215
+Status: 0
+Tamanho: 59
+Próximo: -1
+ID: 962
+Ano: 2013
+Quantidade: 54
+Sigla: PE
+Cidade: RECIFE
+Marca: TOYOTA
+Modelo: ETIOS SD X
+Lixo: 
+
+Offset: 24279
+Status: 0
+Tamanho: 39
+Próximo: -1
+ID: 963
+Ano: -1
+Quantidade: 13
+Sigla: GO
+Cidade: QUIRINOPOLIS
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 24323
+Status: 0
+Tamanho: 48
+Próximo: -1
+ID: 964
+Ano: -1
+Quantidade: 13
+Sigla: MT
+Cidade: RONDONOPOLIS
+Marca: FORD
+Modelo: 
+Lixo: 
+
+Offset: 24376
+Status: 0
+Tamanho: 52
+Próximo: -1
+ID: 965
+Ano: 2011
+Quantidade: 15
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: GOLF 1.6 SPORTLINE
+Lixo: 
+
+Offset: 24433
+Status: 0
+Tamanho: 29
+Próximo: -1
+ID: 966
+Ano: -1
+Quantidade: 50
+Sigla: 
+Cidade: 
+Marca: GM
+Modelo: 
+Lixo: 
+
+Offset: 24467
+Status: 0
+Tamanho: 51
+Próximo: -1
+ID: 967
+Ano: 2002
+Quantidade: 10
+Sigla: 
+Cidade: PARACATU
+Marca: VW
+Modelo: GOLF
+Lixo: 
+
+Offset: 24523
+Status: 0
+Tamanho: 34
+Próximo: -1
+ID: 968
+Ano: 2010
+Quantidade: 54
+Sigla: MT
+Cidade: CACERES
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 24562
+Status: 0
+Tamanho: 40
+Próximo: -1
+ID: 969
+Ano: 2013
+Quantidade: 26
+Sigla: 
+Cidade: LAVRAS
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 24607
+Status: 0
+Tamanho: 41
+Próximo: -1
+ID: 970
+Ano: -1
+Quantidade: 54
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: UNO MILLE FIRE
+Lixo: 
+
+Offset: 24653
+Status: 0
+Tamanho: 63
+Próximo: -1
+ID: 971
+Ano: 2011
+Quantidade: 11
+Sigla: ES
+Cidade: SERRA
+Marca: FORD
+Modelo: FIESTA SEDAN FLEX
+Lixo: 
+
+Offset: 24721
+Status: 0
+Tamanho: 59
+Próximo: -1
+ID: 972
+Ano: 1996
+Quantidade: 13
+Sigla: MG
+Cidade: CASSIA
+Marca: FIAT
+Modelo: UNO MILLE SX
+Lixo: 
+
+Offset: 24785
+Status: 0
+Tamanho: 29
+Próximo: -1
+ID: 973
+Ano: 2014
+Quantidade: 24
+Sigla: MG
+Cidade: 
+Marca: SR
+Modelo: 
+Lixo: 
+
+Offset: 24819
+Status: 0
+Tamanho: 66
+Próximo: -1
+ID: 974
+Ano: 2009
+Quantidade: 54
+Sigla: 
+Cidade: VILA VELHA
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: 
+
+Offset: 24890
+Status: 0
+Tamanho: 53
+Próximo: -1
+ID: 975
+Ano: 2004
+Quantidade: 54
+Sigla: CE
+Cidade: TRAIRI
+Marca: 
+Modelo: CG 150 TITAN KS
+Lixo: 
+
+Offset: 24948
+Status: 0
+Tamanho: 62
+Próximo: -1
+ID: 976
+Ano: 1977
+Quantidade: 11
+Sigla: MG
+Cidade: ITAPECERICA
+Marca: VW
+Modelo: FUSCA 1300 L
+Lixo: 
+
+Offset: 25015
+Status: 0
+Tamanho: 60
+Próximo: -1
+ID: 977
+Ano: -1
+Quantidade: 18
+Sigla: MT
+Cidade: VARZEA GRANDE
+Marca: 
+Modelo: C3 90M TENDANCE
+Lixo: 
+
+Offset: 25080
+Status: 0
+Tamanho: 59
+Próximo: -1
+ID: 978
+Ano: 2009
+Quantidade: 34
+Sigla: MA
+Cidade: FORMOSA DA SERRA NEGRA
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 25144
+Status: 0
+Tamanho: 29
+Próximo: -1
+ID: 979
+Ano: 2009
+Quantidade: 13
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 25178
+Status: 1
+Tamanho: 46
+Próximo: 2089
+ID: 980
+Ano: 2017
+Quantidade: 15
+Sigla: RJ
+Cidade: NITEROI
+Marca: HYUNDAI
+Modelo: 
+Lixo: 
+
+Offset: 25229
+Status: 0
+Tamanho: 39
+Próximo: -1
+ID: 981
+Ano: 1986
+Quantidade: 42
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: UNO
+Lixo: 
+
+Offset: 25273
+Status: 0
+Tamanho: 57
+Próximo: -1
+ID: 982
+Ano: 2000
+Quantidade: 19
+Sigla: ES
+Cidade: CACHOEIRO DE ITAPEMIRIM
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 25335
+Status: 0
+Tamanho: 29
+Próximo: -1
+ID: 983
+Ano: -1
+Quantidade: 10
+Sigla: BA
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 25369
+Status: 0
+Tamanho: 31
+Próximo: -1
+ID: 984
+Ano: 2008
+Quantidade: 53
+Sigla: PR
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: 
+
+Offset: 25405
+Status: 0
+Tamanho: 53
+Próximo: -1
+ID: 985
+Ano: 2012
+Quantidade: 14
+Sigla: 
+Cidade: CARAUARI
+Marca: 
+Modelo: CG 125 FAN KS
+Lixo: 
+
+Offset: 25463
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 986
+Ano: 2000
+Quantidade: 19
+Sigla: PA
+Cidade: ALMEIRIM
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 25513
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 987
+Ano: 2006
+Quantidade: 20
+Sigla: MT
+Cidade: VARZEA GRANDE
+Marca: VW
+Modelo: 
+Lixo: 
+
+Offset: 25565
+Status: 1
+Tamanho: 66
+Próximo: 1697
+ID: 988
+Ano: 2019
+Quantidade: 14
+Sigla: PA
+Cidade: ITUPIRANGA
+Marca: SR
+Modelo: LIBRELATO SRCA 2E
+Lixo: 
+
+Offset: 25636
+Status: 0
+Tamanho: 67
+Próximo: -1
+ID: 989
+Ano: 2012
+Quantidade: 17
+Sigla: BA
+Cidade: VITORIA DA CONQUISTA
+Marca: 
+Modelo: FRONTIER XE 4X2
+Lixo: 
+
+Offset: 25708
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 990
+Ano: 2015
+Quantidade: 29
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 25735
+Status: 0
+Tamanho: 45
+Próximo: -1
+ID: 991
+Ano: -1
+Quantidade: 53
+Sigla: PR
+Cidade: CURITIBA
+Marca: HONDA
+Modelo: 
+Lixo: 
+
+Offset: 25785
+Status: 0
+Tamanho: 69
+Próximo: -1
+ID: 992
+Ano: -1
+Quantidade: 23
+Sigla: MG
+Cidade: ITUIUTABA
+Marca: FIAT
+Modelo: STRADA VOLCANO 13CD
+Lixo: 
+
+Offset: 25859
+Status: 0
+Tamanho: 44
+Próximo: -1
+ID: 993
+Ano: 2015
+Quantidade: 19
+Sigla: SE
+Cidade: 
+Marca: 
+Modelo: FAZER250 BLUEFLEX
+Lixo: 
+
+Offset: 25908
+Status: 0
+Tamanho: 55
+Próximo: -1
+ID: 994
+Ano: 2010
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: CG150 TITAN MIX KS
+Lixo: 
+
+Offset: 25968
+Status: 0
+Tamanho: 46
+Próximo: -1
+ID: 995
+Ano: -1
+Quantidade: 11
+Sigla: 
+Cidade: LUZIANIA
+Marca: YAMAHA
+Modelo: 
+Lixo: 
+
+Offset: 26019
+Status: 0
+Tamanho: 22
+Próximo: -1
+ID: 996
+Ano: 1974
+Quantidade: 13
+Sigla: TO
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: 
+
+Offset: 26046
+Status: 1
+Tamanho: 49
+Próximo: 12284
+ID: 997
+Ano: 2019
+Quantidade: 52
+Sigla: 
+Cidade: MARIBONDO
+Marca: 
+Modelo: POP 110I
+Lixo: 
+
+Offset: 26100
+Status: 0
+Tamanho: 40
+Próximo: -1
+ID: 998
+Ano: 2005
+Quantidade: 12
+Sigla: PA
+Cidade: 
+Marca: 
+Modelo: C100 BIZ MAIS
+Lixo: 
+
+Offset: 26145
+Status: 0
+Tamanho: 47
+Próximo: -1
+ID: 999
+Ano: 2002
+Quantidade: 16
+Sigla: MG
+Cidade: ESPINOSA
+Marca: 
+Modelo: XR 200R
+Lixo: 
+
+Offset: 26197
+Status: 0
+Tamanho: 34
+Próximo: -1
+ID: 1000
+Ano: 1989
+Quantidade: 19
+Sigla: RN
+Cidade: MOSSORO
+Marca: 
+Modelo: 
+Lixo: 
+

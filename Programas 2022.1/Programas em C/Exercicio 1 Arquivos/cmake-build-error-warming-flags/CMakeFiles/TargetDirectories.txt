@@ -1,0 +1,3 @@
+C:/Users/nandi/Documents/Programas 2022.1/Programas em C/Exercicio 1 Arquivos/cmake-build-error-warming-flags/CMakeFiles/Exercicio_1_Arquivos.dir
+C:/Users/nandi/Documents/Programas 2022.1/Programas em C/Exercicio 1 Arquivos/cmake-build-error-warming-flags/CMakeFiles/edit_cache.dir
+C:/Users/nandi/Documents/Programas 2022.1/Programas em C/Exercicio 1 Arquivos/cmake-build-error-warming-flags/CMakeFiles/rebuild_cache.dir

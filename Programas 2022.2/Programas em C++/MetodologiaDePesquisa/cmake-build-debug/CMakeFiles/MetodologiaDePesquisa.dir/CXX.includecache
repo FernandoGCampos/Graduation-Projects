@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/MetodologiaDePesquisa/main.cpp
+iostream
+-
+chrono
+-
+fstream
+-
+string
+-
+random
+-
+array
+-
+vector
+-
+forward_list
+-
+queue
+-
+set
+-
+map
+-
+stack
+-
+unordered_set
+-
+unordered_map
+-
+

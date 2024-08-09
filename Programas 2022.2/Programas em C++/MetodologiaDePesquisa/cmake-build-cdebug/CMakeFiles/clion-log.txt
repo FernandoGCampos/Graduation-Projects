@@ -1,0 +1,44 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd '/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/MetodologiaDePesquisa/cmake-build-cdebug' && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug '-DCMAKE_CXX_FLAGS=Wall Wextra' -G 'CodeBlocks - Unix Makefiles' -S '/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/MetodologiaDePesquisa' -B '/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/MetodologiaDePesquisa/cmake-build-cdebug'; exitcode=$?; sleep 0.001; (exit $exitcode)"
+-- The C compiler identification is GNU 9.3.0
+-- The CXX compiler identification is GNU 9.3.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- broken
+CMake Error at /usr/share/cmake-3.16/Modules/CMakeTestCXXCompiler.cmake:53 (message):
+  The C++ compiler
+
+    "/usr/bin/c++"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: /mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/MetodologiaDePesquisa/cmake-build-cdebug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):/usr/bin/make cmTC_d613f/fast && /usr/bin/make -f CMakeFiles/cmTC_d613f.dir/build.make CMakeFiles/cmTC_d613f.dir/build
+    make[1]: Entering directory '/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/MetodologiaDePesquisa/cmake-build-cdebug/CMakeFiles/CMakeTmp'
+    Building CXX object CMakeFiles/cmTC_d613f.dir/testCXXCompiler.cxx.o
+    /usr/bin/c++    Wall Wextra    -o CMakeFiles/cmTC_d613f.dir/testCXXCompiler.cxx.o -c "/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/MetodologiaDePesquisa/cmake-build-cdebug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
+    c++: error: Wall: No such file or directory
+    c++: error: Wextra: No such file or directory
+    make[1]: *** [CMakeFiles/cmTC_d613f.dir/build.make:66: CMakeFiles/cmTC_d613f.dir/testCXXCompiler.cxx.o] Error 1
+    make[1]: Leaving directory '/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/MetodologiaDePesquisa/cmake-build-cdebug/CMakeFiles/CMakeTmp'
+    make: *** [Makefile:121: cmTC_d613f/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/MetodologiaDePesquisa/cmake-build-cdebug/CMakeFiles/CMakeOutput.log".
+See also "/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/MetodologiaDePesquisa/cmake-build-cdebug/CMakeFiles/CMakeError.log".

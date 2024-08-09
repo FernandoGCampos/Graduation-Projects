@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq1/data.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq1/extralib.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq1/type1.c
+type1.h
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq1/type1.h
+
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq1/type1.h
+extralib.h
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq1/extralib.h
+data.h
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq1/data.h
+

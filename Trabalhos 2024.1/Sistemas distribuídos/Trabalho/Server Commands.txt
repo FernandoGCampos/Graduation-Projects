@@ -1,0 +1,2 @@
+Login: ssh gsdgrad17@andromeda.lasdpc.icmc.usp.br -p 2131
+Senha: Fg56kGcd

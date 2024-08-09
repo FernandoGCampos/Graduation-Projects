@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Regadores.dir/main.cpp.o  -o Regadores 

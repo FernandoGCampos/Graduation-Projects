@@ -1,0 +1,50 @@
+//Cria um conjunto de testes
+test-new --type CMAKE --source item/neoproteum-collections-c-main testes
+
+//Abre os dados
+report --open testes
+
+//Gera mutações
+muta-gen -all -unit 'lib.c' testes
+
+//Executa os mutantes
+exemuta -exec --id <id> testes
+exemuta -exec --progress testes
+
+//Marca o mutante como equivalente
+muta -equiv --id <id> testes
+
+//Adiciona casos de teste
+tcase-add -p "0" testes
+tcase-add -p "1" testes
+tcase-add -p "2" testes
+tcase-add -p "3" testes
+tcase-add -p "4" testes
+tcase-add -p "5" testes
+tcase-add -p "6" testes
+tcase-add -p "7" testes
+tcase-add -p "8" testes
+tcase-add -p "9" testes
+tcase-add -p "10" testes
+tcase-add -p "11" testes
+tcase-add -p "12" testes
+tcase-add -p "13" testes
+tcase-add -p "14" testes
+tcase-add -p "15" testes
+tcase-add -p "16" testes
+tcase-add -p "17" testes
+tcase-add -p "18" testes
+tcase-add -p "19" testes
+tcase-add -p "20" testes
+tcase-add -p "21" testes
+tcase-add -p "22" testes
+tcase-add -p "23" testes
+tcase-add -p "24" testes
+tcase-add -p "25" testes
+tcase-add -p "26" testes
+tcase-add -p "27" testes
+tcase-add -p "28" testes
+tcase-add -p "29" testes
+tcase-add -p "30" testes
+tcase-add -p "31" testes
+tcase-add -p "32" testes

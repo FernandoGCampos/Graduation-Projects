@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Resort.dir/main.cpp.o  -o Resort 

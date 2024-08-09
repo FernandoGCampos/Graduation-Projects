@@ -1,0 +1,12006 @@
+Status: 1
+Topo: -1
+Cabeçalho: LISTAGEM DA FROTA DOS VEICULOS NO BRASILCODIGO IDENTIFICADOR: ANO DE FABRICACAO: QUANTIDADE DE VEICULOS: ESTADO: 0NOME DA CIDADE: 1MARCA DO VEICULO: 2MODELO DO VEICULO: 
+Próximo RRN: 1000
+Número removidos: 0
+
+RRN: 0
+Status: 0
+Próximo: -1
+ID: 1
+Ano: 2006
+Quantidade: 14
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 1
+Status: 0
+Próximo: -1
+ID: 2
+Ano: 2021
+Quantidade: 2113
+Sigla: MG
+Cidade: BELO HORIZONTE
+Marca: FIAT
+Modelo: SIENA 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 2
+Status: 0
+Próximo: -1
+ID: 3
+Ano: 2017
+Quantidade: 17
+Sigla: RJ
+Cidade: NITEROI
+Marca: 
+Modelo: MT03
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 3
+Status: 0
+Próximo: -1
+ID: 4
+Ano: 1978
+Quantidade: 12
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: FUSCA 1300 L
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 4
+Status: 0
+Próximo: -1
+ID: 5
+Ano: 1992
+Quantidade: 15
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: GOL CL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 5
+Status: 0
+Próximo: -1
+ID: 6
+Ano: -1
+Quantidade: 27
+Sigla: 
+Cidade: BUIQUE
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 6
+Status: 0
+Próximo: -1
+ID: 7
+Ano: 2012
+Quantidade: 1411
+Sigla: 
+Cidade: BELO HORIZONTE
+Marca: FIAT
+Modelo: UNO MILLE ECONOMY
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 7
+Status: 0
+Próximo: -1
+ID: 8
+Ano: 2004
+Quantidade: 38
+Sigla: MG
+Cidade: 
+Marca: VW
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 8
+Status: 0
+Próximo: -1
+ID: 9
+Ano: 2011
+Quantidade: 13
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: NXR150 BROS ESD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 9
+Status: 0
+Próximo: -1
+ID: 10
+Ano: 1984
+Quantidade: 13
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: CHEVROLET D10
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 10
+Status: 0
+Próximo: -1
+ID: 11
+Ano: 2007
+Quantidade: 15
+Sigla: PA
+Cidade: BELEM
+Marca: RENAULT
+Modelo: CLIO AUT 10 16VH
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 11
+Status: 0
+Próximo: -1
+ID: 12
+Ano: 1985
+Quantidade: 12
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: MONZA SL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 12
+Status: 0
+Próximo: -1
+ID: 13
+Ano: 2008
+Quantidade: 10
+Sigla: PR
+Cidade: SAO JORGE DO PATROCINIO
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 13
+Status: 0
+Próximo: -1
+ID: 14
+Ano: 2017
+Quantidade: 1188
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: HONDA
+Modelo: HR-V EX CVT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 14
+Status: 0
+Próximo: -1
+ID: 15
+Ano: 2015
+Quantidade: 31
+Sigla: RO
+Cidade: 
+Marca: HONDA
+Modelo: BIZ 125 ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 15
+Status: 0
+Próximo: -1
+ID: 16
+Ano: 2021
+Quantidade: 28
+Sigla: CE
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 16
+Status: 0
+Próximo: -1
+ID: 17
+Ano: 2021
+Quantidade: 19
+Sigla: BA
+Cidade: JUAZEIRO
+Marca: HYUNDAI
+Modelo: HB20 10M EVOLUTI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 17
+Status: 0
+Próximo: -1
+ID: 18
+Ano: 2013
+Quantidade: 11
+Sigla: 
+Cidade: BREJO SANTO
+Marca: 
+Modelo: UNO VIVACE 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 18
+Status: 0
+Próximo: -1
+ID: 19
+Ano: 2012
+Quantidade: 22
+Sigla: BA
+Cidade: 
+Marca: CHEVROLET
+Modelo: MONTANA LS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 19
+Status: 0
+Próximo: -1
+ID: 20
+Ano: 2016
+Quantidade: 49
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 20
+Status: 0
+Próximo: -1
+ID: 21
+Ano: -1
+Quantidade: 11
+Sigla: CE
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 21
+Status: 0
+Próximo: -1
+ID: 22
+Ano: 2011
+Quantidade: 14
+Sigla: 
+Cidade: PONTA GROSSA
+Marca: 
+Modelo: BRAVO ESSENCE 1.8
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 22
+Status: 0
+Próximo: -1
+ID: 23
+Ano: 1970
+Quantidade: 925
+Sigla: MG
+Cidade: BELO HORIZONTE
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 23
+Status: 0
+Próximo: -1
+ID: 24
+Ano: -1
+Quantidade: 20
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: CG 160 TITAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 24
+Status: 0
+Próximo: -1
+ID: 25
+Ano: -1
+Quantidade: 18
+Sigla: MG
+Cidade: JOSENOPOLIS
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 25
+Status: 0
+Próximo: -1
+ID: 26
+Ano: 2008
+Quantidade: 13
+Sigla: PA
+Cidade: 
+Marca: 
+Modelo: SUZUKI EN125 YES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 26
+Status: 0
+Próximo: -1
+ID: 27
+Ano: 2009
+Quantidade: 820
+Sigla: 
+Cidade: 
+Marca: CHEVROLET
+Modelo: CLASSIC
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 27
+Status: 0
+Próximo: -1
+ID: 28
+Ano: 2014
+Quantidade: 29
+Sigla: 
+Cidade: BETIM
+Marca: CHEVROLET
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 28
+Status: 0
+Próximo: -1
+ID: 29
+Ano: 2013
+Quantidade: 11
+Sigla: MG
+Cidade: UBA
+Marca: 
+Modelo: COMET 150 70
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 29
+Status: 0
+Próximo: -1
+ID: 30
+Ano: 2011
+Quantidade: 11
+Sigla: AM
+Cidade: AUTAZES
+Marca: HONDA
+Modelo: BIZ 125 EX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 30
+Status: 0
+Próximo: -1
+ID: 31
+Ano: 2011
+Quantidade: 14
+Sigla: 
+Cidade: 
+Marca: YAMAHA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 31
+Status: 0
+Próximo: -1
+ID: 32
+Ano: -1
+Quantidade: 15
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 32
+Status: 0
+Próximo: -1
+ID: 33
+Ano: 1995
+Quantidade: 12
+Sigla: RJ
+Cidade: 
+Marca: FIAT
+Modelo: FIORINO 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 33
+Status: 0
+Próximo: -1
+ID: 34
+Ano: 2019
+Quantidade: 18
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: FOX CONNECT MB
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 34
+Status: 0
+Próximo: -1
+ID: 35
+Ano: -1
+Quantidade: 11
+Sigla: PR
+Cidade: CORBELIA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 35
+Status: 0
+Próximo: -1
+ID: 36
+Ano: 2011
+Quantidade: 18
+Sigla: MG
+Cidade: ITAPEVA
+Marca: 
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 36
+Status: 0
+Próximo: -1
+ID: 37
+Ano: 1972
+Quantidade: 16
+Sigla: PR
+Cidade: 
+Marca: FORD
+Modelo: F75
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 37
+Status: 0
+Próximo: -1
+ID: 38
+Ano: 2020
+Quantidade: 21
+Sigla: PA
+Cidade: ANANINDEUA
+Marca: RENAULT
+Modelo: DUSTER ZEN 16
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 38
+Status: 0
+Próximo: -1
+ID: 39
+Ano: 2007
+Quantidade: 11
+Sigla: PR
+Cidade: FOZ DO IGUACU
+Marca: 
+Modelo: STRADA ADVENT FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 39
+Status: 0
+Próximo: -1
+ID: 40
+Ano: 2018
+Quantidade: 27
+Sigla: ES
+Cidade: VITORIA
+Marca: YAMAHA
+Modelo: XTZ150 CROSSER Z
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 40
+Status: 0
+Próximo: -1
+ID: 41
+Ano: -1
+Quantidade: 596
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: FORD
+Modelo: ESCORT XR3
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 41
+Status: 0
+Próximo: -1
+ID: 42
+Ano: 2000
+Quantidade: 19
+Sigla: PE
+Cidade: RECIFE
+Marca: 
+Modelo: PEUGEOT 106 SELECTIO
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 42
+Status: 0
+Próximo: -1
+ID: 43
+Ano: 2013
+Quantidade: 35
+Sigla: MG
+Cidade: VICOSA
+Marca: 
+Modelo: STRADA WORKING
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 43
+Status: 0
+Próximo: -1
+ID: 44
+Ano: 2008
+Quantidade: 523
+Sigla: MT
+Cidade: TANGARA DA SERRA
+Marca: HONDA
+Modelo: CG 125 FAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 44
+Status: 0
+Próximo: -1
+ID: 45
+Ano: 2004
+Quantidade: 10
+Sigla: 
+Cidade: 
+Marca: FORD
+Modelo: ECOSPORT XLT 1.6L
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 45
+Status: 0
+Próximo: -1
+ID: 46
+Ano: 2017
+Quantidade: 15
+Sigla: 
+Cidade: CURITIBA
+Marca: M.BENZ
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 46
+Status: 0
+Próximo: -1
+ID: 47
+Ano: -1
+Quantidade: 16
+Sigla: MA
+Cidade: BARREIRINHAS
+Marca: CHEVROLET
+Modelo: CLASSIC LS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 47
+Status: 0
+Próximo: -1
+ID: 48
+Ano: 2019
+Quantidade: 508
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: CB250F TWISTER CBS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 48
+Status: 0
+Próximo: -1
+ID: 49
+Ano: 2004
+Quantidade: 12
+Sigla: 
+Cidade: RIO VERDE
+Marca: FORD
+Modelo: ECOSPORT XLT 1.6L
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 49
+Status: 0
+Próximo: -1
+ID: 50
+Ano: 2009
+Quantidade: 27
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: HARLEY DAVIDSON
+Modelo: FLSTF
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 50
+Status: 0
+Próximo: -1
+ID: 51
+Ano: 2019
+Quantidade: 13
+Sigla: RJ
+Cidade: NOVA IGUACU
+Marca: 
+Modelo: YARIS HB XLS15 AT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 51
+Status: 0
+Próximo: -1
+ID: 52
+Ano: 1997
+Quantidade: 11
+Sigla: 
+Cidade: TRES RIOS
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 52
+Status: 0
+Próximo: -1
+ID: 53
+Ano: 2001
+Quantidade: 20
+Sigla: AM
+Cidade: MANACAPURU
+Marca: 
+Modelo: CELTA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 53
+Status: 0
+Próximo: -1
+ID: 54
+Ano: 1990
+Quantidade: 11
+Sigla: GO
+Cidade: ANAPOLIS
+Marca: GM
+Modelo: OPALA DIPLOMATA SE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 54
+Status: 0
+Próximo: -1
+ID: 55
+Ano: 2001
+Quantidade: 20
+Sigla: RJ
+Cidade: RIO DAS OSTRAS
+Marca: GM
+Modelo: CELTA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 55
+Status: 0
+Próximo: -1
+ID: 56
+Ano: -1
+Quantidade: 18
+Sigla: MG
+Cidade: ITAGUARA
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 56
+Status: 0
+Próximo: -1
+ID: 57
+Ano: -1
+Quantidade: 28
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: CG 150 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 57
+Status: 0
+Próximo: -1
+ID: 58
+Ano: -1
+Quantidade: 11
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 58
+Status: 0
+Próximo: -1
+ID: 59
+Ano: -1
+Quantidade: 12
+Sigla: RJ
+Cidade: ANGRA DOS REIS
+Marca: 
+Modelo: NOVO FOX TL MA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 59
+Status: 0
+Próximo: -1
+ID: 60
+Ano: 1989
+Quantidade: 49
+Sigla: MS
+Cidade: CAMPO GRANDE
+Marca: GM
+Modelo: MONZA CLASSIC SE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 60
+Status: 0
+Próximo: -1
+ID: 61
+Ano: 2010
+Quantidade: 431
+Sigla: MG
+Cidade: NOVA SERRANA
+Marca: 
+Modelo: CG 150 FAN ESI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 61
+Status: 0
+Próximo: -1
+ID: 62
+Ano: 2004
+Quantidade: 420
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: CG 150 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 62
+Status: 0
+Próximo: -1
+ID: 63
+Ano: 2012
+Quantidade: 32
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 63
+Status: 0
+Próximo: -1
+ID: 64
+Ano: 1987
+Quantidade: 11
+Sigla: 
+Cidade: JABOATAO DOS GUARARAPES
+Marca: 
+Modelo: L 708 E
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 64
+Status: 0
+Próximo: -1
+ID: 65
+Ano: 1983
+Quantidade: 10
+Sigla: PE
+Cidade: OLINDA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 65
+Status: 0
+Próximo: -1
+ID: 66
+Ano: 2016
+Quantidade: 10
+Sigla: MA
+Cidade: SAO JOSE DE RIBAMAR
+Marca: FIAT
+Modelo: PUNTO ATTRACTIVE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 66
+Status: 0
+Próximo: -1
+ID: 67
+Ano: 1991
+Quantidade: 19
+Sigla: 
+Cidade: BAIXO GUANDU
+Marca: HONDA
+Modelo: CG 125 TODAY
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 67
+Status: 0
+Próximo: -1
+ID: 68
+Ano: -1
+Quantidade: 22
+Sigla: PR
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 68
+Status: 0
+Próximo: -1
+ID: 69
+Ano: -1
+Quantidade: 19
+Sigla: BA
+Cidade: IRARA
+Marca: 
+Modelo: CELTA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 69
+Status: 0
+Próximo: -1
+ID: 70
+Ano: 1999
+Quantidade: 29
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 70
+Status: 0
+Próximo: -1
+ID: 71
+Ano: 2002
+Quantidade: 19
+Sigla: RJ
+Cidade: CABO FRIO
+Marca: 
+Modelo: CELTA 3 PORTAS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 71
+Status: 0
+Próximo: -1
+ID: 72
+Ano: 2002
+Quantidade: 14
+Sigla: 
+Cidade: NOVA AURORA
+Marca: 
+Modelo: C100 BIZ ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 72
+Status: 0
+Próximo: -1
+ID: 73
+Ano: 2017
+Quantidade: 15
+Sigla: ES
+Cidade: MONTANHA
+Marca: 
+Modelo: NXR 160 BROS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 73
+Status: 0
+Próximo: -1
+ID: 74
+Ano: 2015
+Quantidade: 13
+Sigla: PR
+Cidade: PIRAQUARA
+Marca: HONDA
+Modelo: CG150 FAN ESDI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 74
+Status: 0
+Próximo: -1
+ID: 75
+Ano: 2005
+Quantidade: 22
+Sigla: MT
+Cidade: 
+Marca: 
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 75
+Status: 0
+Próximo: -1
+ID: 76
+Ano: 2008
+Quantidade: 340
+Sigla: PE
+Cidade: 
+Marca: DAFRA
+Modelo: SPEED 150
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 76
+Status: 0
+Próximo: -1
+ID: 77
+Ano: 2012
+Quantidade: 19
+Sigla: MG
+Cidade: 
+Marca: CHEVROLET
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 77
+Status: 0
+Próximo: -1
+ID: 78
+Ano: 2009
+Quantidade: 11
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: CIVIC LXS FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 78
+Status: 0
+Próximo: -1
+ID: 79
+Ano: 2013
+Quantidade: 14
+Sigla: MG
+Cidade: 
+Marca: YAMAHA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 79
+Status: 0
+Próximo: -1
+ID: 80
+Ano: 2008
+Quantidade: 22
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: CG 125 FAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 80
+Status: 0
+Próximo: -1
+ID: 81
+Ano: 2006
+Quantidade: 37
+Sigla: 
+Cidade: CASCAVEL
+Marca: 
+Modelo: SAVEIRO 1.6
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 81
+Status: 0
+Próximo: -1
+ID: 82
+Ano: 1993
+Quantidade: 25
+Sigla: MG
+Cidade: 
+Marca: GM
+Modelo: OMEGA GLS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 82
+Status: 0
+Próximo: -1
+ID: 83
+Ano: -1
+Quantidade: 14
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: CG 160 TITAN EX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 83
+Status: 0
+Próximo: -1
+ID: 84
+Ano: 2006
+Quantidade: 43
+Sigla: BA
+Cidade: JACOBINA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 84
+Status: 0
+Próximo: -1
+ID: 85
+Ano: 2013
+Quantidade: 332
+Sigla: PI
+Cidade: 
+Marca: HONDA
+Modelo: CG 150 FAN ESI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 85
+Status: 0
+Próximo: -1
+ID: 86
+Ano: 1991
+Quantidade: 21
+Sigla: 
+Cidade: ARACAJU
+Marca: VW
+Modelo: PARATI CL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 86
+Status: 0
+Próximo: -1
+ID: 87
+Ano: 1996
+Quantidade: 10
+Sigla: PR
+Cidade: 
+Marca: VW
+Modelo: PARATI CL 1.8 MI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 87
+Status: 0
+Próximo: -1
+ID: 88
+Ano: 2016
+Quantidade: 13
+Sigla: CE
+Cidade: MUCAMBO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 88
+Status: 0
+Próximo: -1
+ID: 89
+Ano: 2014
+Quantidade: 30
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 89
+Status: 0
+Próximo: -1
+ID: 90
+Ano: 2019
+Quantidade: 35
+Sigla: 
+Cidade: CAMACARI
+Marca: 
+Modelo: ATEGO 1419
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 90
+Status: 0
+Próximo: -1
+ID: 91
+Ano: 2014
+Quantidade: 13
+Sigla: MA
+Cidade: 
+Marca: 
+Modelo: CG 150 TITAN ESD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 91
+Status: 0
+Próximo: -1
+ID: 92
+Ano: 2014
+Quantidade: 10
+Sigla: BA
+Cidade: 
+Marca: FORD
+Modelo: FIESTA HA 1.5L S
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 92
+Status: 0
+Próximo: -1
+ID: 93
+Ano: 2016
+Quantidade: 25
+Sigla: MA
+Cidade: COLINAS
+Marca: HONDA
+Modelo: BIZ 125
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 93
+Status: 0
+Próximo: -1
+ID: 94
+Ano: 2005
+Quantidade: 19
+Sigla: 
+Cidade: 
+Marca: M.BENZ
+Modelo: 712 CHAVANTE BRUT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 94
+Status: 0
+Próximo: -1
+ID: 95
+Ano: 2011
+Quantidade: 24
+Sigla: MT
+Cidade: CUIABA
+Marca: HONDA
+Modelo: FIT LX FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 95
+Status: 0
+Próximo: -1
+ID: 96
+Ano: -1
+Quantidade: 25
+Sigla: MG
+Cidade: CAMBUI
+Marca: VW
+Modelo: GOL 1000
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 96
+Status: 0
+Próximo: -1
+ID: 97
+Ano: -1
+Quantidade: 300
+Sigla: CE
+Cidade: SOBRAL
+Marca: HONDA
+Modelo: NXR160 BROS ESDD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 97
+Status: 0
+Próximo: -1
+ID: 98
+Ano: 2009
+Quantidade: 17
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 98
+Status: 0
+Próximo: -1
+ID: 99
+Ano: -1
+Quantidade: 298
+Sigla: 
+Cidade: CASTANHAL
+Marca: 
+Modelo: POP100
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 99
+Status: 0
+Próximo: -1
+ID: 100
+Ano: 2021
+Quantidade: 25
+Sigla: AM
+Cidade: MANAUS
+Marca: 
+Modelo: X1 S20I ACTIVEFLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 100
+Status: 0
+Próximo: -1
+ID: 101
+Ano: 1968
+Quantidade: 19
+Sigla: MG
+Cidade: PERDOES
+Marca: 
+Modelo: FUSCA 1300
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 101
+Status: 0
+Próximo: -1
+ID: 102
+Ano: 2005
+Quantidade: 23
+Sigla: SE
+Cidade: ARACAJU
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 102
+Status: 0
+Próximo: -1
+ID: 103
+Ano: 2016
+Quantidade: 23
+Sigla: PE
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 103
+Status: 0
+Próximo: -1
+ID: 104
+Ano: 2013
+Quantidade: 18
+Sigla: MT
+Cidade: LUCAS DO RIO VERDE
+Marca: 
+Modelo: NOVO GOL 1.6
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 104
+Status: 0
+Próximo: -1
+ID: 105
+Ano: 2004
+Quantidade: 28
+Sigla: 
+Cidade: COLNIZA
+Marca: YAMAHA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 105
+Status: 0
+Próximo: -1
+ID: 106
+Ano: 2016
+Quantidade: 35
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: VERSA 16 SV
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 106
+Status: 0
+Próximo: -1
+ID: 107
+Ano: 2011
+Quantidade: 10
+Sigla: PR
+Cidade: 
+Marca: CHEVROLET
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 107
+Status: 0
+Próximo: -1
+ID: 108
+Ano: -1
+Quantidade: 10
+Sigla: MS
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 108
+Status: 0
+Próximo: -1
+ID: 109
+Ano: 1974
+Quantidade: 21
+Sigla: PR
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 109
+Status: 0
+Próximo: -1
+ID: 110
+Ano: 1980
+Quantidade: 11
+Sigla: MS
+Cidade: TRES LAGOAS
+Marca: FIAT
+Modelo: 147
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 110
+Status: 0
+Próximo: -1
+ID: 111
+Ano: 1994
+Quantidade: 15
+Sigla: MS
+Cidade: CAMPO GRANDE
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 111
+Status: 0
+Próximo: -1
+ID: 112
+Ano: 1998
+Quantidade: 281
+Sigla: CE
+Cidade: FORTALEZA
+Marca: 
+Modelo: GOL SPECIAL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 112
+Status: 0
+Próximo: -1
+ID: 113
+Ano: 2007
+Quantidade: 11
+Sigla: MA
+Cidade: PACO DO LUMIAR
+Marca: FIAT
+Modelo: PALIO ELX FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 113
+Status: 0
+Próximo: -1
+ID: 114
+Ano: -1
+Quantidade: 22
+Sigla: MG
+Cidade: CARATINGA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 114
+Status: 0
+Próximo: -1
+ID: 115
+Ano: -1
+Quantidade: 10
+Sigla: ES
+Cidade: CACHOEIRO DE ITAPEMIRIM
+Marca: VW
+Modelo: POLO 1.6
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 115
+Status: 0
+Próximo: -1
+ID: 116
+Ano: -1
+Quantidade: 22
+Sigla: RJ
+Cidade: NOVA IGUACU
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 116
+Status: 0
+Próximo: -1
+ID: 117
+Ano: 1996
+Quantidade: 10
+Sigla: ES
+Cidade: IBATIBA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 117
+Status: 0
+Próximo: -1
+ID: 118
+Ano: -1
+Quantidade: 36
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: FUSCA 1500
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 118
+Status: 0
+Próximo: -1
+ID: 119
+Ano: 2014
+Quantidade: 18
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: CG 125 FAN ESD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 119
+Status: 0
+Próximo: -1
+ID: 120
+Ano: 2014
+Quantidade: 14
+Sigla: 
+Cidade: CACHOEIRO DE ITAPEMIRIM
+Marca: HONDA
+Modelo: FIT CX FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 120
+Status: 0
+Próximo: -1
+ID: 121
+Ano: 2015
+Quantidade: 255
+Sigla: 
+Cidade: RIO DE JANEIRO
+Marca: 
+Modelo: PUNTO ATTRACTIVE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 121
+Status: 0
+Próximo: -1
+ID: 122
+Ano: 1974
+Quantidade: 12
+Sigla: PR
+Cidade: PIEN
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 122
+Status: 0
+Próximo: -1
+ID: 123
+Ano: 2006
+Quantidade: 19
+Sigla: BA
+Cidade: 
+Marca: GM
+Modelo: ASTRA SEDAN ADVANTAGE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 123
+Status: 0
+Próximo: -1
+ID: 124
+Ano: 2021
+Quantidade: 12
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 124
+Status: 0
+Próximo: -1
+ID: 125
+Ano: 2014
+Quantidade: 252
+Sigla: AC
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 125
+Status: 0
+Próximo: -1
+ID: 126
+Ano: 2013
+Quantidade: 25
+Sigla: BA
+Cidade: BARRA DA ESTIVA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 126
+Status: 0
+Próximo: -1
+ID: 127
+Ano: -1
+Quantidade: 13
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 127
+Status: 0
+Próximo: -1
+ID: 128
+Ano: 2005
+Quantidade: 12
+Sigla: RO
+Cidade: VILHENA
+Marca: FORD
+Modelo: FIESTA SEDAN1.6FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 128
+Status: 0
+Próximo: -1
+ID: 129
+Ano: 1998
+Quantidade: 12
+Sigla: BA
+Cidade: 
+Marca: 
+Modelo: KOMBI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 129
+Status: 0
+Próximo: -1
+ID: 130
+Ano: 2013
+Quantidade: 13
+Sigla: BA
+Cidade: ALAGOINHAS
+Marca: DAFRA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 130
+Status: 0
+Próximo: -1
+ID: 131
+Ano: 1998
+Quantidade: 26
+Sigla: MG
+Cidade: CORONEL FABRICIANO
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 131
+Status: 0
+Próximo: -1
+ID: 132
+Ano: 2012
+Quantidade: 13
+Sigla: MT
+Cidade: NOVO SAO JOAQUIM
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 132
+Status: 0
+Próximo: -1
+ID: 133
+Ano: 1981
+Quantidade: 10
+Sigla: GO
+Cidade: PIRACANJUBA
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 133
+Status: 0
+Próximo: -1
+ID: 134
+Ano: 2017
+Quantidade: 20
+Sigla: CE
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 134
+Status: 0
+Próximo: -1
+ID: 135
+Ano: -1
+Quantidade: 12
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 135
+Status: 0
+Próximo: -1
+ID: 136
+Ano: -1
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: PALIO FIRE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 136
+Status: 0
+Próximo: -1
+ID: 137
+Ano: 1999
+Quantidade: 11
+Sigla: MA
+Cidade: SAO LUIS
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 137
+Status: 0
+Próximo: -1
+ID: 138
+Ano: -1
+Quantidade: 20
+Sigla: PA
+Cidade: BELEM
+Marca: FIAT
+Modelo: MAREA SX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 138
+Status: 0
+Próximo: -1
+ID: 139
+Ano: -1
+Quantidade: 23
+Sigla: RN
+Cidade: MACAU
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 139
+Status: 0
+Próximo: -1
+ID: 140
+Ano: 2008
+Quantidade: 237
+Sigla: MG
+Cidade: ITAUNA
+Marca: 
+Modelo: CG 150 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 140
+Status: 0
+Próximo: -1
+ID: 141
+Ano: 2003
+Quantidade: 36
+Sigla: ES
+Cidade: CARIACICA
+Marca: YAMAHA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 141
+Status: 0
+Próximo: -1
+ID: 142
+Ano: 2013
+Quantidade: 51
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: L200 TRITON HPE D
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 142
+Status: 0
+Próximo: -1
+ID: 143
+Ano: -1
+Quantidade: 24
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: CG150 FAN ESDI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 143
+Status: 0
+Próximo: -1
+ID: 144
+Ano: -1
+Quantidade: 50
+Sigla: CE
+Cidade: PENAFORTE
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 144
+Status: 0
+Próximo: -1
+ID: 145
+Ano: -1
+Quantidade: 50
+Sigla: MG
+Cidade: IPATINGA
+Marca: HONDA
+Modelo: BIZ 125 ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 145
+Status: 0
+Próximo: -1
+ID: 146
+Ano: -1
+Quantidade: 230
+Sigla: RJ
+Cidade: CAMPOS DOS GOYTACAZES
+Marca: 
+Modelo: FUSCA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 146
+Status: 0
+Próximo: -1
+ID: 147
+Ano: -1
+Quantidade: 229
+Sigla: AM
+Cidade: MANAUS
+Marca: 
+Modelo: GOL CL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 147
+Status: 0
+Próximo: -1
+ID: 148
+Ano: 2011
+Quantidade: 12
+Sigla: PR
+Cidade: QUATIGUA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 148
+Status: 0
+Próximo: -1
+ID: 149
+Ano: 1997
+Quantidade: 225
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 149
+Status: 0
+Próximo: -1
+ID: 150
+Ano: 2007
+Quantidade: 14
+Sigla: GO
+Cidade: 
+Marca: SUNDOWN
+Modelo: HUNTER 100
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 150
+Status: 0
+Próximo: -1
+ID: 151
+Ano: -1
+Quantidade: 20
+Sigla: PR
+Cidade: IVATE
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 151
+Status: 0
+Próximo: -1
+ID: 152
+Ano: 1996
+Quantidade: 29
+Sigla: MG
+Cidade: RIO PRETO
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 152
+Status: 0
+Próximo: -1
+ID: 153
+Ano: 2019
+Quantidade: 19
+Sigla: MG
+Cidade: GOVERNADOR VALADARES
+Marca: FORD
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 153
+Status: 0
+Próximo: -1
+ID: 154
+Ano: 1998
+Quantidade: 45
+Sigla: MG
+Cidade: PITANGUI
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 154
+Status: 0
+Próximo: -1
+ID: 155
+Ano: 2008
+Quantidade: 34
+Sigla: ES
+Cidade: 
+Marca: 
+Modelo: CG 125 FAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 155
+Status: 0
+Próximo: -1
+ID: 156
+Ano: 2005
+Quantidade: 13
+Sigla: AM
+Cidade: 
+Marca: HONDA
+Modelo: NXR150BROS CARGO K
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 156
+Status: 0
+Próximo: -1
+ID: 157
+Ano: 2019
+Quantidade: 219
+Sigla: AL
+Cidade: MACEIO
+Marca: HONDA
+Modelo: XRE 300 ABS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 157
+Status: 0
+Próximo: -1
+ID: 158
+Ano: -1
+Quantidade: 14
+Sigla: PE
+Cidade: CARPINA
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 158
+Status: 0
+Próximo: -1
+ID: 159
+Ano: 2015
+Quantidade: 32
+Sigla: 
+Cidade: ITABORAI
+Marca: 
+Modelo: SIENA ATTRACTIV 1.4
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 159
+Status: 0
+Próximo: -1
+ID: 160
+Ano: 2021
+Quantidade: 17
+Sigla: MT
+Cidade: 
+Marca: CHEV
+Modelo: TRACKER 12T A PR
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 160
+Status: 0
+Próximo: -1
+ID: 161
+Ano: 1984
+Quantidade: 12
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 161
+Status: 0
+Próximo: -1
+ID: 162
+Ano: -1
+Quantidade: 20
+Sigla: SE
+Cidade: PORTO DA FOLHA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 162
+Status: 0
+Próximo: -1
+ID: 163
+Ano: -1
+Quantidade: 34
+Sigla: RN
+Cidade: NATAL
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 163
+Status: 0
+Próximo: -1
+ID: 164
+Ano: 2018
+Quantidade: 14
+Sigla: BA
+Cidade: DIAS D'AVILA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 164
+Status: 0
+Próximo: -1
+ID: 165
+Ano: -1
+Quantidade: 22
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: NXR160 BROS ESD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 165
+Status: 0
+Próximo: -1
+ID: 166
+Ano: 2020
+Quantidade: 211
+Sigla: PE
+Cidade: PAULISTA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 166
+Status: 0
+Próximo: -1
+ID: 167
+Ano: 2011
+Quantidade: 13
+Sigla: PR
+Cidade: SAO TOME
+Marca: HONDA
+Modelo: BIZ 125 ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 167
+Status: 0
+Próximo: -1
+ID: 168
+Ano: 2006
+Quantidade: 14
+Sigla: MG
+Cidade: MARIO CAMPOS
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 168
+Status: 0
+Próximo: -1
+ID: 169
+Ano: 1988
+Quantidade: 38
+Sigla: 
+Cidade: CAMPOS DOS GOYTACAZES
+Marca: FORD
+Modelo: ESCORT XR3
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 169
+Status: 0
+Próximo: -1
+ID: 170
+Ano: 2010
+Quantidade: 23
+Sigla: RJ
+Cidade: 
+Marca: HONDA
+Modelo: NXR150BROS MIX ESD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 170
+Status: 0
+Próximo: -1
+ID: 171
+Ano: 2020
+Quantidade: 12
+Sigla: 
+Cidade: CURURUPU
+Marca: HONDA
+Modelo: BIZ 125
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 171
+Status: 0
+Próximo: -1
+ID: 172
+Ano: 2007
+Quantidade: 10
+Sigla: TO
+Cidade: 
+Marca: HONDA
+Modelo: BIZ 125 ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 172
+Status: 0
+Próximo: -1
+ID: 173
+Ano: 1994
+Quantidade: 205
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: 
+Modelo: CITROEN ZX 2I VOLC
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 173
+Status: 0
+Próximo: -1
+ID: 174
+Ano: 2007
+Quantidade: 12
+Sigla: SE
+Cidade: CAPELA
+Marca: VW
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 174
+Status: 0
+Próximo: -1
+ID: 175
+Ano: 2011
+Quantidade: 204
+Sigla: MA
+Cidade: CODO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 175
+Status: 0
+Próximo: -1
+ID: 176
+Ano: 1979
+Quantidade: 24
+Sigla: MG
+Cidade: VARGINHA
+Marca: VW
+Modelo: PASSAT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 176
+Status: 0
+Próximo: -1
+ID: 177
+Ano: 2001
+Quantidade: 20
+Sigla: RR
+Cidade: 
+Marca: 
+Modelo: S10 DE LUXE 2.8 D
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 177
+Status: 0
+Próximo: -1
+ID: 178
+Ano: -1
+Quantidade: 10
+Sigla: 
+Cidade: SENADOR FIRMINO
+Marca: HONDA
+Modelo: CG150 FAN ESDI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 178
+Status: 0
+Próximo: -1
+ID: 179
+Ano: 1998
+Quantidade: 19
+Sigla: PE
+Cidade: 
+Marca: GM
+Modelo: CORSA WIND
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 179
+Status: 0
+Próximo: -1
+ID: 180
+Ano: 2010
+Quantidade: 202
+Sigla: DF
+Cidade: BRASILIA
+Marca: 
+Modelo: VOYAGE 1.6
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 180
+Status: 0
+Próximo: -1
+ID: 181
+Ano: 2015
+Quantidade: 11
+Sigla: ES
+Cidade: VILA VELHA
+Marca: FORD
+Modelo: KA SEL 1.5 HA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 181
+Status: 0
+Próximo: -1
+ID: 182
+Ano: -1
+Quantidade: 13
+Sigla: RJ
+Cidade: DUQUE DE CAXIAS
+Marca: 
+Modelo: ELBA S
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 182
+Status: 0
+Próximo: -1
+ID: 183
+Ano: 2003
+Quantidade: 32
+Sigla: MG
+Cidade: SAO JOAO DO PARAISO
+Marca: HONDA
+Modelo: CG 125 TITAN KSE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 183
+Status: 0
+Próximo: -1
+ID: 184
+Ano: 2007
+Quantidade: 13
+Sigla: 
+Cidade: 
+Marca: FORD
+Modelo: FIESTA FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 184
+Status: 0
+Próximo: -1
+ID: 185
+Ano: -1
+Quantidade: 14
+Sigla: MG
+Cidade: 
+Marca: VOLVO
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 185
+Status: 0
+Próximo: -1
+ID: 186
+Ano: 1993
+Quantidade: 32
+Sigla: RJ
+Cidade: MAGE
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 186
+Status: 0
+Próximo: -1
+ID: 187
+Ano: 1972
+Quantidade: 198
+Sigla: PR
+Cidade: CASCAVEL
+Marca: VW
+Modelo: FUSCA 1500
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 187
+Status: 0
+Próximo: -1
+ID: 188
+Ano: 1996
+Quantidade: 12
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: UNO MILLE EP
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 188
+Status: 0
+Próximo: -1
+ID: 189
+Ano: 1991
+Quantidade: 13
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: SAO CARLOS C-1
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 189
+Status: 0
+Próximo: -1
+ID: 190
+Ano: 2005
+Quantidade: 10
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: IDEA ELX FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 190
+Status: 0
+Próximo: -1
+ID: 191
+Ano: 2008
+Quantidade: 196
+Sigla: ES
+Cidade: VILA VELHA
+Marca: VW
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 191
+Status: 0
+Próximo: -1
+ID: 192
+Ano: 2016
+Quantidade: 10
+Sigla: CE
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 192
+Status: 0
+Próximo: -1
+ID: 193
+Ano: -1
+Quantidade: 10
+Sigla: GO
+Cidade: 
+Marca: YAMAHA
+Modelo: NMAX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 193
+Status: 0
+Próximo: -1
+ID: 194
+Ano: 2007
+Quantidade: 32
+Sigla: 
+Cidade: RIO DE JANEIRO
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 194
+Status: 0
+Próximo: -1
+ID: 195
+Ano: -1
+Quantidade: 22
+Sigla: 
+Cidade: PARANATAMA
+Marca: HONDA
+Modelo: CG 150 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 195
+Status: 0
+Próximo: -1
+ID: 196
+Ano: 2012
+Quantidade: 20
+Sigla: PR
+Cidade: SENGES
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 196
+Status: 0
+Próximo: -1
+ID: 197
+Ano: 1991
+Quantidade: 42
+Sigla: RJ
+Cidade: CAMPOS DOS GOYTACAZES
+Marca: 
+Modelo: APOLLO GL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 197
+Status: 0
+Próximo: -1
+ID: 198
+Ano: 2008
+Quantidade: 13
+Sigla: AL
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 198
+Status: 0
+Próximo: -1
+ID: 199
+Ano: 2016
+Quantidade: 27
+Sigla: RJ
+Cidade: MARICA
+Marca: HONDA
+Modelo: CG 160 FAN ESDI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 199
+Status: 0
+Próximo: -1
+ID: 200
+Ano: 1990
+Quantidade: 19
+Sigla: GO
+Cidade: INHUMAS
+Marca: 
+Modelo: CG 125 TODAY
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 200
+Status: 0
+Próximo: -1
+ID: 201
+Ano: 2014
+Quantidade: 22
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 201
+Status: 0
+Próximo: -1
+ID: 202
+Ano: 2007
+Quantidade: 22
+Sigla: GO
+Cidade: ITAGUARI
+Marca: 
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 202
+Status: 0
+Próximo: -1
+ID: 203
+Ano: -1
+Quantidade: 48
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 203
+Status: 0
+Próximo: -1
+ID: 204
+Ano: 2016
+Quantidade: 189
+Sigla: 
+Cidade: CAMPO GRANDE
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 204
+Status: 0
+Próximo: -1
+ID: 205
+Ano: -1
+Quantidade: 23
+Sigla: AM
+Cidade: 
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 205
+Status: 0
+Próximo: -1
+ID: 206
+Ano: 1981
+Quantidade: 44
+Sigla: MT
+Cidade: CUIABA
+Marca: FORD
+Modelo: CORCEL II L
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 206
+Status: 0
+Próximo: -1
+ID: 207
+Ano: 2006
+Quantidade: 16
+Sigla: RJ
+Cidade: SUMIDOURO
+Marca: 
+Modelo: CG 150 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 207
+Status: 0
+Próximo: -1
+ID: 208
+Ano: 2008
+Quantidade: 185
+Sigla: MG
+Cidade: MURIAE
+Marca: HONDA
+Modelo: CG 150 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 208
+Status: 0
+Próximo: -1
+ID: 209
+Ano: 2014
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: NXR150 BROS ESD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 209
+Status: 0
+Próximo: -1
+ID: 210
+Ano: 2012
+Quantidade: 39
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 210
+Status: 0
+Próximo: -1
+ID: 211
+Ano: -1
+Quantidade: 15
+Sigla: GO
+Cidade: 
+Marca: 
+Modelo: CG 150 TITAN EX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 211
+Status: 0
+Próximo: -1
+ID: 212
+Ano: -1
+Quantidade: 183
+Sigla: CE
+Cidade: FORTALEZA
+Marca: 
+Modelo: RENEGADE LNGTD AT D
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 212
+Status: 0
+Próximo: -1
+ID: 213
+Ano: -1
+Quantidade: 22
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 213
+Status: 0
+Próximo: -1
+ID: 214
+Ano: -1
+Quantidade: 10
+Sigla: MG
+Cidade: CONSELHEIRO LAFAIETE
+Marca: YAMAHA
+Modelo: YBR 125ED
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 214
+Status: 0
+Próximo: -1
+ID: 215
+Ano: -1
+Quantidade: 182
+Sigla: MS
+Cidade: CAMPO GRANDE
+Marca: GM
+Modelo: CELTA 2P LIFE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 215
+Status: 0
+Próximo: -1
+ID: 216
+Ano: 1999
+Quantidade: 181
+Sigla: PE
+Cidade: SURUBIM
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 216
+Status: 0
+Próximo: -1
+ID: 217
+Ano: 2011
+Quantidade: 14
+Sigla: PE
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 217
+Status: 0
+Próximo: -1
+ID: 218
+Ano: 1993
+Quantidade: 179
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 218
+Status: 0
+Próximo: -1
+ID: 219
+Ano: 2002
+Quantidade: 10
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 219
+Status: 0
+Próximo: -1
+ID: 220
+Ano: 2001
+Quantidade: 12
+Sigla: PR
+Cidade: NOVA SANTA ROSA
+Marca: VW
+Modelo: GOL SPECIAL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 220
+Status: 0
+Próximo: -1
+ID: 221
+Ano: 2005
+Quantidade: 178
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: 
+Modelo: PICASSO 16 GLX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 221
+Status: 0
+Próximo: -1
+ID: 222
+Ano: 2014
+Quantidade: 21
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: PALIO SPORTING 1.6
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 222
+Status: 0
+Próximo: -1
+ID: 223
+Ano: 1976
+Quantidade: 14
+Sigla: PR
+Cidade: 
+Marca: VW
+Modelo: KOMBI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 223
+Status: 0
+Próximo: -1
+ID: 224
+Ano: 2004
+Quantidade: 10
+Sigla: MG
+Cidade: JANAUBA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 224
+Status: 0
+Próximo: -1
+ID: 225
+Ano: 2020
+Quantidade: 175
+Sigla: BA
+Cidade: PAULO AFONSO
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 225
+Status: 0
+Próximo: -1
+ID: 226
+Ano: 2001
+Quantidade: 14
+Sigla: PA
+Cidade: ANANINDEUA
+Marca: 
+Modelo: COROLLA XEI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 226
+Status: 0
+Próximo: -1
+ID: 227
+Ano: -1
+Quantidade: 174
+Sigla: MG
+Cidade: SANTA LUZIA
+Marca: VW
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 227
+Status: 0
+Próximo: -1
+ID: 228
+Ano: 1985
+Quantidade: 34
+Sigla: ES
+Cidade: SERRA
+Marca: 
+Modelo: FUSCA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 228
+Status: 0
+Próximo: -1
+ID: 229
+Ano: -1
+Quantidade: 17
+Sigla: PR
+Cidade: PONTA GROSSA
+Marca: NISSAN
+Modelo: VERSA 16 UNIQUE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 229
+Status: 0
+Próximo: -1
+ID: 230
+Ano: 2009
+Quantidade: 26
+Sigla: GO
+Cidade: 
+Marca: 
+Modelo: BIZ 125 KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 230
+Status: 0
+Próximo: -1
+ID: 231
+Ano: 2021
+Quantidade: 13
+Sigla: SE
+Cidade: BOQUIM
+Marca: HONDA
+Modelo: CG 160 CARGO
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 231
+Status: 0
+Próximo: -1
+ID: 232
+Ano: 1982
+Quantidade: 15
+Sigla: MG
+Cidade: 
+Marca: TOYOTA
+Modelo: BANDEIRANTE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 232
+Status: 0
+Próximo: -1
+ID: 233
+Ano: 1987
+Quantidade: 35
+Sigla: PA
+Cidade: ANANINDEUA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 233
+Status: 0
+Próximo: -1
+ID: 234
+Ano: 1997
+Quantidade: 17
+Sigla: 
+Cidade: RIO AZUL
+Marca: 
+Modelo: CG 125 TITAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 234
+Status: 0
+Próximo: -1
+ID: 235
+Ano: 2010
+Quantidade: 172
+Sigla: MG
+Cidade: SETE LAGOAS
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 235
+Status: 0
+Próximo: -1
+ID: 236
+Ano: 2020
+Quantidade: 15
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: POP 110I
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 236
+Status: 0
+Próximo: -1
+ID: 237
+Ano: 2014
+Quantidade: 172
+Sigla: PE
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 237
+Status: 0
+Próximo: -1
+ID: 238
+Ano: 1986
+Quantidade: 18
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 238
+Status: 0
+Próximo: -1
+ID: 239
+Ano: 2011
+Quantidade: 11
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 239
+Status: 0
+Próximo: -1
+ID: 240
+Ano: 2008
+Quantidade: 27
+Sigla: 
+Cidade: URUARA
+Marca: 
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 240
+Status: 0
+Próximo: -1
+ID: 241
+Ano: 2009
+Quantidade: 169
+Sigla: 
+Cidade: GOIANIA
+Marca: FIAT
+Modelo: STRADA FIRE FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 241
+Status: 0
+Próximo: -1
+ID: 242
+Ano: 2007
+Quantidade: 26
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 242
+Status: 0
+Próximo: -1
+ID: 243
+Ano: 1973
+Quantidade: 12
+Sigla: RJ
+Cidade: PARACAMBI
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 243
+Status: 0
+Próximo: -1
+ID: 244
+Ano: -1
+Quantidade: 31
+Sigla: AL
+Cidade: DOIS RIACHOS
+Marca: HONDA
+Modelo: CG 125 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 244
+Status: 0
+Próximo: -1
+ID: 245
+Ano: 2001
+Quantidade: 13
+Sigla: MA
+Cidade: BOM JARDIM
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 245
+Status: 0
+Próximo: -1
+ID: 246
+Ano: 2015
+Quantidade: 19
+Sigla: RJ
+Cidade: RIO DAS OSTRAS
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 246
+Status: 0
+Próximo: -1
+ID: 247
+Ano: -1
+Quantidade: 22
+Sigla: 
+Cidade: MARABA
+Marca: TRAXX
+Modelo: JL50 Q2
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 247
+Status: 0
+Próximo: -1
+ID: 248
+Ano: 2021
+Quantidade: 48
+Sigla: RN
+Cidade: 
+Marca: FIAT
+Modelo: SIENA 1.4
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 248
+Status: 0
+Próximo: -1
+ID: 249
+Ano: 2016
+Quantidade: 11
+Sigla: PR
+Cidade: 
+Marca: FORD
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 249
+Status: 0
+Próximo: -1
+ID: 250
+Ano: -1
+Quantidade: 11
+Sigla: GO
+Cidade: GOIANIA
+Marca: PEUGEOT
+Modelo: 206SW 16FE FXA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 250
+Status: 0
+Próximo: -1
+ID: 251
+Ano: 1973
+Quantidade: 17
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 251
+Status: 0
+Próximo: -1
+ID: 252
+Ano: 2006
+Quantidade: 20
+Sigla: MA
+Cidade: IMPERATRIZ
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 252
+Status: 0
+Próximo: -1
+ID: 253
+Ano: 1994
+Quantidade: 13
+Sigla: DF
+Cidade: BRASILIA
+Marca: 
+Modelo: GOL FURGAO
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 253
+Status: 0
+Próximo: -1
+ID: 254
+Ano: 2016
+Quantidade: 13
+Sigla: 
+Cidade: UNAI
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 254
+Status: 0
+Próximo: -1
+ID: 255
+Ano: 2003
+Quantidade: 162
+Sigla: MG
+Cidade: UBERABA
+Marca: HONDA
+Modelo: CG 125 TITAN KSE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 255
+Status: 0
+Próximo: -1
+ID: 256
+Ano: 2005
+Quantidade: 31
+Sigla: PE
+Cidade: LAGOA DO ITAENGA
+Marca: 
+Modelo: CG 150 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 256
+Status: 0
+Próximo: -1
+ID: 257
+Ano: 1988
+Quantidade: 10
+Sigla: PR
+Cidade: CURITIBA
+Marca: AGRALE
+Modelo: SXT 16.5
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 257
+Status: 0
+Próximo: -1
+ID: 258
+Ano: 1989
+Quantidade: 52
+Sigla: RJ
+Cidade: NITEROI
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 258
+Status: 0
+Próximo: -1
+ID: 259
+Ano: -1
+Quantidade: 159
+Sigla: PR
+Cidade: ARAUCARIA
+Marca: 
+Modelo: CG 125 FAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 259
+Status: 0
+Próximo: -1
+ID: 260
+Ano: 2011
+Quantidade: 43
+Sigla: PR
+Cidade: PONTA GROSSA
+Marca: YAMAHA
+Modelo: FACTOR YBR125 K
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 260
+Status: 0
+Próximo: -1
+ID: 261
+Ano: 2012
+Quantidade: 44
+Sigla: 
+Cidade: NOVA VENECIA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 261
+Status: 0
+Próximo: -1
+ID: 262
+Ano: 2015
+Quantidade: 18
+Sigla: MG
+Cidade: NOVA LIMA
+Marca: 
+Modelo: STRADA WORKING
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 262
+Status: 0
+Próximo: -1
+ID: 263
+Ano: 2016
+Quantidade: 41
+Sigla: MG
+Cidade: UBERLANDIA
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 263
+Status: 0
+Próximo: -1
+ID: 264
+Ano: 2009
+Quantidade: 157
+Sigla: MS
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 264
+Status: 0
+Próximo: -1
+ID: 265
+Ano: 1976
+Quantidade: 26
+Sigla: RJ
+Cidade: ITABORAI
+Marca: 
+Modelo: L 1113
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 265
+Status: 0
+Próximo: -1
+ID: 266
+Ano: 2014
+Quantidade: 10
+Sigla: MG
+Cidade: SALINAS
+Marca: 
+Modelo: HB20 1M COMFOR
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 266
+Status: 0
+Próximo: -1
+ID: 267
+Ano: 2014
+Quantidade: 25
+Sigla: AM
+Cidade: MANAUS
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 267
+Status: 0
+Próximo: -1
+ID: 268
+Ano: 2008
+Quantidade: 32
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 268
+Status: 0
+Próximo: -1
+ID: 269
+Ano: -1
+Quantidade: 30
+Sigla: ES
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 269
+Status: 0
+Próximo: -1
+ID: 270
+Ano: 2005
+Quantidade: 11
+Sigla: CE
+Cidade: CARIUS
+Marca: HONDA
+Modelo: C100 BIZ
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 270
+Status: 0
+Próximo: -1
+ID: 271
+Ano: 1981
+Quantidade: 11
+Sigla: PR
+Cidade: TERRA RICA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 271
+Status: 0
+Próximo: -1
+ID: 272
+Ano: 2018
+Quantidade: 14
+Sigla: 
+Cidade: FRUTAL
+Marca: 
+Modelo: YBR125I FACTOR ED
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 272
+Status: 0
+Próximo: -1
+ID: 273
+Ano: -1
+Quantidade: 12
+Sigla: GO
+Cidade: 
+Marca: 
+Modelo: JL50Q-8
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 273
+Status: 0
+Próximo: -1
+ID: 274
+Ano: 2013
+Quantidade: 31
+Sigla: TO
+Cidade: 
+Marca: 
+Modelo: T115 CRYPTON ED
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 274
+Status: 0
+Próximo: -1
+ID: 275
+Ano: 2011
+Quantidade: 14
+Sigla: PR
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 275
+Status: 0
+Próximo: -1
+ID: 276
+Ano: -1
+Quantidade: 28
+Sigla: CE
+Cidade: ANTONINA DO NORTE
+Marca: HONDA
+Modelo: CG 125 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 276
+Status: 0
+Próximo: -1
+ID: 277
+Ano: 2001
+Quantidade: 23
+Sigla: PR
+Cidade: PIRAI DO SUL
+Marca: GM
+Modelo: CELTA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 277
+Status: 0
+Próximo: -1
+ID: 278
+Ano: 2006
+Quantidade: 13
+Sigla: MG
+Cidade: BARRA LONGA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 278
+Status: 0
+Próximo: -1
+ID: 279
+Ano: 2014
+Quantidade: 13
+Sigla: 
+Cidade: ALFENAS
+Marca: 
+Modelo: PRISMA 1.4MT LTZ
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 279
+Status: 0
+Próximo: -1
+ID: 280
+Ano: -1
+Quantidade: 31
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 280
+Status: 0
+Próximo: -1
+ID: 281
+Ano: 2007
+Quantidade: 33
+Sigla: ES
+Cidade: 
+Marca: TOYOTA
+Modelo: COROLLA XEI18VVT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 281
+Status: 0
+Próximo: -1
+ID: 282
+Ano: 2001
+Quantidade: 33
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: PALIO ELX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 282
+Status: 0
+Próximo: -1
+ID: 283
+Ano: -1
+Quantidade: 13
+Sigla: 
+Cidade: 
+Marca: FORD
+Modelo: KA FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 283
+Status: 0
+Próximo: -1
+ID: 284
+Ano: 2012
+Quantidade: 11
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: VOYAGE 1.6 COMFORTL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 284
+Status: 0
+Próximo: -1
+ID: 285
+Ano: 2020
+Quantidade: 10
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: CG 160 TITAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 285
+Status: 0
+Próximo: -1
+ID: 286
+Ano: 2013
+Quantidade: 25
+Sigla: PA
+Cidade: ALTAMIRA
+Marca: CHEVROLET
+Modelo: CELTA 1L LT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 286
+Status: 0
+Próximo: -1
+ID: 287
+Ano: -1
+Quantidade: 36
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: UNO MILLE WAY ECON
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 287
+Status: 0
+Próximo: -1
+ID: 288
+Ano: 1997
+Quantidade: 14
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: FORD ESCORT GLX 16V
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 288
+Status: 0
+Próximo: -1
+ID: 289
+Ano: 2015
+Quantidade: 41
+Sigla: RJ
+Cidade: MAGE
+Marca: 
+Modelo: CB 300R
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 289
+Status: 0
+Próximo: -1
+ID: 290
+Ano: -1
+Quantidade: 12
+Sigla: AM
+Cidade: CAREIRO
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 290
+Status: 0
+Próximo: -1
+ID: 291
+Ano: 2001
+Quantidade: 16
+Sigla: AL
+Cidade: CAMPO GRANDE
+Marca: HONDA
+Modelo: CG 125 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 291
+Status: 0
+Próximo: -1
+ID: 292
+Ano: 1971
+Quantidade: 11
+Sigla: 
+Cidade: ANAPOLIS
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 292
+Status: 0
+Próximo: -1
+ID: 293
+Ano: 2016
+Quantidade: 46
+Sigla: PE
+Cidade: ARARIPINA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 293
+Status: 0
+Próximo: -1
+ID: 294
+Ano: 2011
+Quantidade: 10
+Sigla: PA
+Cidade: 
+Marca: SR
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 294
+Status: 0
+Próximo: -1
+ID: 295
+Ano: 2000
+Quantidade: 12
+Sigla: MG
+Cidade: ITAMARANDIBA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 295
+Status: 0
+Próximo: -1
+ID: 296
+Ano: 2020
+Quantidade: 12
+Sigla: CE
+Cidade: CAUCAIA
+Marca: 
+Modelo: STRADA ENDURANCE CS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 296
+Status: 0
+Próximo: -1
+ID: 297
+Ano: 2010
+Quantidade: 144
+Sigla: BA
+Cidade: SALVADOR
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 297
+Status: 0
+Próximo: -1
+ID: 298
+Ano: -1
+Quantidade: 16
+Sigla: MT
+Cidade: PRIMAVERA DO LESTE
+Marca: 
+Modelo: ECOSPORT XLT1.6FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 298
+Status: 0
+Próximo: -1
+ID: 299
+Ano: -1
+Quantidade: 11
+Sigla: PR
+Cidade: CAMPINA GRANDE DO SUL
+Marca: 
+Modelo: STRADA HD WK CC E
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 299
+Status: 0
+Próximo: -1
+ID: 300
+Ano: 1992
+Quantidade: 144
+Sigla: PR
+Cidade: CURITIBA
+Marca: 
+Modelo: SANTANA GL 2000
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 300
+Status: 0
+Próximo: -1
+ID: 301
+Ano: 2016
+Quantidade: 144
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: NXR 160 BROS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 301
+Status: 0
+Próximo: -1
+ID: 302
+Ano: 2014
+Quantidade: 12
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 302
+Status: 0
+Próximo: -1
+ID: 303
+Ano: 2011
+Quantidade: 12
+Sigla: MG
+Cidade: SAO JOAO DEL REI
+Marca: DAFRA
+Modelo: TVS APACHE RTR 150
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 303
+Status: 0
+Próximo: -1
+ID: 304
+Ano: 2017
+Quantidade: 10
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 304
+Status: 0
+Próximo: -1
+ID: 305
+Ano: 2021
+Quantidade: 18
+Sigla: RO
+Cidade: 
+Marca: DAF
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 305
+Status: 0
+Próximo: -1
+ID: 306
+Ano: 2014
+Quantidade: 23
+Sigla: RJ
+Cidade: TERESOPOLIS
+Marca: RENAULT
+Modelo: SANDERO STEP 16
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 306
+Status: 0
+Próximo: -1
+ID: 307
+Ano: -1
+Quantidade: 11
+Sigla: PE
+Cidade: OLINDA
+Marca: JEEP
+Modelo: RENEGADE SPORT AT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 307
+Status: 0
+Próximo: -1
+ID: 308
+Ano: 2014
+Quantidade: 20
+Sigla: PA
+Cidade: BELEM
+Marca: MOTO TRAXX
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 308
+Status: 0
+Próximo: -1
+ID: 309
+Ano: 2014
+Quantidade: 11
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: BIZ 100 ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 309
+Status: 0
+Próximo: -1
+ID: 310
+Ano: 2011
+Quantidade: 140
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 310
+Status: 0
+Próximo: -1
+ID: 311
+Ano: 2005
+Quantidade: 52
+Sigla: SE
+Cidade: LAGARTO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 311
+Status: 0
+Próximo: -1
+ID: 312
+Ano: -1
+Quantidade: 15
+Sigla: PR
+Cidade: ARAPONGAS
+Marca: GM
+Modelo: MERIVA MAXX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 312
+Status: 0
+Próximo: -1
+ID: 313
+Ano: -1
+Quantidade: 140
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: HB20 1M COMFOR
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 313
+Status: 0
+Próximo: -1
+ID: 314
+Ano: 2004
+Quantidade: 18
+Sigla: BA
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 314
+Status: 0
+Próximo: -1
+ID: 315
+Ano: -1
+Quantidade: 139
+Sigla: DF
+Cidade: BRASILIA
+Marca: NISSAN
+Modelo: KICKS S CVT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 315
+Status: 0
+Próximo: -1
+ID: 316
+Ano: 2018
+Quantidade: 12
+Sigla: PE
+Cidade: 
+Marca: FORD
+Modelo: ECOSPORT FSL AT 1.5
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 316
+Status: 0
+Próximo: -1
+ID: 317
+Ano: -1
+Quantidade: 26
+Sigla: RJ
+Cidade: JAPERI
+Marca: 
+Modelo: YBR150 FACTOR ED
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 317
+Status: 0
+Próximo: -1
+ID: 318
+Ano: 2007
+Quantidade: 41
+Sigla: ES
+Cidade: VITORIA
+Marca: HONDA
+Modelo: BIZ 125 MAIS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 318
+Status: 0
+Próximo: -1
+ID: 319
+Ano: 2015
+Quantidade: 139
+Sigla: CE
+Cidade: 
+Marca: VW
+Modelo: SAVEIRO CS ST MB
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 319
+Status: 0
+Próximo: -1
+ID: 320
+Ano: 2008
+Quantidade: 19
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: PALIO FIRE FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 320
+Status: 0
+Próximo: -1
+ID: 321
+Ano: 1997
+Quantidade: 12
+Sigla: PR
+Cidade: FAZENDA RIO GRANDE
+Marca: VW
+Modelo: KOMBI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 321
+Status: 0
+Próximo: -1
+ID: 322
+Ano: 2011
+Quantidade: 18
+Sigla: 
+Cidade: BORDA DA MATA
+Marca: FIAT
+Modelo: UNO MILLE ECONOMY
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 322
+Status: 0
+Próximo: -1
+ID: 323
+Ano: 2014
+Quantidade: 12
+Sigla: BA
+Cidade: 
+Marca: 
+Modelo: STRADA WORKING CD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 323
+Status: 0
+Próximo: -1
+ID: 324
+Ano: 1992
+Quantidade: 15
+Sigla: 
+Cidade: BETIM
+Marca: FIAT
+Modelo: ELBA CSL 1.6
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 324
+Status: 0
+Próximo: -1
+ID: 325
+Ano: 2003
+Quantidade: 15
+Sigla: 
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 325
+Status: 0
+Próximo: -1
+ID: 326
+Ano: 2014
+Quantidade: 13
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 326
+Status: 0
+Próximo: -1
+ID: 327
+Ano: 2012
+Quantidade: 27
+Sigla: PE
+Cidade: 
+Marca: HONDA
+Modelo: FIT TWIST
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 327
+Status: 0
+Próximo: -1
+ID: 328
+Ano: 2008
+Quantidade: 10
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 328
+Status: 0
+Próximo: -1
+ID: 329
+Ano: -1
+Quantidade: 134
+Sigla: GO
+Cidade: FORMOSA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 329
+Status: 0
+Próximo: -1
+ID: 330
+Ano: 2013
+Quantidade: 18
+Sigla: AM
+Cidade: JUTAI
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 330
+Status: 0
+Próximo: -1
+ID: 331
+Ano: 2006
+Quantidade: 11
+Sigla: MT
+Cidade: GUARANTA DO NORTE
+Marca: 
+Modelo: HUNTER 90
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 331
+Status: 0
+Próximo: -1
+ID: 332
+Ano: -1
+Quantidade: 18
+Sigla: MG
+Cidade: 
+Marca: GM
+Modelo: CORSA SEDAN MAXX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 332
+Status: 0
+Próximo: -1
+ID: 333
+Ano: 2006
+Quantidade: 18
+Sigla: RJ
+Cidade: NITEROI
+Marca: 
+Modelo: ECOSPORT XLT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 333
+Status: 0
+Próximo: -1
+ID: 334
+Ano: 2008
+Quantidade: 41
+Sigla: PR
+Cidade: CASCAVEL
+Marca: 
+Modelo: POLO SEDAN 1.6
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 334
+Status: 0
+Próximo: -1
+ID: 335
+Ano: -1
+Quantidade: 30
+Sigla: BA
+Cidade: 
+Marca: FORD
+Modelo: CARGO 1517 E
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 335
+Status: 0
+Próximo: -1
+ID: 336
+Ano: 1996
+Quantidade: 17
+Sigla: AL
+Cidade: ARAPIRACA
+Marca: FIAT
+Modelo: PALIO EL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 336
+Status: 0
+Próximo: -1
+ID: 337
+Ano: -1
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 337
+Status: 0
+Próximo: -1
+ID: 338
+Ano: 2012
+Quantidade: 12
+Sigla: PR
+Cidade: IRATI
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 338
+Status: 0
+Próximo: -1
+ID: 339
+Ano: 2014
+Quantidade: 13
+Sigla: 
+Cidade: LAURO DE FREITAS
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 339
+Status: 0
+Próximo: -1
+ID: 340
+Ano: -1
+Quantidade: 11
+Sigla: PI
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 340
+Status: 0
+Próximo: -1
+ID: 341
+Ano: 2007
+Quantidade: 30
+Sigla: 
+Cidade: BELO HORIZONTE
+Marca: 
+Modelo: PUNTO 1.4
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 341
+Status: 0
+Próximo: -1
+ID: 342
+Ano: -1
+Quantidade: 26
+Sigla: BA
+Cidade: BARREIRAS
+Marca: FIAT
+Modelo: UNO ATTRACTIVE 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 342
+Status: 0
+Próximo: -1
+ID: 343
+Ano: 2001
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 343
+Status: 0
+Próximo: -1
+ID: 344
+Ano: 1989
+Quantidade: 10
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 344
+Status: 0
+Próximo: -1
+ID: 345
+Ano: -1
+Quantidade: 10
+Sigla: PE
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 345
+Status: 0
+Próximo: -1
+ID: 346
+Ano: 2006
+Quantidade: 16
+Sigla: MS
+Cidade: AQUIDAUANA
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 346
+Status: 0
+Próximo: -1
+ID: 347
+Ano: 1993
+Quantidade: 22
+Sigla: PR
+Cidade: CAMBE
+Marca: 
+Modelo: CG 125 TODAY
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 347
+Status: 0
+Próximo: -1
+ID: 348
+Ano: 1977
+Quantidade: 11
+Sigla: MG
+Cidade: CARMO DO CAJURU
+Marca: VW
+Modelo: BRASILIA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 348
+Status: 0
+Próximo: -1
+ID: 349
+Ano: -1
+Quantidade: 10
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 349
+Status: 0
+Próximo: -1
+ID: 350
+Ano: 2003
+Quantidade: 35
+Sigla: 
+Cidade: 
+Marca: GM
+Modelo: CORSA CLASSIC
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 350
+Status: 0
+Próximo: -1
+ID: 351
+Ano: 2018
+Quantidade: 128
+Sigla: SE
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 351
+Status: 0
+Próximo: -1
+ID: 352
+Ano: 1984
+Quantidade: 10
+Sigla: MG
+Cidade: GOVERNADOR VALADARES
+Marca: FORD
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 352
+Status: 0
+Próximo: -1
+ID: 353
+Ano: 2005
+Quantidade: 20
+Sigla: ES
+Cidade: MIMOSO DO SUL
+Marca: HONDA
+Modelo: CG 150 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 353
+Status: 0
+Próximo: -1
+ID: 354
+Ano: 2016
+Quantidade: 127
+Sigla: DF
+Cidade: 
+Marca: 
+Modelo: VERSA 16SV CVT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 354
+Status: 0
+Próximo: -1
+ID: 355
+Ano: -1
+Quantidade: 10
+Sigla: ES
+Cidade: DIVINO DE SAO LOURENCO
+Marca: HONDA
+Modelo: CG 125 TITAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 355
+Status: 0
+Próximo: -1
+ID: 356
+Ano: 2010
+Quantidade: 12
+Sigla: CE
+Cidade: 
+Marca: HONDA
+Modelo: NXR150 BROS MIX ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 356
+Status: 0
+Próximo: -1
+ID: 357
+Ano: 2005
+Quantidade: 31
+Sigla: PE
+Cidade: AFOGADOS DA INGAZEIRA
+Marca: HONDA
+Modelo: CG 125 FAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 357
+Status: 0
+Próximo: -1
+ID: 358
+Ano: 2007
+Quantidade: 125
+Sigla: 
+Cidade: CAMPOS DOS GOYTACAZES
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 358
+Status: 0
+Próximo: -1
+ID: 359
+Ano: 2013
+Quantidade: 16
+Sigla: MG
+Cidade: UNAI
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 359
+Status: 0
+Próximo: -1
+ID: 360
+Ano: 2001
+Quantidade: 24
+Sigla: MG
+Cidade: 
+Marca: YAMAHA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 360
+Status: 0
+Próximo: -1
+ID: 361
+Ano: 2008
+Quantidade: 15
+Sigla: GO
+Cidade: 
+Marca: FORD
+Modelo: FIESTA 1.6 FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 361
+Status: 0
+Próximo: -1
+ID: 362
+Ano: -1
+Quantidade: 23
+Sigla: PE
+Cidade: 
+Marca: 
+Modelo: CELTA 1L LS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 362
+Status: 0
+Próximo: -1
+ID: 363
+Ano: 2007
+Quantidade: 32
+Sigla: CE
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 363
+Status: 0
+Próximo: -1
+ID: 364
+Ano: -1
+Quantidade: 15
+Sigla: MG
+Cidade: CONSELHEIRO LAFAIETE
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 364
+Status: 0
+Próximo: -1
+ID: 365
+Ano: 2008
+Quantidade: 13
+Sigla: BA
+Cidade: RIACHO DE SANTANA
+Marca: JTA
+Modelo: SUZUKI EN125 YES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 365
+Status: 0
+Próximo: -1
+ID: 366
+Ano: 2012
+Quantidade: 29
+Sigla: 
+Cidade: MOSSORO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 366
+Status: 0
+Próximo: -1
+ID: 367
+Ano: 2020
+Quantidade: 11
+Sigla: MS
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 367
+Status: 0
+Próximo: -1
+ID: 368
+Ano: 2016
+Quantidade: 28
+Sigla: 
+Cidade: SERRA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 368
+Status: 0
+Próximo: -1
+ID: 369
+Ano: 2002
+Quantidade: 123
+Sigla: MS
+Cidade: 
+Marca: SR
+Modelo: RANDON SR CA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 369
+Status: 0
+Próximo: -1
+ID: 370
+Ano: 2021
+Quantidade: 20
+Sigla: RO
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 370
+Status: 0
+Próximo: -1
+ID: 371
+Ano: 1981
+Quantidade: 122
+Sigla: AM
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 371
+Status: 0
+Próximo: -1
+ID: 372
+Ano: 2017
+Quantidade: 11
+Sigla: PE
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 372
+Status: 0
+Próximo: -1
+ID: 373
+Ano: 2007
+Quantidade: 16
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: NXR150 BROS ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 373
+Status: 0
+Próximo: -1
+ID: 374
+Ano: 1998
+Quantidade: 121
+Sigla: CE
+Cidade: 
+Marca: HONDA
+Modelo: CG 125 TITAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 374
+Status: 0
+Próximo: -1
+ID: 375
+Ano: 2017
+Quantidade: 12
+Sigla: MG
+Cidade: 
+Marca: CHEVROLET
+Modelo: ONIX 1MT LT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 375
+Status: 0
+Próximo: -1
+ID: 376
+Ano: 2008
+Quantidade: 121
+Sigla: ES
+Cidade: 
+Marca: HONDA
+Modelo: CG 150 TITAN ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 376
+Status: 0
+Próximo: -1
+ID: 377
+Ano: 1986
+Quantidade: 10
+Sigla: RJ
+Cidade: NOVA FRIBURGO
+Marca: 
+Modelo: 147
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 377
+Status: 0
+Próximo: -1
+ID: 378
+Ano: -1
+Quantidade: 10
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 378
+Status: 0
+Próximo: -1
+ID: 379
+Ano: 1987
+Quantidade: 14
+Sigla: MG
+Cidade: BETIM
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 379
+Status: 0
+Próximo: -1
+ID: 380
+Ano: 1991
+Quantidade: 15
+Sigla: 
+Cidade: TANGUA
+Marca: 
+Modelo: GOL CL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 380
+Status: 0
+Próximo: -1
+ID: 381
+Ano: -1
+Quantidade: 119
+Sigla: RJ
+Cidade: NOVA IGUACU
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 381
+Status: 0
+Próximo: -1
+ID: 382
+Ano: 2020
+Quantidade: 119
+Sigla: AM
+Cidade: MANAUS
+Marca: CHEVROLET
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 382
+Status: 0
+Próximo: -1
+ID: 383
+Ano: 1988
+Quantidade: 14
+Sigla: RN
+Cidade: NATAL
+Marca: 
+Modelo: CB 450 DX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 383
+Status: 0
+Próximo: -1
+ID: 384
+Ano: 2011
+Quantidade: 19
+Sigla: GO
+Cidade: URUACU
+Marca: VW
+Modelo: GOLF 1.6 SPORTLINE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 384
+Status: 0
+Próximo: -1
+ID: 385
+Ano: 1998
+Quantidade: 15
+Sigla: ES
+Cidade: 
+Marca: 
+Modelo: BLAZER DLX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 385
+Status: 0
+Próximo: -1
+ID: 386
+Ano: 2008
+Quantidade: 47
+Sigla: 
+Cidade: CAPELA DO ALTO ALEGRE
+Marca: HONDA
+Modelo: CG 125 FAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 386
+Status: 0
+Próximo: -1
+ID: 387
+Ano: -1
+Quantidade: 13
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: BIZ 125 KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 387
+Status: 0
+Próximo: -1
+ID: 388
+Ano: 1995
+Quantidade: 13
+Sigla: PR
+Cidade: PAICANDU
+Marca: 
+Modelo: VW GOLF GL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 388
+Status: 0
+Próximo: -1
+ID: 389
+Ano: -1
+Quantidade: 30
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: FUSCA 1500
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 389
+Status: 0
+Próximo: -1
+ID: 390
+Ano: 2018
+Quantidade: 118
+Sigla: 
+Cidade: RIO BRANCO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 390
+Status: 0
+Próximo: -1
+ID: 391
+Ano: 2002
+Quantidade: 37
+Sigla: RJ
+Cidade: 
+Marca: VW
+Modelo: KOMBI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 391
+Status: 0
+Próximo: -1
+ID: 392
+Ano: 1993
+Quantidade: 10
+Sigla: PI
+Cidade: CASTELO DO PIAUI
+Marca: GM
+Modelo: D20 CUSTOM S
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 392
+Status: 0
+Próximo: -1
+ID: 393
+Ano: 1988
+Quantidade: 10
+Sigla: 
+Cidade: BAIXO GUANDU
+Marca: 
+Modelo: XL 125 S
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 393
+Status: 0
+Próximo: -1
+ID: 394
+Ano: 2008
+Quantidade: 27
+Sigla: RN
+Cidade: PAU DOS FERROS
+Marca: 
+Modelo: CELTA 4P LIFE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 394
+Status: 0
+Próximo: -1
+ID: 395
+Ano: 2005
+Quantidade: 26
+Sigla: MA
+Cidade: SAO DOMINGOS DO MARANHAO
+Marca: 
+Modelo: CG 125 FAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 395
+Status: 0
+Próximo: -1
+ID: 396
+Ano: 2004
+Quantidade: 20
+Sigla: CE
+Cidade: ARACATI
+Marca: 
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 396
+Status: 0
+Próximo: -1
+ID: 397
+Ano: 2005
+Quantidade: 10
+Sigla: 
+Cidade: ALMIRANTE TAMANDARE
+Marca: GM
+Modelo: ASTRA HB 2P ADVANTAGE
+Lixo: $$$$$$$$$$$$$$$$$$$$$
+
+RRN: 397
+Status: 0
+Próximo: -1
+ID: 398
+Ano: 2010
+Quantidade: 21
+Sigla: PR
+Cidade: LONDRINA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 398
+Status: 0
+Próximo: -1
+ID: 399
+Ano: 1983
+Quantidade: 11
+Sigla: BA
+Cidade: CANDEIAS
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 399
+Status: 0
+Próximo: -1
+ID: 400
+Ano: 2006
+Quantidade: 24
+Sigla: CE
+Cidade: ITAPIPOCA
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 400
+Status: 0
+Próximo: -1
+ID: 401
+Ano: 1983
+Quantidade: 115
+Sigla: RJ
+Cidade: 
+Marca: VW
+Modelo: VOYAGE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 401
+Status: 0
+Próximo: -1
+ID: 402
+Ano: 2009
+Quantidade: 19
+Sigla: GO
+Cidade: 
+Marca: HONDA
+Modelo: CG150 TITAN MIX EX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 402
+Status: 0
+Próximo: -1
+ID: 403
+Ano: -1
+Quantidade: 15
+Sigla: MG
+Cidade: JUIZ DE FORA
+Marca: DODGE
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 403
+Status: 0
+Próximo: -1
+ID: 404
+Ano: 2004
+Quantidade: 37
+Sigla: PA
+Cidade: NOVO PROGRESSO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 404
+Status: 0
+Próximo: -1
+ID: 405
+Ano: -1
+Quantidade: 36
+Sigla: MG
+Cidade: NEPOMUCENO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 405
+Status: 0
+Próximo: -1
+ID: 406
+Ano: -1
+Quantidade: 16
+Sigla: ES
+Cidade: CARIACICA
+Marca: 
+Modelo: HB20 1.6M COMF
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 406
+Status: 0
+Próximo: -1
+ID: 407
+Ano: 2011
+Quantidade: 13
+Sigla: MG
+Cidade: CURVELO
+Marca: VW
+Modelo: FOX 1.6 GII
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 407
+Status: 0
+Próximo: -1
+ID: 408
+Ano: 2011
+Quantidade: 113
+Sigla: RN
+Cidade: NATAL
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 408
+Status: 0
+Próximo: -1
+ID: 409
+Ano: -1
+Quantidade: 113
+Sigla: AL
+Cidade: MACEIO
+Marca: 
+Modelo: CLASSIC
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 409
+Status: 0
+Próximo: -1
+ID: 410
+Ano: 2002
+Quantidade: 12
+Sigla: RO
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 410
+Status: 0
+Próximo: -1
+ID: 411
+Ano: -1
+Quantidade: 13
+Sigla: ES
+Cidade: AFONSO CLAUDIO
+Marca: HONDA
+Modelo: C100 BIZ ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 411
+Status: 0
+Próximo: -1
+ID: 412
+Ano: 2003
+Quantidade: 43
+Sigla: 
+Cidade: RIO LARGO
+Marca: HONDA
+Modelo: CG 125 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 412
+Status: 0
+Próximo: -1
+ID: 413
+Ano: 2007
+Quantidade: 20
+Sigla: MG
+Cidade: JUIZ DE FORA
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 413
+Status: 0
+Próximo: -1
+ID: 414
+Ano: 1993
+Quantidade: 11
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 414
+Status: 0
+Próximo: -1
+ID: 415
+Ano: -1
+Quantidade: 10
+Sigla: RN
+Cidade: SAO JOSE DE MIPIBU
+Marca: VW
+Modelo: NOVO GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 415
+Status: 0
+Próximo: -1
+ID: 416
+Ano: 2004
+Quantidade: 36
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 416
+Status: 0
+Próximo: -1
+ID: 417
+Ano: 1994
+Quantidade: 10
+Sigla: ES
+Cidade: DOMINGOS MARTINS
+Marca: 
+Modelo: KOMBI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 417
+Status: 0
+Próximo: -1
+ID: 418
+Ano: 1992
+Quantidade: 112
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 418
+Status: 0
+Próximo: -1
+ID: 419
+Ano: 2014
+Quantidade: 37
+Sigla: PR
+Cidade: PONTA GROSSA
+Marca: CHEVROLET
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 419
+Status: 0
+Próximo: -1
+ID: 420
+Ano: 1996
+Quantidade: 17
+Sigla: 
+Cidade: CAFELANDIA
+Marca: GM
+Modelo: VECTRA GLS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 420
+Status: 0
+Próximo: -1
+ID: 421
+Ano: -1
+Quantidade: 22
+Sigla: ES
+Cidade: 
+Marca: VOLVO
+Modelo: FH 440 6X2T
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 421
+Status: 0
+Próximo: -1
+ID: 422
+Ano: 1996
+Quantidade: 14
+Sigla: MG
+Cidade: POCOS DE CALDAS
+Marca: 
+Modelo: FIORINO IE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 422
+Status: 0
+Próximo: -1
+ID: 423
+Ano: 2010
+Quantidade: 12
+Sigla: PR
+Cidade: SANTA MARIANA
+Marca: 
+Modelo: CLASSIC LS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 423
+Status: 0
+Próximo: -1
+ID: 424
+Ano: 2000
+Quantidade: 13
+Sigla: GO
+Cidade: 
+Marca: HONDA
+Modelo: CG 125 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 424
+Status: 0
+Próximo: -1
+ID: 425
+Ano: 1983
+Quantidade: 24
+Sigla: MG
+Cidade: BETIM
+Marca: VW
+Modelo: PARATI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 425
+Status: 0
+Próximo: -1
+ID: 426
+Ano: -1
+Quantidade: 29
+Sigla: MA
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 426
+Status: 0
+Próximo: -1
+ID: 427
+Ano: 2018
+Quantidade: 13
+Sigla: RJ
+Cidade: ANGRA DOS REIS
+Marca: YAMAHA
+Modelo: NMAX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 427
+Status: 0
+Próximo: -1
+ID: 428
+Ano: 2014
+Quantidade: 15
+Sigla: RJ
+Cidade: 
+Marca: CHEVROLET
+Modelo: CRUZE LT NB
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 428
+Status: 0
+Próximo: -1
+ID: 429
+Ano: 2001
+Quantidade: 27
+Sigla: GO
+Cidade: 
+Marca: M.BENZ
+Modelo: A 160
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 429
+Status: 0
+Próximo: -1
+ID: 430
+Ano: 2017
+Quantidade: 110
+Sigla: GO
+Cidade: RIO VERDE
+Marca: HONDA
+Modelo: CG 160 FAN ESDI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 430
+Status: 0
+Próximo: -1
+ID: 431
+Ano: -1
+Quantidade: 25
+Sigla: CE
+Cidade: 
+Marca: FORD
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 431
+Status: 0
+Próximo: -1
+ID: 432
+Ano: 1988
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: YAMAHA
+Modelo: DT 180 Z
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 432
+Status: 0
+Próximo: -1
+ID: 433
+Ano: 1998
+Quantidade: 110
+Sigla: RO
+Cidade: 
+Marca: HONDA
+Modelo: CG 125 TITAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 433
+Status: 0
+Próximo: -1
+ID: 434
+Ano: -1
+Quantidade: 25
+Sigla: RJ
+Cidade: SAO GONCALO
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 434
+Status: 0
+Próximo: -1
+ID: 435
+Ano: 1983
+Quantidade: 17
+Sigla: MG
+Cidade: PARAGUACU
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 435
+Status: 0
+Próximo: -1
+ID: 436
+Ano: 2006
+Quantidade: 34
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: CORSA HATCH MAXX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 436
+Status: 0
+Próximo: -1
+ID: 437
+Ano: 2009
+Quantidade: 13
+Sigla: PE
+Cidade: BONITO
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 437
+Status: 0
+Próximo: -1
+ID: 438
+Ano: 2011
+Quantidade: 37
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 207PASSION XR
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 438
+Status: 0
+Próximo: -1
+ID: 439
+Ano: 2004
+Quantidade: 21
+Sigla: PR
+Cidade: 
+Marca: GM
+Modelo: VECTRA EXPRESSION
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 439
+Status: 0
+Próximo: -1
+ID: 440
+Ano: -1
+Quantidade: 10
+Sigla: 
+Cidade: TEIXEIRA DE FREITAS
+Marca: CHEVROLET
+Modelo: ONIX 1.4AT LTZ
+Lixo: $$$$$$$$$$$$$$$$$$$$$
+
+RRN: 440
+Status: 0
+Próximo: -1
+ID: 441
+Ano: 1992
+Quantidade: 36
+Sigla: 
+Cidade: CONTAGEM
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 441
+Status: 0
+Próximo: -1
+ID: 442
+Ano: 2000
+Quantidade: 108
+Sigla: CE
+Cidade: CAMPOS SALES
+Marca: HONDA
+Modelo: CG 125 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 442
+Status: 0
+Próximo: -1
+ID: 443
+Ano: 2012
+Quantidade: 108
+Sigla: 
+Cidade: LAGARTO
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 443
+Status: 0
+Próximo: -1
+ID: 444
+Ano: 2014
+Quantidade: 18
+Sigla: ES
+Cidade: CACHOEIRO DE ITAPEMIRIM
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 444
+Status: 0
+Próximo: -1
+ID: 445
+Ano: -1
+Quantidade: 107
+Sigla: PI
+Cidade: AGUA BRANCA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 445
+Status: 0
+Próximo: -1
+ID: 446
+Ano: -1
+Quantidade: 107
+Sigla: MA
+Cidade: CODO
+Marca: HONDA
+Modelo: BIZ 100 ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 446
+Status: 0
+Próximo: -1
+ID: 447
+Ano: 1996
+Quantidade: 17
+Sigla: GO
+Cidade: NOVO GAMA
+Marca: GM
+Modelo: CORSA GL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 447
+Status: 0
+Próximo: -1
+ID: 448
+Ano: 2004
+Quantidade: 14
+Sigla: 
+Cidade: MONTE ALEGRE
+Marca: FIAT
+Modelo: PALIO FIRE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 448
+Status: 0
+Próximo: -1
+ID: 449
+Ano: -1
+Quantidade: 25
+Sigla: CE
+Cidade: PENTECOSTE
+Marca: 
+Modelo: BIZ 125 KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 449
+Status: 0
+Próximo: -1
+ID: 450
+Ano: 2006
+Quantidade: 37
+Sigla: RN
+Cidade: 
+Marca: 
+Modelo: NXR150 BROS ESD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 450
+Status: 0
+Próximo: -1
+ID: 451
+Ano: -1
+Quantidade: 32
+Sigla: 
+Cidade: CORUMBA
+Marca: FORD
+Modelo: KA FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 451
+Status: 0
+Próximo: -1
+ID: 452
+Ano: 2021
+Quantidade: 32
+Sigla: 
+Cidade: WENCESLAU BRAZ
+Marca: SR
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 452
+Status: 0
+Próximo: -1
+ID: 453
+Ano: 2012
+Quantidade: 12
+Sigla: MG
+Cidade: SANTO ANTONIO DO MONTE
+Marca: FIAT
+Modelo: SIENA EL 1.4 FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$
+
+RRN: 453
+Status: 0
+Próximo: -1
+ID: 454
+Ano: -1
+Quantidade: 104
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: PALIO FIRE ECONOMY
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 454
+Status: 0
+Próximo: -1
+ID: 455
+Ano: 2007
+Quantidade: 10
+Sigla: 
+Cidade: CASTELO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 455
+Status: 0
+Próximo: -1
+ID: 456
+Ano: 1982
+Quantidade: 104
+Sigla: MS
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 456
+Status: 0
+Próximo: -1
+ID: 457
+Ano: 2000
+Quantidade: 104
+Sigla: 
+Cidade: PETROLINA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 457
+Status: 0
+Próximo: -1
+ID: 458
+Ano: -1
+Quantidade: 35
+Sigla: GO
+Cidade: 
+Marca: VOLVO
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 458
+Status: 0
+Próximo: -1
+ID: 459
+Ano: 2014
+Quantidade: 11
+Sigla: BA
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 459
+Status: 0
+Próximo: -1
+ID: 460
+Ano: 2015
+Quantidade: 34
+Sigla: TO
+Cidade: 
+Marca: CHEVROLET
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 460
+Status: 0
+Próximo: -1
+ID: 461
+Ano: -1
+Quantidade: 12
+Sigla: PE
+Cidade: 
+Marca: 
+Modelo: CG 125
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 461
+Status: 0
+Próximo: -1
+ID: 462
+Ano: 2021
+Quantidade: 10
+Sigla: GO
+Cidade: 
+Marca: JEEP
+Modelo: RENEGADE 1.8 AUTOM.
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 462
+Status: 0
+Próximo: -1
+ID: 463
+Ano: 2013
+Quantidade: 40
+Sigla: MA
+Cidade: SAO LUIS
+Marca: 
+Modelo: HB20S 1.6A PREM
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 463
+Status: 0
+Próximo: -1
+ID: 464
+Ano: 2020
+Quantidade: 45
+Sigla: DF
+Cidade: BRASILIA
+Marca: FIAT
+Modelo: FIORINO 1.4 FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 464
+Status: 0
+Próximo: -1
+ID: 465
+Ano: 2009
+Quantidade: 20
+Sigla: 
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 465
+Status: 0
+Próximo: -1
+ID: 466
+Ano: 2013
+Quantidade: 14
+Sigla: BA
+Cidade: FEIRA DE SANTANA
+Marca: CHEVROLET
+Modelo: ONIX 1.4AT LTZ
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 466
+Status: 0
+Próximo: -1
+ID: 467
+Ano: 1996
+Quantidade: 28
+Sigla: CE
+Cidade: FORTALEZA
+Marca: 
+Modelo: TEMPRA 16V
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 467
+Status: 0
+Próximo: -1
+ID: 468
+Ano: 2010
+Quantidade: 18
+Sigla: MT
+Cidade: TANGARA DA SERRA
+Marca: 
+Modelo: CG150 FAN ESDI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 468
+Status: 0
+Próximo: -1
+ID: 469
+Ano: 1996
+Quantidade: 102
+Sigla: GO
+Cidade: APARECIDA DE GOIANIA
+Marca: FIAT
+Modelo: PALIO ED
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 469
+Status: 0
+Próximo: -1
+ID: 470
+Ano: 2019
+Quantidade: 17
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: VIRTUS HL AD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 470
+Status: 0
+Próximo: -1
+ID: 471
+Ano: 2021
+Quantidade: 33
+Sigla: PA
+Cidade: XINGUARA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 471
+Status: 0
+Próximo: -1
+ID: 472
+Ano: -1
+Quantidade: 10
+Sigla: MG
+Cidade: ABAETE
+Marca: 
+Modelo: UNO CS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 472
+Status: 0
+Próximo: -1
+ID: 473
+Ano: -1
+Quantidade: 11
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: BIZ 125 ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 473
+Status: 0
+Próximo: -1
+ID: 474
+Ano: 1978
+Quantidade: 100
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: FORD
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 474
+Status: 0
+Próximo: -1
+ID: 475
+Ano: 2002
+Quantidade: 18
+Sigla: MS
+Cidade: 
+Marca: YAMAHA
+Modelo: YBR 125ED
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 475
+Status: 0
+Próximo: -1
+ID: 476
+Ano: 2012
+Quantidade: 17
+Sigla: PE
+Cidade: BARRA DE GUABIRABA
+Marca: HONDA
+Modelo: POP100
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 476
+Status: 0
+Próximo: -1
+ID: 477
+Ano: 2006
+Quantidade: 28
+Sigla: MG
+Cidade: IPANEMA
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 477
+Status: 0
+Próximo: -1
+ID: 478
+Ano: -1
+Quantidade: 11
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: SANTANA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 478
+Status: 0
+Próximo: -1
+ID: 479
+Ano: 1995
+Quantidade: 14
+Sigla: 
+Cidade: PRESIDENTE KENNEDY
+Marca: 
+Modelo: GOL 1000I
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 479
+Status: 0
+Próximo: -1
+ID: 480
+Ano: 2003
+Quantidade: 10
+Sigla: AL
+Cidade: MARAVILHA
+Marca: HONDA
+Modelo: CG 125 TITAN KSE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 480
+Status: 0
+Próximo: -1
+ID: 481
+Ano: 2008
+Quantidade: 10
+Sigla: ES
+Cidade: VITORIA
+Marca: GM
+Modelo: MERIVA PREMIUM
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 481
+Status: 0
+Próximo: -1
+ID: 482
+Ano: 2008
+Quantidade: 11
+Sigla: 
+Cidade: MANAUS
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 482
+Status: 0
+Próximo: -1
+ID: 483
+Ano: 2016
+Quantidade: 14
+Sigla: AM
+Cidade: MAUES
+Marca: 
+Modelo: CG 160 TITAN EX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 483
+Status: 0
+Próximo: -1
+ID: 484
+Ano: 1981
+Quantidade: 11
+Sigla: GO
+Cidade: 
+Marca: FORD
+Modelo: CORCEL II L
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 484
+Status: 0
+Próximo: -1
+ID: 485
+Ano: -1
+Quantidade: 14
+Sigla: AL
+Cidade: ARAPIRACA
+Marca: YAMAHA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 485
+Status: 0
+Próximo: -1
+ID: 486
+Ano: 2005
+Quantidade: 11
+Sigla: MG
+Cidade: ARCOS
+Marca: VW
+Modelo: FOX 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 486
+Status: 0
+Próximo: -1
+ID: 487
+Ano: 2001
+Quantidade: 26
+Sigla: MG
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 487
+Status: 0
+Próximo: -1
+ID: 488
+Ano: 2013
+Quantidade: 97
+Sigla: 
+Cidade: GOIANIA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 488
+Status: 0
+Próximo: -1
+ID: 489
+Ano: -1
+Quantidade: 97
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: CG 160 START
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 489
+Status: 0
+Próximo: -1
+ID: 490
+Ano: 2009
+Quantidade: 18
+Sigla: PA
+Cidade: PARAUAPEBAS
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 490
+Status: 0
+Próximo: -1
+ID: 491
+Ano: 1998
+Quantidade: 10
+Sigla: ES
+Cidade: 
+Marca: FIAT
+Modelo: PALIO ELX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 491
+Status: 0
+Próximo: -1
+ID: 492
+Ano: 1982
+Quantidade: 97
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 492
+Status: 0
+Próximo: -1
+ID: 493
+Ano: 1995
+Quantidade: 35
+Sigla: 
+Cidade: MARABA
+Marca: GM
+Modelo: CORSA WIND
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 493
+Status: 0
+Próximo: -1
+ID: 494
+Ano: 2014
+Quantidade: 21
+Sigla: 
+Cidade: RIBEIRA DO POMBAL
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 494
+Status: 0
+Próximo: -1
+ID: 495
+Ano: -1
+Quantidade: 10
+Sigla: MG
+Cidade: CANAPOLIS
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 495
+Status: 0
+Próximo: -1
+ID: 496
+Ano: 2005
+Quantidade: 12
+Sigla: RJ
+Cidade: 
+Marca: FIAT
+Modelo: STRADA FIRE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 496
+Status: 0
+Próximo: -1
+ID: 497
+Ano: 2016
+Quantidade: 10
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 497
+Status: 0
+Próximo: -1
+ID: 498
+Ano: 2005
+Quantidade: 12
+Sigla: RO
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 498
+Status: 0
+Próximo: -1
+ID: 499
+Ano: 2010
+Quantidade: 10
+Sigla: RJ
+Cidade: MARICA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 499
+Status: 0
+Próximo: -1
+ID: 500
+Ano: 2011
+Quantidade: 96
+Sigla: PR
+Cidade: CURITIBA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 500
+Status: 0
+Próximo: -1
+ID: 501
+Ano: 2005
+Quantidade: 14
+Sigla: MG
+Cidade: ARAGUARI
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 501
+Status: 0
+Próximo: -1
+ID: 502
+Ano: 1987
+Quantidade: 12
+Sigla: AC
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 502
+Status: 0
+Próximo: -1
+ID: 503
+Ano: -1
+Quantidade: 94
+Sigla: PR
+Cidade: 
+Marca: FORD
+Modelo: FIESTA FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 503
+Status: 0
+Próximo: -1
+ID: 504
+Ano: -1
+Quantidade: 10
+Sigla: 
+Cidade: 
+Marca: FIAT
+Modelo: UNO MILLE FIRE FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 504
+Status: 0
+Próximo: -1
+ID: 505
+Ano: 2010
+Quantidade: 15
+Sigla: 
+Cidade: CURITIBA
+Marca: MMC
+Modelo: PAJERO HD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 505
+Status: 0
+Próximo: -1
+ID: 506
+Ano: 2021
+Quantidade: 17
+Sigla: MS
+Cidade: 
+Marca: RENAULT
+Modelo: LOGAN ZEN10MT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 506
+Status: 0
+Próximo: -1
+ID: 507
+Ano: -1
+Quantidade: 20
+Sigla: PA
+Cidade: 
+Marca: VW
+Modelo: POLO MCA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 507
+Status: 0
+Próximo: -1
+ID: 508
+Ano: 2015
+Quantidade: 10
+Sigla: PE
+Cidade: 
+Marca: HONDA
+Modelo: POP100
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 508
+Status: 0
+Próximo: -1
+ID: 509
+Ano: 1980
+Quantidade: 28
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: VARIANT II
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 509
+Status: 0
+Próximo: -1
+ID: 510
+Ano: 2000
+Quantidade: 10
+Sigla: 
+Cidade: COLORADO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 510
+Status: 0
+Próximo: -1
+ID: 511
+Ano: 2006
+Quantidade: 10
+Sigla: MG
+Cidade: 
+Marca: VW
+Modelo: FOX 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 511
+Status: 0
+Próximo: -1
+ID: 512
+Ano: -1
+Quantidade: 21
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 512
+Status: 0
+Próximo: -1
+ID: 513
+Ano: -1
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 513
+Status: 0
+Próximo: -1
+ID: 514
+Ano: 2021
+Quantidade: 34
+Sigla: GO
+Cidade: GOIANIA
+Marca: 
+Modelo: RENEGADE MOAB
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 514
+Status: 0
+Próximo: -1
+ID: 515
+Ano: 2016
+Quantidade: 21
+Sigla: RN
+Cidade: CEARA-MIRIM
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 515
+Status: 0
+Próximo: -1
+ID: 516
+Ano: 2006
+Quantidade: 92
+Sigla: 
+Cidade: APARECIDA DE GOIANIA
+Marca: 
+Modelo: HUNTER 90
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 516
+Status: 0
+Próximo: -1
+ID: 517
+Ano: -1
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: NXR 160 BROS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 517
+Status: 0
+Próximo: -1
+ID: 518
+Ano: 2013
+Quantidade: 19
+Sigla: MA
+Cidade: 
+Marca: 
+Modelo: CG 125 FAN ESD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 518
+Status: 0
+Próximo: -1
+ID: 519
+Ano: 2009
+Quantidade: 32
+Sigla: MS
+Cidade: CORUMBA
+Marca: FIAT
+Modelo: PALIO FIRE ECONOMY
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 519
+Status: 0
+Próximo: -1
+ID: 520
+Ano: 2011
+Quantidade: 13
+Sigla: 
+Cidade: ILICINEA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 520
+Status: 0
+Próximo: -1
+ID: 521
+Ano: -1
+Quantidade: 16
+Sigla: CE
+Cidade: FORTALEZA
+Marca: 
+Modelo: HERCULES C
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 521
+Status: 0
+Próximo: -1
+ID: 522
+Ano: 2010
+Quantidade: 11
+Sigla: PR
+Cidade: SARANDI
+Marca: TOYOTA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 522
+Status: 0
+Próximo: -1
+ID: 523
+Ano: 1983
+Quantidade: 10
+Sigla: MG
+Cidade: PIUMHI
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 523
+Status: 0
+Próximo: -1
+ID: 524
+Ano: 2012
+Quantidade: 91
+Sigla: PA
+Cidade: JACUNDA
+Marca: 
+Modelo: NXR150 BROS ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 524
+Status: 0
+Próximo: -1
+ID: 525
+Ano: 2018
+Quantidade: 11
+Sigla: PE
+Cidade: MANARI
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 525
+Status: 0
+Próximo: -1
+ID: 526
+Ano: 2017
+Quantidade: 24
+Sigla: PR
+Cidade: SAO JOSE DOS PINHAIS
+Marca: JEEP
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 526
+Status: 0
+Próximo: -1
+ID: 527
+Ano: 1998
+Quantidade: 90
+Sigla: PE
+Cidade: 
+Marca: HONDA
+Modelo: CG 125 CARGO
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 527
+Status: 0
+Próximo: -1
+ID: 528
+Ano: 2013
+Quantidade: 90
+Sigla: GO
+Cidade: CALDAS NOVAS
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 528
+Status: 0
+Próximo: -1
+ID: 529
+Ano: 2013
+Quantidade: 16
+Sigla: 
+Cidade: TORITAMA
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 529
+Status: 0
+Próximo: -1
+ID: 530
+Ano: 2015
+Quantidade: 10
+Sigla: ES
+Cidade: 
+Marca: 
+Modelo: KA SEL 1.5 SD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 530
+Status: 0
+Próximo: -1
+ID: 531
+Ano: 2019
+Quantidade: 13
+Sigla: 
+Cidade: SALVADOR
+Marca: MAN
+Modelo: TGX 29.480 6X4 T
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 531
+Status: 0
+Próximo: -1
+ID: 532
+Ano: 1985
+Quantidade: 38
+Sigla: PR
+Cidade: SAO JOSE DOS PINHAIS
+Marca: VW
+Modelo: FUSCA 1600
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 532
+Status: 0
+Próximo: -1
+ID: 533
+Ano: 2011
+Quantidade: 89
+Sigla: PR
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 533
+Status: 0
+Próximo: -1
+ID: 534
+Ano: 2011
+Quantidade: 89
+Sigla: MG
+Cidade: DIVINOPOLIS
+Marca: 
+Modelo: UNO VIVACE 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 534
+Status: 0
+Próximo: -1
+ID: 535
+Ano: 2019
+Quantidade: 10
+Sigla: MG
+Cidade: 
+Marca: HYUNDAI
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 535
+Status: 0
+Próximo: -1
+ID: 536
+Ano: 2003
+Quantidade: 11
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 536
+Status: 0
+Próximo: -1
+ID: 537
+Ano: -1
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: XR 200R
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 537
+Status: 0
+Próximo: -1
+ID: 538
+Ano: 2009
+Quantidade: 31
+Sigla: MG
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 538
+Status: 0
+Próximo: -1
+ID: 539
+Ano: 2015
+Quantidade: 89
+Sigla: BA
+Cidade: 
+Marca: NISSAN
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 539
+Status: 0
+Próximo: -1
+ID: 540
+Ano: -1
+Quantidade: 23
+Sigla: MT
+Cidade: CUIABA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 540
+Status: 0
+Próximo: -1
+ID: 541
+Ano: 2005
+Quantidade: 14
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 541
+Status: 0
+Próximo: -1
+ID: 542
+Ano: 1999
+Quantidade: 11
+Sigla: 
+Cidade: CARUARU
+Marca: YAMAHA
+Modelo: CRYPTON T105E
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 542
+Status: 0
+Próximo: -1
+ID: 543
+Ano: 2000
+Quantidade: 15
+Sigla: PR
+Cidade: MARMELEIRO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 543
+Status: 0
+Próximo: -1
+ID: 544
+Ano: 1997
+Quantidade: 49
+Sigla: RJ
+Cidade: PETROPOLIS
+Marca: GM
+Modelo: CORSA GL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 544
+Status: 0
+Próximo: -1
+ID: 545
+Ano: -1
+Quantidade: 10
+Sigla: GO
+Cidade: TURVANIA
+Marca: 
+Modelo: BIZ 125
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 545
+Status: 0
+Próximo: -1
+ID: 546
+Ano: 2007
+Quantidade: 16
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: FOX 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 546
+Status: 0
+Próximo: -1
+ID: 547
+Ano: 1983
+Quantidade: 88
+Sigla: MG
+Cidade: DIVINOPOLIS
+Marca: 
+Modelo: 147
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 547
+Status: 0
+Próximo: -1
+ID: 548
+Ano: 2000
+Quantidade: 11
+Sigla: MT
+Cidade: 
+Marca: 
+Modelo: GUERRA AG GR
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 548
+Status: 0
+Próximo: -1
+ID: 549
+Ano: 2015
+Quantidade: 32
+Sigla: MG
+Cidade: 
+Marca: YAMAHA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 549
+Status: 0
+Próximo: -1
+ID: 550
+Ano: -1
+Quantidade: 10
+Sigla: 
+Cidade: ANDRADAS
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 550
+Status: 0
+Próximo: -1
+ID: 551
+Ano: 1996
+Quantidade: 20
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: 
+Modelo: FORD VERONA 2I S
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 551
+Status: 0
+Próximo: -1
+ID: 552
+Ano: 1991
+Quantidade: 17
+Sigla: PR
+Cidade: CURITIBA
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 552
+Status: 0
+Próximo: -1
+ID: 553
+Ano: 1985
+Quantidade: 14
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: GM
+Modelo: CHEVETTE HATCH SL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 553
+Status: 0
+Próximo: -1
+ID: 554
+Ano: 2011
+Quantidade: 49
+Sigla: AC
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 554
+Status: 0
+Próximo: -1
+ID: 555
+Ano: -1
+Quantidade: 25
+Sigla: 
+Cidade: BETIM
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 555
+Status: 0
+Próximo: -1
+ID: 556
+Ano: -1
+Quantidade: 15
+Sigla: BA
+Cidade: BOTUPORA
+Marca: VW
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 556
+Status: 0
+Próximo: -1
+ID: 557
+Ano: 2015
+Quantidade: 10
+Sigla: PI
+Cidade: ITAINOPOLIS
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 557
+Status: 0
+Próximo: -1
+ID: 558
+Ano: 1998
+Quantidade: 13
+Sigla: PE
+Cidade: 
+Marca: FORD
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 558
+Status: 0
+Próximo: -1
+ID: 559
+Ano: -1
+Quantidade: 21
+Sigla: MG
+Cidade: JAPONVAR
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 559
+Status: 0
+Próximo: -1
+ID: 560
+Ano: -1
+Quantidade: 14
+Sigla: MG
+Cidade: JUATUBA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 560
+Status: 0
+Próximo: -1
+ID: 561
+Ano: 2007
+Quantidade: 10
+Sigla: CE
+Cidade: HORIZONTE
+Marca: 
+Modelo: CROSSFOX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 561
+Status: 0
+Próximo: -1
+ID: 562
+Ano: 2015
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: NXR160 BROS ESDD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 562
+Status: 0
+Próximo: -1
+ID: 563
+Ano: 2018
+Quantidade: 26
+Sigla: RO
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 563
+Status: 0
+Próximo: -1
+ID: 564
+Ano: 1978
+Quantidade: 27
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 564
+Status: 0
+Próximo: -1
+ID: 565
+Ano: 2007
+Quantidade: 87
+Sigla: RR
+Cidade: 
+Marca: SUNDOWN
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 565
+Status: 0
+Próximo: -1
+ID: 566
+Ano: 2012
+Quantidade: 17
+Sigla: MG
+Cidade: 
+Marca: VW
+Modelo: NOVO GOL 1.6
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 566
+Status: 0
+Próximo: -1
+ID: 567
+Ano: 2021
+Quantidade: 26
+Sigla: MT
+Cidade: SORRISO
+Marca: FIAT
+Modelo: STRADA FREEDOM 13CD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 567
+Status: 0
+Próximo: -1
+ID: 568
+Ano: 2007
+Quantidade: 18
+Sigla: ES
+Cidade: VILA VELHA
+Marca: 
+Modelo: YBR 125ED
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 568
+Status: 0
+Próximo: -1
+ID: 569
+Ano: 2016
+Quantidade: 15
+Sigla: 
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 569
+Status: 0
+Próximo: -1
+ID: 570
+Ano: 2003
+Quantidade: 14
+Sigla: MA
+Cidade: SANTA INES
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 570
+Status: 0
+Próximo: -1
+ID: 571
+Ano: 2004
+Quantidade: 86
+Sigla: GO
+Cidade: 
+Marca: 
+Modelo: CORSA SEDAN MAXX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 571
+Status: 0
+Próximo: -1
+ID: 572
+Ano: 2011
+Quantidade: 20
+Sigla: 
+Cidade: GROAIRAS
+Marca: HONDA
+Modelo: CG 125 FAN ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 572
+Status: 0
+Próximo: -1
+ID: 573
+Ano: -1
+Quantidade: 13
+Sigla: GO
+Cidade: GOIANIA
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 573
+Status: 0
+Próximo: -1
+ID: 574
+Ano: 2006
+Quantidade: 42
+Sigla: MT
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 574
+Status: 0
+Próximo: -1
+ID: 575
+Ano: 1979
+Quantidade: 85
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: PASSAT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 575
+Status: 0
+Próximo: -1
+ID: 576
+Ano: 2005
+Quantidade: 11
+Sigla: ES
+Cidade: 
+Marca: VW
+Modelo: FOX 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 576
+Status: 0
+Próximo: -1
+ID: 577
+Ano: 2016
+Quantidade: 19
+Sigla: CE
+Cidade: SOBRAL
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 577
+Status: 0
+Próximo: -1
+ID: 578
+Ano: 2017
+Quantidade: 32
+Sigla: RO
+Cidade: PORTO VELHO
+Marca: FORD
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 578
+Status: 0
+Próximo: -1
+ID: 579
+Ano: 2015
+Quantidade: 29
+Sigla: MG
+Cidade: VESPASIANO
+Marca: FIAT
+Modelo: PALIO FIRE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 579
+Status: 0
+Próximo: -1
+ID: 580
+Ano: 2012
+Quantidade: 26
+Sigla: 
+Cidade: NOVA OLINDA
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 580
+Status: 0
+Próximo: -1
+ID: 581
+Ano: 2019
+Quantidade: 12
+Sigla: ES
+Cidade: ARACRUZ
+Marca: 
+Modelo: TORO VOLCANO AT9 D4
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 581
+Status: 0
+Próximo: -1
+ID: 582
+Ano: 2017
+Quantidade: 16
+Sigla: 
+Cidade: 
+Marca: FORD
+Modelo: KA SE 1.5 HA B
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 582
+Status: 0
+Próximo: -1
+ID: 583
+Ano: -1
+Quantidade: 10
+Sigla: RO
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 583
+Status: 0
+Próximo: -1
+ID: 584
+Ano: 1984
+Quantidade: 24
+Sigla: 
+Cidade: ITUMBIARA
+Marca: GM
+Modelo: CHEVETTE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 584
+Status: 0
+Próximo: -1
+ID: 585
+Ano: 2005
+Quantidade: 16
+Sigla: AP
+Cidade: 
+Marca: HONDA
+Modelo: NXR150 BROS KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 585
+Status: 0
+Próximo: -1
+ID: 586
+Ano: 2018
+Quantidade: 83
+Sigla: AL
+Cidade: MACEIO
+Marca: 
+Modelo: CAPTUR LIFE 16 A
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 586
+Status: 0
+Próximo: -1
+ID: 587
+Ano: 2008
+Quantidade: 21
+Sigla: BA
+Cidade: SALVADOR
+Marca: PEUGEOT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 587
+Status: 0
+Próximo: -1
+ID: 588
+Ano: 1999
+Quantidade: 34
+Sigla: BA
+Cidade: 
+Marca: GM
+Modelo: ASTRA GLS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 588
+Status: 0
+Próximo: -1
+ID: 589
+Ano: 2017
+Quantidade: 83
+Sigla: 
+Cidade: SAO MATEUS
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 589
+Status: 0
+Próximo: -1
+ID: 590
+Ano: 2017
+Quantidade: 48
+Sigla: MG
+Cidade: POCOS DE CALDAS
+Marca: HONDA
+Modelo: CG 160 FAN ESDI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 590
+Status: 0
+Próximo: -1
+ID: 591
+Ano: 2013
+Quantidade: 31
+Sigla: AP
+Cidade: 
+Marca: HYUNDAI
+Modelo: HR HDB
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 591
+Status: 0
+Próximo: -1
+ID: 592
+Ano: -1
+Quantidade: 83
+Sigla: MG
+Cidade: CONSELHEIRO LAFAIETE
+Marca: YAMAHA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 592
+Status: 0
+Próximo: -1
+ID: 593
+Ano: -1
+Quantidade: 29
+Sigla: 
+Cidade: COLOMBO
+Marca: FORD
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 593
+Status: 0
+Próximo: -1
+ID: 594
+Ano: 2001
+Quantidade: 15
+Sigla: MG
+Cidade: JUIZ DE FORA
+Marca: 
+Modelo: COURIER 1.6 L
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 594
+Status: 0
+Próximo: -1
+ID: 595
+Ano: 2004
+Quantidade: 82
+Sigla: 
+Cidade: 
+Marca: JTA
+Modelo: SUZUKI INTRUDER 125
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 595
+Status: 0
+Próximo: -1
+ID: 596
+Ano: 2001
+Quantidade: 82
+Sigla: 
+Cidade: ARAUCARIA
+Marca: VW
+Modelo: GOL SPECIAL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 596
+Status: 0
+Próximo: -1
+ID: 597
+Ano: 2010
+Quantidade: 15
+Sigla: MG
+Cidade: ITUIUTABA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 597
+Status: 0
+Próximo: -1
+ID: 598
+Ano: 1996
+Quantidade: 24
+Sigla: RJ
+Cidade: NILOPOLIS
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 598
+Status: 0
+Próximo: -1
+ID: 599
+Ano: -1
+Quantidade: 37
+Sigla: GO
+Cidade: 
+Marca: CHEVROLET
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 599
+Status: 0
+Próximo: -1
+ID: 600
+Ano: 2011
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 600
+Status: 0
+Próximo: -1
+ID: 601
+Ano: 2014
+Quantidade: 10
+Sigla: MT
+Cidade: SANTA TEREZINHA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 601
+Status: 0
+Próximo: -1
+ID: 602
+Ano: 1996
+Quantidade: 18
+Sigla: MG
+Cidade: 
+Marca: VW
+Modelo: GOL 1000I
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 602
+Status: 0
+Próximo: -1
+ID: 603
+Ano: 2010
+Quantidade: 30
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: NXR150 BROS ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 603
+Status: 0
+Próximo: -1
+ID: 604
+Ano: -1
+Quantidade: 15
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: CG 150 TITAN ESD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 604
+Status: 0
+Próximo: -1
+ID: 605
+Ano: 2012
+Quantidade: 82
+Sigla: CE
+Cidade: FORTALEZA
+Marca: CHEVROLET
+Modelo: COBALT 1.8 LTZ
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 605
+Status: 0
+Próximo: -1
+ID: 606
+Ano: 2020
+Quantidade: 17
+Sigla: MG
+Cidade: PARA DE MINAS
+Marca: FIAT
+Modelo: ARGO TREKKING 1.3
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 606
+Status: 0
+Próximo: -1
+ID: 607
+Ano: 1985
+Quantidade: 29
+Sigla: MG
+Cidade: 
+Marca: GM
+Modelo: MONZA SL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 607
+Status: 0
+Próximo: -1
+ID: 608
+Ano: 2012
+Quantidade: 81
+Sigla: BA
+Cidade: PORTO SEGURO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 608
+Status: 0
+Próximo: -1
+ID: 609
+Ano: 2011
+Quantidade: 25
+Sigla: PE
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 609
+Status: 0
+Próximo: -1
+ID: 610
+Ano: -1
+Quantidade: 81
+Sigla: RO
+Cidade: PORTO VELHO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 610
+Status: 0
+Próximo: -1
+ID: 611
+Ano: 2012
+Quantidade: 13
+Sigla: PE
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 611
+Status: 0
+Próximo: -1
+ID: 612
+Ano: 1966
+Quantidade: 14
+Sigla: PR
+Cidade: MANDAGUARI
+Marca: 
+Modelo: FUSCA 1200
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 612
+Status: 0
+Próximo: -1
+ID: 613
+Ano: 2002
+Quantidade: 36
+Sigla: PR
+Cidade: CIANORTE
+Marca: GM
+Modelo: CELTA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 613
+Status: 0
+Próximo: -1
+ID: 614
+Ano: 1979
+Quantidade: 10
+Sigla: RJ
+Cidade: DUQUE DE CAXIAS
+Marca: VW
+Modelo: VARIANT II
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 614
+Status: 0
+Próximo: -1
+ID: 615
+Ano: -1
+Quantidade: 81
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 615
+Status: 0
+Próximo: -1
+ID: 616
+Ano: 2015
+Quantidade: 10
+Sigla: PI
+Cidade: PIRIPIRI
+Marca: HYUNDAI
+Modelo: HB20 1.6M COMF
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 616
+Status: 0
+Próximo: -1
+ID: 617
+Ano: 2004
+Quantidade: 13
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 617
+Status: 0
+Próximo: -1
+ID: 618
+Ano: 1972
+Quantidade: 13
+Sigla: MG
+Cidade: CARMO DO RIO CLARO
+Marca: VW
+Modelo: FUSCA 1300
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 618
+Status: 0
+Próximo: -1
+ID: 619
+Ano: 1997
+Quantidade: 12
+Sigla: 
+Cidade: CRIXAS
+Marca: 
+Modelo: UNO MILLE SX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 619
+Status: 0
+Próximo: -1
+ID: 620
+Ano: 2014
+Quantidade: 18
+Sigla: PE
+Cidade: VICENCIA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 620
+Status: 0
+Próximo: -1
+ID: 621
+Ano: 1998
+Quantidade: 80
+Sigla: GO
+Cidade: SAO LUIS DE MONTES BELOS
+Marca: HONDA
+Modelo: CG 125 TITAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 621
+Status: 0
+Próximo: -1
+ID: 622
+Ano: 2012
+Quantidade: 10
+Sigla: MG
+Cidade: 
+Marca: CHEVROLET
+Modelo: CRUZE LT NB
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 622
+Status: 0
+Próximo: -1
+ID: 623
+Ano: 2006
+Quantidade: 10
+Sigla: ES
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 623
+Status: 0
+Próximo: -1
+ID: 624
+Ano: -1
+Quantidade: 35
+Sigla: SE
+Cidade: 
+Marca: VW
+Modelo: GOL 1.6 POWER
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 624
+Status: 0
+Próximo: -1
+ID: 625
+Ano: 2019
+Quantidade: 13
+Sigla: MG
+Cidade: TEOFILO OTONI
+Marca: 
+Modelo: COROLLA XEI 20
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 625
+Status: 0
+Próximo: -1
+ID: 626
+Ano: 2002
+Quantidade: 13
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 626
+Status: 0
+Próximo: -1
+ID: 627
+Ano: 2013
+Quantidade: 25
+Sigla: PR
+Cidade: LONDRINA
+Marca: HYUNDAI
+Modelo: HB20 1.6M PREM
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 627
+Status: 0
+Próximo: -1
+ID: 628
+Ano: 2014
+Quantidade: 52
+Sigla: RJ
+Cidade: SAO JOAO DE MERITI
+Marca: 
+Modelo: HB20S 1M COMF
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 628
+Status: 0
+Próximo: -1
+ID: 629
+Ano: 2012
+Quantidade: 29
+Sigla: RN
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 629
+Status: 0
+Próximo: -1
+ID: 630
+Ano: -1
+Quantidade: 18
+Sigla: PE
+Cidade: PARNAMIRIM
+Marca: 
+Modelo: CG150 FAN ESDI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 630
+Status: 0
+Próximo: -1
+ID: 631
+Ano: 2021
+Quantidade: 42
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 631
+Status: 0
+Próximo: -1
+ID: 632
+Ano: 2020
+Quantidade: 21
+Sigla: RJ
+Cidade: MESQUITA
+Marca: HONDA
+Modelo: NXR160 BROS ESDD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 632
+Status: 0
+Próximo: -1
+ID: 633
+Ano: -1
+Quantidade: 10
+Sigla: PE
+Cidade: FLORESTA
+Marca: YAMAHA
+Modelo: YBR 125K
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 633
+Status: 0
+Próximo: -1
+ID: 634
+Ano: 1989
+Quantidade: 23
+Sigla: RJ
+Cidade: NITEROI
+Marca: FORD
+Modelo: ESCORT GHIA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 634
+Status: 0
+Próximo: -1
+ID: 635
+Ano: 2005
+Quantidade: 12
+Sigla: RJ
+Cidade: BARRA MANSA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 635
+Status: 0
+Próximo: -1
+ID: 636
+Ano: 2018
+Quantidade: 19
+Sigla: PA
+Cidade: 
+Marca: 
+Modelo: POLO CL AD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 636
+Status: 0
+Próximo: -1
+ID: 637
+Ano: 2004
+Quantidade: 15
+Sigla: 
+Cidade: UBERLANDIA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 637
+Status: 0
+Próximo: -1
+ID: 638
+Ano: 2012
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: VW
+Modelo: FOX 1 GII
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 638
+Status: 0
+Próximo: -1
+ID: 639
+Ano: 1997
+Quantidade: 33
+Sigla: PE
+Cidade: 
+Marca: 
+Modelo: PALIO EDX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 639
+Status: 0
+Próximo: -1
+ID: 640
+Ano: 2007
+Quantidade: 12
+Sigla: DF
+Cidade: BRASILIA
+Marca: M.BENZ
+Modelo: 2423 K
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 640
+Status: 0
+Próximo: -1
+ID: 641
+Ano: 2006
+Quantidade: 26
+Sigla: 
+Cidade: 
+Marca: FORD
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 641
+Status: 0
+Próximo: -1
+ID: 642
+Ano: -1
+Quantidade: 13
+Sigla: 
+Cidade: TURILANDIA
+Marca: HONDA
+Modelo: BIZ 125
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 642
+Status: 0
+Próximo: -1
+ID: 643
+Ano: 2005
+Quantidade: 19
+Sigla: ES
+Cidade: VILA VELHA
+Marca: PEUGEOT
+Modelo: 206 14 FELINE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 643
+Status: 0
+Próximo: -1
+ID: 644
+Ano: 2006
+Quantidade: 36
+Sigla: GO
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 644
+Status: 0
+Próximo: -1
+ID: 645
+Ano: 1968
+Quantidade: 11
+Sigla: MG
+Cidade: SANTO ANTONIO DO AMPARO
+Marca: VW
+Modelo: FUSCA 1300
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 645
+Status: 0
+Próximo: -1
+ID: 646
+Ano: -1
+Quantidade: 76
+Sigla: BA
+Cidade: PORTO SEGURO
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 646
+Status: 0
+Próximo: -1
+ID: 647
+Ano: -1
+Quantidade: 32
+Sigla: PI
+Cidade: 
+Marca: VW
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 647
+Status: 0
+Próximo: -1
+ID: 648
+Ano: 2005
+Quantidade: 16
+Sigla: RN
+Cidade: ANTONIO MARTINS
+Marca: HONDA
+Modelo: CG 150 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 648
+Status: 0
+Próximo: -1
+ID: 649
+Ano: 2001
+Quantidade: 22
+Sigla: GO
+Cidade: ANAPOLIS
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 649
+Status: 0
+Próximo: -1
+ID: 650
+Ano: 1989
+Quantidade: 16
+Sigla: GO
+Cidade: ANAPOLIS
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 650
+Status: 0
+Próximo: -1
+ID: 651
+Ano: 2008
+Quantidade: 22
+Sigla: AM
+Cidade: ITACOATIARA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 651
+Status: 0
+Próximo: -1
+ID: 652
+Ano: 2009
+Quantidade: 75
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: PALIO ELX FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 652
+Status: 0
+Próximo: -1
+ID: 653
+Ano: 1995
+Quantidade: 27
+Sigla: ES
+Cidade: BOA ESPERANCA
+Marca: 
+Modelo: CG 125 TITAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 653
+Status: 0
+Próximo: -1
+ID: 654
+Ano: 1989
+Quantidade: 18
+Sigla: MG
+Cidade: GOVERNADOR VALADARES
+Marca: 
+Modelo: UNO S
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 654
+Status: 0
+Próximo: -1
+ID: 655
+Ano: 2003
+Quantidade: 10
+Sigla: 
+Cidade: JAGUAQUARA
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 655
+Status: 0
+Próximo: -1
+ID: 656
+Ano: 2012
+Quantidade: 14
+Sigla: AL
+Cidade: 
+Marca: 
+Modelo: CG 150 FAN ESI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 656
+Status: 0
+Próximo: -1
+ID: 657
+Ano: 2012
+Quantidade: 32
+Sigla: PE
+Cidade: 
+Marca: 
+Modelo: ECOSPORT SE 1.6
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 657
+Status: 0
+Próximo: -1
+ID: 658
+Ano: 2015
+Quantidade: 52
+Sigla: MA
+Cidade: IMPERATRIZ
+Marca: TOYOTA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 658
+Status: 0
+Próximo: -1
+ID: 659
+Ano: 2000
+Quantidade: 17
+Sigla: PE
+Cidade: RECIFE
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 659
+Status: 0
+Próximo: -1
+ID: 660
+Ano: 2008
+Quantidade: 31
+Sigla: MG
+Cidade: CAMPO BELO
+Marca: 
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 660
+Status: 0
+Próximo: -1
+ID: 661
+Ano: 2005
+Quantidade: 75
+Sigla: PR
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 661
+Status: 0
+Próximo: -1
+ID: 662
+Ano: 1996
+Quantidade: 12
+Sigla: MG
+Cidade: SANTOS DUMONT
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 662
+Status: 0
+Próximo: -1
+ID: 663
+Ano: -1
+Quantidade: 11
+Sigla: GO
+Cidade: SAO LUIS DE MONTES BELOS
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 663
+Status: 0
+Próximo: -1
+ID: 664
+Ano: 2012
+Quantidade: 10
+Sigla: PR
+Cidade: PINHAIS
+Marca: 
+Modelo: FACTOR YBR125 ED
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 664
+Status: 0
+Próximo: -1
+ID: 665
+Ano: 1974
+Quantidade: 74
+Sigla: AL
+Cidade: MACEIO
+Marca: VW
+Modelo: FUSCA 1300
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 665
+Status: 0
+Próximo: -1
+ID: 666
+Ano: 2010
+Quantidade: 25
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: KA FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 666
+Status: 0
+Próximo: -1
+ID: 667
+Ano: 2010
+Quantidade: 17
+Sigla: PR
+Cidade: 
+Marca: VW
+Modelo: 17.250 CNC
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 667
+Status: 0
+Próximo: -1
+ID: 668
+Ano: -1
+Quantidade: 14
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: CIVIC LXS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 668
+Status: 0
+Próximo: -1
+ID: 669
+Ano: -1
+Quantidade: 20
+Sigla: RN
+Cidade: NATAL
+Marca: NISSAN
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 669
+Status: 0
+Próximo: -1
+ID: 670
+Ano: 2009
+Quantidade: 73
+Sigla: TO
+Cidade: 
+Marca: CHEVROLET
+Modelo: CLASSIC
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 670
+Status: 0
+Próximo: -1
+ID: 671
+Ano: 2003
+Quantidade: 12
+Sigla: PR
+Cidade: BANDEIRANTES
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 671
+Status: 0
+Próximo: -1
+ID: 672
+Ano: 1990
+Quantidade: 37
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: UNO 1.6 R
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 672
+Status: 0
+Próximo: -1
+ID: 673
+Ano: 2012
+Quantidade: 11
+Sigla: ES
+Cidade: VENDA NOVA DO IMIGRANTE
+Marca: 
+Modelo: PALIO ATTRACTIV 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 673
+Status: 0
+Próximo: -1
+ID: 674
+Ano: 2014
+Quantidade: 10
+Sigla: BA
+Cidade: 
+Marca: HONDA
+Modelo: CG 125 FAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 674
+Status: 0
+Próximo: -1
+ID: 675
+Ano: 2008
+Quantidade: 73
+Sigla: MT
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 675
+Status: 0
+Próximo: -1
+ID: 676
+Ano: 1994
+Quantidade: 20
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 676
+Status: 0
+Próximo: -1
+ID: 677
+Ano: 2018
+Quantidade: 20
+Sigla: MG
+Cidade: JUIZ DE FORA
+Marca: 
+Modelo: COMPASS SPORT F
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 677
+Status: 0
+Próximo: -1
+ID: 678
+Ano: 2020
+Quantidade: 14
+Sigla: 
+Cidade: IBIRITE
+Marca: 
+Modelo: CG 160 TITAN S
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 678
+Status: 0
+Próximo: -1
+ID: 679
+Ano: 2001
+Quantidade: 21
+Sigla: BA
+Cidade: VITORIA DA CONQUISTA
+Marca: JTA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 679
+Status: 0
+Próximo: -1
+ID: 680
+Ano: 2009
+Quantidade: 10
+Sigla: 
+Cidade: CRUZ DAS ALMAS
+Marca: 
+Modelo: CB 300R
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 680
+Status: 0
+Próximo: -1
+ID: 681
+Ano: 2010
+Quantidade: 26
+Sigla: 
+Cidade: UBA
+Marca: 
+Modelo: CELTA 2P LIFE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 681
+Status: 0
+Próximo: -1
+ID: 682
+Ano: 2018
+Quantidade: 12
+Sigla: MA
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 682
+Status: 0
+Próximo: -1
+ID: 683
+Ano: 2003
+Quantidade: 17
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 683
+Status: 0
+Próximo: -1
+ID: 684
+Ano: 2014
+Quantidade: 11
+Sigla: MT
+Cidade: 
+Marca: HONDA
+Modelo: CG150 FAN ESDI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 684
+Status: 0
+Próximo: -1
+ID: 685
+Ano: 2019
+Quantidade: 27
+Sigla: BA
+Cidade: 
+Marca: YAMAHA
+Modelo: YS150 FAZER SED
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 685
+Status: 0
+Próximo: -1
+ID: 686
+Ano: 2010
+Quantidade: 72
+Sigla: RJ
+Cidade: NOVA IGUACU
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 686
+Status: 0
+Próximo: -1
+ID: 687
+Ano: -1
+Quantidade: 15
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: BIZ 125
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 687
+Status: 0
+Próximo: -1
+ID: 688
+Ano: 1998
+Quantidade: 28
+Sigla: PR
+Cidade: MARINGA
+Marca: GM
+Modelo: S10 2.2 S
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 688
+Status: 0
+Próximo: -1
+ID: 689
+Ano: 2012
+Quantidade: 31
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: NXR150 BROS ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 689
+Status: 0
+Próximo: -1
+ID: 690
+Ano: 2021
+Quantidade: 34
+Sigla: PR
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 690
+Status: 0
+Próximo: -1
+ID: 691
+Ano: 2012
+Quantidade: 72
+Sigla: PR
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 691
+Status: 0
+Próximo: -1
+ID: 692
+Ano: 2017
+Quantidade: 16
+Sigla: MG
+Cidade: PASSOS
+Marca: YAMAHA
+Modelo: XTZ250 TENERE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 692
+Status: 0
+Próximo: -1
+ID: 693
+Ano: 1996
+Quantidade: 30
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: GOL PLUS MI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 693
+Status: 0
+Próximo: -1
+ID: 694
+Ano: -1
+Quantidade: 18
+Sigla: PR
+Cidade: RONDON
+Marca: 
+Modelo: BIZ 125 ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 694
+Status: 0
+Próximo: -1
+ID: 695
+Ano: -1
+Quantidade: 44
+Sigla: GO
+Cidade: ANAPOLIS
+Marca: 
+Modelo: OPALA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 695
+Status: 0
+Próximo: -1
+ID: 696
+Ano: 2015
+Quantidade: 10
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 696
+Status: 0
+Próximo: -1
+ID: 697
+Ano: 2007
+Quantidade: 12
+Sigla: RO
+Cidade: THEOBROMA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 697
+Status: 0
+Próximo: -1
+ID: 698
+Ano: 2014
+Quantidade: 13
+Sigla: PR
+Cidade: FAZENDA RIO GRANDE
+Marca: VW
+Modelo: NOVO GOL 1 CITY
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 698
+Status: 0
+Próximo: -1
+ID: 699
+Ano: 1984
+Quantidade: 11
+Sigla: BA
+Cidade: 
+Marca: M.BENZ
+Modelo: L 1113
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 699
+Status: 0
+Próximo: -1
+ID: 700
+Ano: -1
+Quantidade: 10
+Sigla: MT
+Cidade: SAPEZAL
+Marca: TOYOTA
+Modelo: COROLLA XEI20FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 700
+Status: 0
+Próximo: -1
+ID: 701
+Ano: 1979
+Quantidade: 28
+Sigla: MG
+Cidade: PARACATU
+Marca: 
+Modelo: 147 L
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 701
+Status: 0
+Próximo: -1
+ID: 702
+Ano: 1997
+Quantidade: 12
+Sigla: 
+Cidade: CAIANA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 702
+Status: 0
+Próximo: -1
+ID: 703
+Ano: 2002
+Quantidade: 44
+Sigla: PR
+Cidade: FOZ DO IGUACU
+Marca: RENAULT
+Modelo: CLIO RT 1 16V
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 703
+Status: 0
+Próximo: -1
+ID: 704
+Ano: -1
+Quantidade: 18
+Sigla: ES
+Cidade: VILA VELHA
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 704
+Status: 0
+Próximo: -1
+ID: 705
+Ano: -1
+Quantidade: 70
+Sigla: RJ
+Cidade: RIO DE JANEIRO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 705
+Status: 0
+Próximo: -1
+ID: 706
+Ano: -1
+Quantidade: 18
+Sigla: MA
+Cidade: IMPERATRIZ
+Marca: FORD
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 706
+Status: 0
+Próximo: -1
+ID: 707
+Ano: 2022
+Quantidade: 10
+Sigla: PI
+Cidade: 
+Marca: TOYOTA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 707
+Status: 0
+Próximo: -1
+ID: 708
+Ano: 2000
+Quantidade: 12
+Sigla: ES
+Cidade: 
+Marca: 
+Modelo: GOLF
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 708
+Status: 0
+Próximo: -1
+ID: 709
+Ano: 2010
+Quantidade: 14
+Sigla: MT
+Cidade: BRASNORTE
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 709
+Status: 0
+Próximo: -1
+ID: 710
+Ano: 2007
+Quantidade: 45
+Sigla: ES
+Cidade: 
+Marca: HONDA
+Modelo: CG 150 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 710
+Status: 0
+Próximo: -1
+ID: 711
+Ano: 1977
+Quantidade: 36
+Sigla: 
+Cidade: JOAO MONLEVADE
+Marca: 
+Modelo: CHEVETTE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 711
+Status: 0
+Próximo: -1
+ID: 712
+Ano: 1978
+Quantidade: 14
+Sigla: BA
+Cidade: BARREIRAS
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 712
+Status: 0
+Próximo: -1
+ID: 713
+Ano: 2014
+Quantidade: 20
+Sigla: GO
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 713
+Status: 0
+Próximo: -1
+ID: 714
+Ano: 2011
+Quantidade: 28
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: SOFT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 714
+Status: 0
+Próximo: -1
+ID: 715
+Ano: 2016
+Quantidade: 21
+Sigla: 
+Cidade: PARAUAPEBAS
+Marca: CHEVROLET
+Modelo: ONIX 1.4MT LTZ
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 715
+Status: 0
+Próximo: -1
+ID: 716
+Ano: 1977
+Quantidade: 16
+Sigla: MG
+Cidade: MANHUACU
+Marca: VW
+Modelo: FUSCA 1300 L
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 716
+Status: 0
+Próximo: -1
+ID: 717
+Ano: -1
+Quantidade: 24
+Sigla: MG
+Cidade: BELO HORIZONTE
+Marca: DAF
+Modelo: XF105 FTS 460A
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 717
+Status: 0
+Próximo: -1
+ID: 718
+Ano: 2019
+Quantidade: 15
+Sigla: RN
+Cidade: 
+Marca: CHEVROLET
+Modelo: ONIX 1MT LT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 718
+Status: 0
+Próximo: -1
+ID: 719
+Ano: -1
+Quantidade: 69
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: LEAD 110
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 719
+Status: 0
+Próximo: -1
+ID: 720
+Ano: 2006
+Quantidade: 10
+Sigla: GO
+Cidade: EDEIA
+Marca: HONDA
+Modelo: CG 150 TITAN ESD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 720
+Status: 0
+Próximo: -1
+ID: 721
+Ano: 2009
+Quantidade: 10
+Sigla: MS
+Cidade: TRES LAGOAS
+Marca: GM
+Modelo: PRISMA JOY
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 721
+Status: 0
+Próximo: -1
+ID: 722
+Ano: -1
+Quantidade: 48
+Sigla: MT
+Cidade: NOVA XAVANTINA
+Marca: HONDA
+Modelo: CG 125 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 722
+Status: 0
+Próximo: -1
+ID: 723
+Ano: -1
+Quantidade: 13
+Sigla: SE
+Cidade: ARACAJU
+Marca: MARCOPOLO
+Modelo: VOLARE W9 ON
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 723
+Status: 0
+Próximo: -1
+ID: 724
+Ano: 2015
+Quantidade: 39
+Sigla: MT
+Cidade: CASTANHEIRA
+Marca: HONDA
+Modelo: NXR160 BROS ESDD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 724
+Status: 0
+Próximo: -1
+ID: 725
+Ano: -1
+Quantidade: 68
+Sigla: MG
+Cidade: JUIZ DE FORA
+Marca: 
+Modelo: PALIO ATTRACTIV 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 725
+Status: 0
+Próximo: -1
+ID: 726
+Ano: 2019
+Quantidade: 68
+Sigla: PR
+Cidade: CAMPO MOURAO
+Marca: SHINERAY
+Modelo: 50Q
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 726
+Status: 0
+Próximo: -1
+ID: 727
+Ano: 2008
+Quantidade: 19
+Sigla: MT
+Cidade: JACIARA
+Marca: 
+Modelo: BIZ 125 KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 727
+Status: 0
+Próximo: -1
+ID: 728
+Ano: 2018
+Quantidade: 26
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 728
+Status: 0
+Próximo: -1
+ID: 729
+Ano: 1995
+Quantidade: 11
+Sigla: MG
+Cidade: PATROCINIO
+Marca: 
+Modelo: UNO CS IE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 729
+Status: 0
+Próximo: -1
+ID: 730
+Ano: 1981
+Quantidade: 11
+Sigla: RJ
+Cidade: TERESOPOLIS
+Marca: FIAT
+Modelo: 147 L
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 730
+Status: 0
+Próximo: -1
+ID: 731
+Ano: 2013
+Quantidade: 68
+Sigla: 
+Cidade: 
+Marca: HYUNDAI
+Modelo: HB20S 1.6A PREM
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 731
+Status: 0
+Próximo: -1
+ID: 732
+Ano: 2012
+Quantidade: 10
+Sigla: MT
+Cidade: CANARANA
+Marca: RENAULT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 732
+Status: 0
+Próximo: -1
+ID: 733
+Ano: 2005
+Quantidade: 15
+Sigla: MG
+Cidade: CRISTAIS
+Marca: 
+Modelo: CG 150 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 733
+Status: 0
+Próximo: -1
+ID: 734
+Ano: 2015
+Quantidade: 15
+Sigla: PA
+Cidade: ALTAMIRA
+Marca: 
+Modelo: SAVEIRO CD HL MB
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 734
+Status: 0
+Próximo: -1
+ID: 735
+Ano: -1
+Quantidade: 21
+Sigla: BA
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 735
+Status: 0
+Próximo: -1
+ID: 736
+Ano: 2009
+Quantidade: 10
+Sigla: RR
+Cidade: 
+Marca: MBENZ
+Modelo: OF1418 NEOBUS MEGA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 736
+Status: 0
+Próximo: -1
+ID: 737
+Ano: -1
+Quantidade: 28
+Sigla: PA
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 737
+Status: 0
+Próximo: -1
+ID: 738
+Ano: 2007
+Quantidade: 15
+Sigla: GO
+Cidade: MORRINHOS
+Marca: 
+Modelo: CIVIC LXS FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 738
+Status: 0
+Próximo: -1
+ID: 739
+Ano: 2004
+Quantidade: 13
+Sigla: CE
+Cidade: 
+Marca: FIAT
+Modelo: UNO MILLE FIRE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 739
+Status: 0
+Próximo: -1
+ID: 740
+Ano: 1997
+Quantidade: 15
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 740
+Status: 0
+Próximo: -1
+ID: 741
+Ano: 2015
+Quantidade: 19
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: NXR160 BROS ESDD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 741
+Status: 0
+Próximo: -1
+ID: 742
+Ano: 1997
+Quantidade: 11
+Sigla: DF
+Cidade: BRASILIA
+Marca: 
+Modelo: TURISCAR
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 742
+Status: 0
+Próximo: -1
+ID: 743
+Ano: -1
+Quantidade: 14
+Sigla: ES
+Cidade: VILA VELHA
+Marca: 
+Modelo: RENEGADE LIMITED AT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 743
+Status: 0
+Próximo: -1
+ID: 744
+Ano: 2006
+Quantidade: 18
+Sigla: MG
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 744
+Status: 0
+Próximo: -1
+ID: 745
+Ano: 2018
+Quantidade: 10
+Sigla: MG
+Cidade: MANHUACU
+Marca: 
+Modelo: ONIX 1MT LT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 745
+Status: 0
+Próximo: -1
+ID: 746
+Ano: 2014
+Quantidade: 11
+Sigla: 
+Cidade: JUIZ DE FORA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 746
+Status: 0
+Próximo: -1
+ID: 747
+Ano: 2014
+Quantidade: 14
+Sigla: 
+Cidade: SENADOR AMARAL
+Marca: 
+Modelo: STRADA WORKING
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 747
+Status: 0
+Próximo: -1
+ID: 748
+Ano: 2005
+Quantidade: 17
+Sigla: PR
+Cidade: MARINGA
+Marca: SUNDOWN
+Modelo: FUTURE 125
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 748
+Status: 0
+Próximo: -1
+ID: 749
+Ano: 1997
+Quantidade: 44
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: UNO MILLE SX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 749
+Status: 0
+Próximo: -1
+ID: 750
+Ano: 1994
+Quantidade: 10
+Sigla: PE
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 750
+Status: 0
+Próximo: -1
+ID: 751
+Ano: 2006
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: BIZ 125 KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 751
+Status: 0
+Próximo: -1
+ID: 752
+Ano: 2019
+Quantidade: 17
+Sigla: GO
+Cidade: APARECIDA DE GOIANIA
+Marca: 
+Modelo: CITY EX CVT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 752
+Status: 0
+Próximo: -1
+ID: 753
+Ano: 2006
+Quantidade: 19
+Sigla: RJ
+Cidade: 
+Marca: HONDA
+Modelo: XR 250 TORNADO
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 753
+Status: 0
+Próximo: -1
+ID: 754
+Ano: -1
+Quantidade: 66
+Sigla: PE
+Cidade: CARUARU
+Marca: 
+Modelo: HB20 1M UNIQUE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 754
+Status: 0
+Próximo: -1
+ID: 755
+Ano: 2013
+Quantidade: 66
+Sigla: SE
+Cidade: TOMAR DO GERU
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 755
+Status: 0
+Próximo: -1
+ID: 756
+Ano: 2000
+Quantidade: 16
+Sigla: PE
+Cidade: POMBOS
+Marca: HONDA
+Modelo: CG 125 TITAN ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 756
+Status: 0
+Próximo: -1
+ID: 757
+Ano: 2013
+Quantidade: 66
+Sigla: AL
+Cidade: ARAPIRACA
+Marca: 
+Modelo: FOX 1 GII
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 757
+Status: 0
+Próximo: -1
+ID: 758
+Ano: 1982
+Quantidade: 13
+Sigla: PI
+Cidade: TERESINA
+Marca: FIAT
+Modelo: PANORAMA CL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 758
+Status: 0
+Próximo: -1
+ID: 759
+Ano: 2009
+Quantidade: 66
+Sigla: RJ
+Cidade: SAO JOAO DE MERITI
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 759
+Status: 0
+Próximo: -1
+ID: 760
+Ano: -1
+Quantidade: 16
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: POP100
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 760
+Status: 0
+Próximo: -1
+ID: 761
+Ano: 2002
+Quantidade: 13
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: PALIO ELX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 761
+Status: 0
+Próximo: -1
+ID: 762
+Ano: 2006
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 762
+Status: 0
+Próximo: -1
+ID: 763
+Ano: 1998
+Quantidade: 11
+Sigla: AM
+Cidade: MANAUS
+Marca: 
+Modelo: RENAULT MEGANE 1.6 B
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 763
+Status: 0
+Próximo: -1
+ID: 764
+Ano: -1
+Quantidade: 18
+Sigla: 
+Cidade: MEDEIROS NETO
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 764
+Status: 0
+Próximo: -1
+ID: 765
+Ano: 2005
+Quantidade: 66
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: CORSA SEDAN MAXX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 765
+Status: 0
+Próximo: -1
+ID: 766
+Ano: -1
+Quantidade: 65
+Sigla: RO
+Cidade: CACOAL
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 766
+Status: 0
+Próximo: -1
+ID: 767
+Ano: 2001
+Quantidade: 65
+Sigla: PE
+Cidade: CARUARU
+Marca: 
+Modelo: GOL 16V PLUS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 767
+Status: 0
+Próximo: -1
+ID: 768
+Ano: 2004
+Quantidade: 37
+Sigla: MT
+Cidade: JACIARA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 768
+Status: 0
+Próximo: -1
+ID: 769
+Ano: 2013
+Quantidade: 65
+Sigla: 
+Cidade: CUIABA
+Marca: 
+Modelo: POP100
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 769
+Status: 0
+Próximo: -1
+ID: 770
+Ano: 2008
+Quantidade: 13
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: WEB 100
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 770
+Status: 0
+Próximo: -1
+ID: 771
+Ano: 2014
+Quantidade: 16
+Sigla: TO
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 771
+Status: 0
+Próximo: -1
+ID: 772
+Ano: 1996
+Quantidade: 17
+Sigla: PA
+Cidade: ABAETETUBA
+Marca: HONDA
+Modelo: CG 125 TITAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 772
+Status: 0
+Próximo: -1
+ID: 773
+Ano: 2003
+Quantidade: 12
+Sigla: PA
+Cidade: 
+Marca: 
+Modelo: GOL SPECIAL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 773
+Status: 0
+Próximo: -1
+ID: 774
+Ano: 2021
+Quantidade: 16
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 774
+Status: 0
+Próximo: -1
+ID: 775
+Ano: 1996
+Quantidade: 13
+Sigla: RN
+Cidade: 
+Marca: GM
+Modelo: CORSA WIND
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 775
+Status: 0
+Próximo: -1
+ID: 776
+Ano: 2018
+Quantidade: 33
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: HR-V EXL CVT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 776
+Status: 0
+Próximo: -1
+ID: 777
+Ano: 2014
+Quantidade: 65
+Sigla: GO
+Cidade: ITABERAI
+Marca: 
+Modelo: CG150 FAN ESDI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 777
+Status: 0
+Próximo: -1
+ID: 778
+Ano: 2012
+Quantidade: 29
+Sigla: PE
+Cidade: OROCO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 778
+Status: 0
+Próximo: -1
+ID: 779
+Ano: 1998
+Quantidade: 39
+Sigla: MG
+Cidade: UNAI
+Marca: 
+Modelo: CORSA WIND
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 779
+Status: 0
+Próximo: -1
+ID: 780
+Ano: 2009
+Quantidade: 41
+Sigla: RN
+Cidade: PEDRO VELHO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 780
+Status: 0
+Próximo: -1
+ID: 781
+Ano: 1998
+Quantidade: 13
+Sigla: 
+Cidade: DIVINOLANDIA DE MINAS
+Marca: HONDA
+Modelo: CG 125 TITAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 781
+Status: 0
+Próximo: -1
+ID: 782
+Ano: 2013
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: YAMAHA
+Modelo: T115 CRYPTON ED
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 782
+Status: 0
+Próximo: -1
+ID: 783
+Ano: 2008
+Quantidade: 31
+Sigla: MS
+Cidade: 
+Marca: GM
+Modelo: ASTRA HB 4P ADVANTAGE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 783
+Status: 0
+Próximo: -1
+ID: 784
+Ano: 2015
+Quantidade: 17
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 784
+Status: 0
+Próximo: -1
+ID: 785
+Ano: 2021
+Quantidade: 32
+Sigla: 
+Cidade: CAMPO GRANDE
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 785
+Status: 0
+Próximo: -1
+ID: 786
+Ano: 2020
+Quantidade: 15
+Sigla: CE
+Cidade: FORTALEZA
+Marca: 
+Modelo: VM 330 8X2R
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 786
+Status: 0
+Próximo: -1
+ID: 787
+Ano: 2010
+Quantidade: 36
+Sigla: MT
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 787
+Status: 0
+Próximo: -1
+ID: 788
+Ano: 2012
+Quantidade: 13
+Sigla: PR
+Cidade: IVAIPORA
+Marca: FIAT
+Modelo: STRADA WORKING
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 788
+Status: 0
+Próximo: -1
+ID: 789
+Ano: 2001
+Quantidade: 64
+Sigla: ES
+Cidade: VILA VELHA
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 789
+Status: 0
+Próximo: -1
+ID: 790
+Ano: -1
+Quantidade: 34
+Sigla: 
+Cidade: MANAUS
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 790
+Status: 0
+Próximo: -1
+ID: 791
+Ano: -1
+Quantidade: 15
+Sigla: PA
+Cidade: 
+Marca: GM
+Modelo: CHEVROLET C10
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 791
+Status: 0
+Próximo: -1
+ID: 792
+Ano: 1994
+Quantidade: 21
+Sigla: PR
+Cidade: 
+Marca: FORD
+Modelo: ESCORT 1 HOBBY
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 792
+Status: 0
+Próximo: -1
+ID: 793
+Ano: 2013
+Quantidade: 14
+Sigla: MA
+Cidade: SAO LUIS
+Marca: 
+Modelo: FIT TWIST
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 793
+Status: 0
+Próximo: -1
+ID: 794
+Ano: 2014
+Quantidade: 18
+Sigla: MG
+Cidade: JUIZ DE FORA
+Marca: VW
+Modelo: SAVEIRO CE TL MB
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 794
+Status: 0
+Próximo: -1
+ID: 795
+Ano: 1982
+Quantidade: 64
+Sigla: RJ
+Cidade: 
+Marca: FORD
+Modelo: DEL REY
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 795
+Status: 0
+Próximo: -1
+ID: 796
+Ano: 1996
+Quantidade: 15
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 796
+Status: 0
+Próximo: -1
+ID: 797
+Ano: 2010
+Quantidade: 10
+Sigla: AL
+Cidade: SAO JOSE DA TAPERA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 797
+Status: 0
+Próximo: -1
+ID: 798
+Ano: 2014
+Quantidade: 11
+Sigla: 
+Cidade: FEIRA DE SANTANA
+Marca: 
+Modelo: VOYAGE EVIDENCE MB
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 798
+Status: 0
+Próximo: -1
+ID: 799
+Ano: 2016
+Quantidade: 18
+Sigla: GO
+Cidade: RIO VERDE
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 799
+Status: 0
+Próximo: -1
+ID: 800
+Ano: 2013
+Quantidade: 63
+Sigla: AM
+Cidade: MANAUS
+Marca: VW
+Modelo: FOX 1.6 GII
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 800
+Status: 0
+Próximo: -1
+ID: 801
+Ano: -1
+Quantidade: 46
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: PALIO EX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 801
+Status: 0
+Próximo: -1
+ID: 802
+Ano: 1990
+Quantidade: 25
+Sigla: PR
+Cidade: JAPURA
+Marca: HONDA
+Modelo: CG 125 TODAY
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 802
+Status: 0
+Próximo: -1
+ID: 803
+Ano: 2015
+Quantidade: 18
+Sigla: BA
+Cidade: VERA CRUZ
+Marca: 
+Modelo: CG150 FAN ESDI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 803
+Status: 0
+Próximo: -1
+ID: 804
+Ano: 2008
+Quantidade: 63
+Sigla: BA
+Cidade: 
+Marca: JTA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 804
+Status: 0
+Próximo: -1
+ID: 805
+Ano: -1
+Quantidade: 36
+Sigla: RJ
+Cidade: ANGRA DOS REIS
+Marca: VW
+Modelo: FUSCA 1300
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 805
+Status: 0
+Próximo: -1
+ID: 806
+Ano: 2014
+Quantidade: 19
+Sigla: CE
+Cidade: JUAZEIRO DO NORTE
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 806
+Status: 0
+Próximo: -1
+ID: 807
+Ano: 2013
+Quantidade: 12
+Sigla: RJ
+Cidade: MAGE
+Marca: CHEV
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 807
+Status: 0
+Próximo: -1
+ID: 808
+Ano: 2015
+Quantidade: 12
+Sigla: GO
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 808
+Status: 0
+Próximo: -1
+ID: 809
+Ano: 2020
+Quantidade: 18
+Sigla: PR
+Cidade: SAO MIGUEL DO IGUACU
+Marca: FIAT
+Modelo: STRADA FREEDOM 13CS
+Lixo: $$$$$$$$$$$$$$$$$$$$
+
+RRN: 809
+Status: 0
+Próximo: -1
+ID: 810
+Ano: 2012
+Quantidade: 48
+Sigla: RJ
+Cidade: SAQUAREMA
+Marca: HONDA
+Modelo: CG 150 FAN ESI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 810
+Status: 0
+Próximo: -1
+ID: 811
+Ano: 2009
+Quantidade: 25
+Sigla: 
+Cidade: BARBACENA
+Marca: HONDA
+Modelo: CG 150 FAN ESI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 811
+Status: 0
+Próximo: -1
+ID: 812
+Ano: -1
+Quantidade: 26
+Sigla: MG
+Cidade: SAO JOSE DA LAPA
+Marca: HONDA
+Modelo: CG 125 FAN ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 812
+Status: 0
+Próximo: -1
+ID: 813
+Ano: 1986
+Quantidade: 11
+Sigla: PR
+Cidade: PATO BRANCO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 813
+Status: 0
+Próximo: -1
+ID: 814
+Ano: 2015
+Quantidade: 19
+Sigla: BA
+Cidade: ITABERABA
+Marca: YAMAHA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 814
+Status: 0
+Próximo: -1
+ID: 815
+Ano: -1
+Quantidade: 15
+Sigla: RN
+Cidade: NATAL
+Marca: 
+Modelo: FORD RANGER STX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 815
+Status: 0
+Próximo: -1
+ID: 816
+Ano: 2020
+Quantidade: 21
+Sigla: PR
+Cidade: 
+Marca: JEEP
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 816
+Status: 0
+Próximo: -1
+ID: 817
+Ano: 2021
+Quantidade: 34
+Sigla: MS
+Cidade: CAMPO GRANDE
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 817
+Status: 0
+Próximo: -1
+ID: 818
+Ano: 2021
+Quantidade: 17
+Sigla: MT
+Cidade: MARCELANDIA
+Marca: HONDA
+Modelo: NXR160 BROS ESDD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 818
+Status: 0
+Próximo: -1
+ID: 819
+Ano: -1
+Quantidade: 10
+Sigla: PR
+Cidade: 
+Marca: SCANIA
+Modelo: T113 H 4X2 360
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 819
+Status: 0
+Próximo: -1
+ID: 820
+Ano: 2004
+Quantidade: 15
+Sigla: 
+Cidade: VICOSA
+Marca: 
+Modelo: CBX 250 TWISTER
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 820
+Status: 0
+Próximo: -1
+ID: 821
+Ano: 1995
+Quantidade: 17
+Sigla: 
+Cidade: ERVALIA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 821
+Status: 0
+Próximo: -1
+ID: 822
+Ano: 2019
+Quantidade: 38
+Sigla: MT
+Cidade: 
+Marca: VW
+Modelo: NOVA SAVEIRO RB MBVS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 822
+Status: 0
+Próximo: -1
+ID: 823
+Ano: 2019
+Quantidade: 13
+Sigla: MA
+Cidade: 
+Marca: FIAT
+Modelo: ARGO DRIVE 1.3 GSR
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 823
+Status: 0
+Próximo: -1
+ID: 824
+Ano: 2016
+Quantidade: 62
+Sigla: RJ
+Cidade: 
+Marca: CITROEN
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 824
+Status: 0
+Próximo: -1
+ID: 825
+Ano: -1
+Quantidade: 27
+Sigla: MG
+Cidade: 
+Marca: YAMAHA
+Modelo: XVS950A MIDN.STAR
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 825
+Status: 0
+Próximo: -1
+ID: 826
+Ano: -1
+Quantidade: 21
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 826
+Status: 0
+Próximo: -1
+ID: 827
+Ano: 2002
+Quantidade: 14
+Sigla: MG
+Cidade: ALEM PARAIBA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 827
+Status: 0
+Próximo: -1
+ID: 828
+Ano: -1
+Quantidade: 13
+Sigla: PA
+Cidade: 
+Marca: 
+Modelo: CB 300R
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 828
+Status: 0
+Próximo: -1
+ID: 829
+Ano: 2014
+Quantidade: 61
+Sigla: PE
+Cidade: PAUDALHO
+Marca: 
+Modelo: CG 150 TITAN EX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 829
+Status: 0
+Próximo: -1
+ID: 830
+Ano: -1
+Quantidade: 21
+Sigla: PE
+Cidade: OLINDA
+Marca: 
+Modelo: ONIX 1.4AT LTZ
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 830
+Status: 0
+Próximo: -1
+ID: 831
+Ano: 2003
+Quantidade: 14
+Sigla: ES
+Cidade: 
+Marca: GM
+Modelo: ASTRA HATCH 5P CD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 831
+Status: 0
+Próximo: -1
+ID: 832
+Ano: -1
+Quantidade: 21
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 832
+Status: 0
+Próximo: -1
+ID: 833
+Ano: 2010
+Quantidade: 61
+Sigla: MS
+Cidade: BONITO
+Marca: 
+Modelo: CG 150 FAN ESI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 833
+Status: 0
+Próximo: -1
+ID: 834
+Ano: -1
+Quantidade: 43
+Sigla: PA
+Cidade: BELEM
+Marca: GM
+Modelo: CELTA 5 PORTAS SUPER
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 834
+Status: 0
+Próximo: -1
+ID: 835
+Ano: -1
+Quantidade: 61
+Sigla: PR
+Cidade: 
+Marca: 
+Modelo: MARCH ACTIVE 10
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 835
+Status: 0
+Próximo: -1
+ID: 836
+Ano: 2015
+Quantidade: 21
+Sigla: AL
+Cidade: SAO LUIS DO QUITUNDE
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 836
+Status: 0
+Próximo: -1
+ID: 837
+Ano: 2012
+Quantidade: 12
+Sigla: ES
+Cidade: 
+Marca: VW
+Modelo: SAVEIRO 1.6 CE CROSS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 837
+Status: 0
+Próximo: -1
+ID: 838
+Ano: 1988
+Quantidade: 14
+Sigla: PR
+Cidade: CASCAVEL
+Marca: SCANIA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 838
+Status: 0
+Próximo: -1
+ID: 839
+Ano: 1984
+Quantidade: 15
+Sigla: MG
+Cidade: SETE LAGOAS
+Marca: 
+Modelo: CHEVROLET D10
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 839
+Status: 0
+Próximo: -1
+ID: 840
+Ano: 2017
+Quantidade: 18
+Sigla: 
+Cidade: BARRA
+Marca: 
+Modelo: NXR160 BROS ESDD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 840
+Status: 0
+Próximo: -1
+ID: 841
+Ano: 1982
+Quantidade: 15
+Sigla: MT
+Cidade: 
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 841
+Status: 0
+Próximo: -1
+ID: 842
+Ano: -1
+Quantidade: 60
+Sigla: MG
+Cidade: BELO HORIZONTE
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 842
+Status: 0
+Próximo: -1
+ID: 843
+Ano: 2005
+Quantidade: 42
+Sigla: 
+Cidade: RIO VERDE
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 843
+Status: 0
+Próximo: -1
+ID: 844
+Ano: 1994
+Quantidade: 13
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 844
+Status: 0
+Próximo: -1
+ID: 845
+Ano: 1999
+Quantidade: 23
+Sigla: 
+Cidade: PALMAS
+Marca: 
+Modelo: PALIO EX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 845
+Status: 0
+Próximo: -1
+ID: 846
+Ano: 2002
+Quantidade: 22
+Sigla: GO
+Cidade: SANTA HELENA DE GOIAS
+Marca: 
+Modelo: CG 125 TITAN KSE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 846
+Status: 0
+Próximo: -1
+ID: 847
+Ano: -1
+Quantidade: 60
+Sigla: RO
+Cidade: PORTO VELHO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 847
+Status: 0
+Próximo: -1
+ID: 848
+Ano: 1994
+Quantidade: 16
+Sigla: CE
+Cidade: FORTALEZA
+Marca: GM
+Modelo: OMEGA GL
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 848
+Status: 0
+Próximo: -1
+ID: 849
+Ano: -1
+Quantidade: 60
+Sigla: RJ
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 849
+Status: 0
+Próximo: -1
+ID: 850
+Ano: -1
+Quantidade: 16
+Sigla: BA
+Cidade: SALVADOR
+Marca: FORD
+Modelo: CARGO 4030
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 850
+Status: 0
+Próximo: -1
+ID: 851
+Ano: 1997
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: UNO MILLE SX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 851
+Status: 0
+Próximo: -1
+ID: 852
+Ano: 2001
+Quantidade: 60
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: UNO MILLE FIRE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 852
+Status: 0
+Próximo: -1
+ID: 853
+Ano: 2013
+Quantidade: 16
+Sigla: MA
+Cidade: 
+Marca: HONDA
+Modelo: CG 125 FAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 853
+Status: 0
+Próximo: -1
+ID: 854
+Ano: -1
+Quantidade: 39
+Sigla: BA
+Cidade: FEIRA DE SANTANA
+Marca: VW
+Modelo: 9.160 DRC 4X2
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 854
+Status: 0
+Próximo: -1
+ID: 855
+Ano: 2000
+Quantidade: 10
+Sigla: BA
+Cidade: VITORIA DA CONQUISTA
+Marca: MBENZ
+Modelo: BUSSCAR VIS BUSS R
+Lixo: $$$$$$$$$$$$$$$$$$$$
+
+RRN: 855
+Status: 0
+Próximo: -1
+ID: 856
+Ano: -1
+Quantidade: 27
+Sigla: GO
+Cidade: 
+Marca: HONDA
+Modelo: CG 160 FAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 856
+Status: 0
+Próximo: -1
+ID: 857
+Ano: 2006
+Quantidade: 36
+Sigla: PR
+Cidade: 
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 857
+Status: 0
+Próximo: -1
+ID: 858
+Ano: -1
+Quantidade: 60
+Sigla: MT
+Cidade: CUIABA
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 858
+Status: 0
+Próximo: -1
+ID: 859
+Ano: 2010
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 859
+Status: 0
+Próximo: -1
+ID: 860
+Ano: -1
+Quantidade: 59
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 860
+Status: 0
+Próximo: -1
+ID: 861
+Ano: 1987
+Quantidade: 11
+Sigla: GO
+Cidade: APARECIDA DE GOIANIA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 861
+Status: 0
+Próximo: -1
+ID: 862
+Ano: 2010
+Quantidade: 20
+Sigla: 
+Cidade: PEDRO DO ROSARIO
+Marca: 
+Modelo: CG 125 FAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 862
+Status: 0
+Próximo: -1
+ID: 863
+Ano: -1
+Quantidade: 12
+Sigla: PA
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 863
+Status: 0
+Próximo: -1
+ID: 864
+Ano: 2010
+Quantidade: 30
+Sigla: MT
+Cidade: 
+Marca: HONDA
+Modelo: CG150 TITAN MIX EX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 864
+Status: 0
+Próximo: -1
+ID: 865
+Ano: 2017
+Quantidade: 26
+Sigla: 
+Cidade: NOVA IGUACU
+Marca: 
+Modelo: YBR125I FACTOR ED
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 865
+Status: 0
+Próximo: -1
+ID: 866
+Ano: 2004
+Quantidade: 59
+Sigla: MG
+Cidade: JUIZ DE FORA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 866
+Status: 0
+Próximo: -1
+ID: 867
+Ano: 2013
+Quantidade: 59
+Sigla: ES
+Cidade: LINHARES
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 867
+Status: 0
+Próximo: -1
+ID: 868
+Ano: 2003
+Quantidade: 10
+Sigla: MS
+Cidade: IVINHEMA
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 868
+Status: 0
+Próximo: -1
+ID: 869
+Ano: -1
+Quantidade: 16
+Sigla: MS
+Cidade: 
+Marca: YAMAHA
+Modelo: CY 50 JOG
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 869
+Status: 0
+Próximo: -1
+ID: 870
+Ano: 2015
+Quantidade: 18
+Sigla: PI
+Cidade: 
+Marca: JEEP
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 870
+Status: 0
+Próximo: -1
+ID: 871
+Ano: 2015
+Quantidade: 59
+Sigla: MT
+Cidade: CUIABA
+Marca: HYUNDAI
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 871
+Status: 0
+Próximo: -1
+ID: 872
+Ano: 2018
+Quantidade: 29
+Sigla: RN
+Cidade: 
+Marca: HONDA
+Modelo: NC 750X
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 872
+Status: 0
+Próximo: -1
+ID: 873
+Ano: 2005
+Quantidade: 14
+Sigla: MG
+Cidade: PEDRAS DE MARIA DA CRUZ
+Marca: HONDA
+Modelo: CG 150 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$
+
+RRN: 873
+Status: 0
+Próximo: -1
+ID: 874
+Ano: -1
+Quantidade: 28
+Sigla: 
+Cidade: ROSARIO
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 874
+Status: 0
+Próximo: -1
+ID: 875
+Ano: 2001
+Quantidade: 23
+Sigla: RO
+Cidade: 
+Marca: HONDA
+Modelo: XLR 125 ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 875
+Status: 0
+Próximo: -1
+ID: 876
+Ano: 2019
+Quantidade: 14
+Sigla: 
+Cidade: BENEVIDES
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 876
+Status: 0
+Próximo: -1
+ID: 877
+Ano: 1996
+Quantidade: 11
+Sigla: GO
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 877
+Status: 0
+Próximo: -1
+ID: 878
+Ano: -1
+Quantidade: 58
+Sigla: MG
+Cidade: UBERLANDIA
+Marca: 
+Modelo: FIORINO FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 878
+Status: 0
+Próximo: -1
+ID: 879
+Ano: 2002
+Quantidade: 13
+Sigla: PR
+Cidade: CORNELIO PROCOPIO
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 879
+Status: 0
+Próximo: -1
+ID: 880
+Ano: 1986
+Quantidade: 15
+Sigla: MS
+Cidade: 
+Marca: FORD
+Modelo: F4000
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 880
+Status: 0
+Próximo: -1
+ID: 881
+Ano: 2006
+Quantidade: 23
+Sigla: MT
+Cidade: NOSSA SENHORA DO LIVRAMENTO
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 881
+Status: 0
+Próximo: -1
+ID: 882
+Ano: 2013
+Quantidade: 10
+Sigla: GO
+Cidade: SENADOR CANEDO
+Marca: HONDA
+Modelo: CIVIC EXR
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 882
+Status: 0
+Próximo: -1
+ID: 883
+Ano: 2012
+Quantidade: 18
+Sigla: BA
+Cidade: GUANAMBI
+Marca: FIAT
+Modelo: STRADA FIRE FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 883
+Status: 0
+Próximo: -1
+ID: 884
+Ano: 1981
+Quantidade: 14
+Sigla: PR
+Cidade: UBIRATA
+Marca: VW
+Modelo: BRASILIA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 884
+Status: 0
+Próximo: -1
+ID: 885
+Ano: 1981
+Quantidade: 22
+Sigla: CE
+Cidade: FORTALEZA
+Marca: GM
+Modelo: OPALA DIPLOMATA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 885
+Status: 0
+Próximo: -1
+ID: 886
+Ano: 2001
+Quantidade: 24
+Sigla: BA
+Cidade: SAO GABRIEL
+Marca: HONDA
+Modelo: CG 125 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 886
+Status: 0
+Próximo: -1
+ID: 887
+Ano: -1
+Quantidade: 58
+Sigla: PE
+Cidade: TIMBAUBA
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 887
+Status: 0
+Próximo: -1
+ID: 888
+Ano: 2020
+Quantidade: 21
+Sigla: PE
+Cidade: 
+Marca: RENAULT
+Modelo: CAPTUR 16 BOSE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 888
+Status: 0
+Próximo: -1
+ID: 889
+Ano: 2020
+Quantidade: 24
+Sigla: PE
+Cidade: SAO JOSE DO EGITO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 889
+Status: 0
+Próximo: -1
+ID: 890
+Ano: 2018
+Quantidade: 22
+Sigla: ES
+Cidade: SERRA
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 890
+Status: 0
+Próximo: -1
+ID: 891
+Ano: 2008
+Quantidade: 12
+Sigla: MA
+Cidade: 
+Marca: 
+Modelo: SUZUKI EN125 YES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 891
+Status: 0
+Próximo: -1
+ID: 892
+Ano: 1998
+Quantidade: 11
+Sigla: ES
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 892
+Status: 0
+Próximo: -1
+ID: 893
+Ano: 2012
+Quantidade: 24
+Sigla: RJ
+Cidade: DUQUE DE CAXIAS
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 893
+Status: 0
+Próximo: -1
+ID: 894
+Ano: 2009
+Quantidade: 12
+Sigla: CE
+Cidade: ICAPUI
+Marca: HONDA
+Modelo: CG 150 TITAN ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 894
+Status: 0
+Próximo: -1
+ID: 895
+Ano: 2012
+Quantidade: 16
+Sigla: MG
+Cidade: SAO JOAO DEL REI
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 895
+Status: 0
+Próximo: -1
+ID: 896
+Ano: 2010
+Quantidade: 15
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: NXR150 BROS MIX ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 896
+Status: 0
+Próximo: -1
+ID: 897
+Ano: 2001
+Quantidade: 57
+Sigla: CE
+Cidade: IGUATU
+Marca: 
+Modelo: YBR 125K
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 897
+Status: 0
+Próximo: -1
+ID: 898
+Ano: 2008
+Quantidade: 30
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: GUERRA AG GR
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 898
+Status: 0
+Próximo: -1
+ID: 899
+Ano: 2015
+Quantidade: 12
+Sigla: RJ
+Cidade: CAMPOS DOS GOYTACAZES
+Marca: HONDA
+Modelo: CITY EXL CVT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 899
+Status: 0
+Próximo: -1
+ID: 900
+Ano: 1997
+Quantidade: 10
+Sigla: 
+Cidade: ANTONIO OLINTO
+Marca: 
+Modelo: CG 125 TITAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 900
+Status: 0
+Próximo: -1
+ID: 901
+Ano: -1
+Quantidade: 10
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: CROSSFOX GII
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 901
+Status: 0
+Próximo: -1
+ID: 902
+Ano: 1978
+Quantidade: 13
+Sigla: MG
+Cidade: 
+Marca: GM
+Modelo: CARAVAN
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 902
+Status: 0
+Próximo: -1
+ID: 903
+Ano: 1997
+Quantidade: 12
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 903
+Status: 0
+Próximo: -1
+ID: 904
+Ano: 2015
+Quantidade: 11
+Sigla: MG
+Cidade: ITAUNA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 904
+Status: 0
+Próximo: -1
+ID: 905
+Ano: 1998
+Quantidade: 21
+Sigla: GO
+Cidade: PORANGATU
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 905
+Status: 0
+Próximo: -1
+ID: 906
+Ano: 2019
+Quantidade: 32
+Sigla: MA
+Cidade: 
+Marca: 
+Modelo: YARIS HB XL 13 MT
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 906
+Status: 0
+Próximo: -1
+ID: 907
+Ano: 2014
+Quantidade: 13
+Sigla: ES
+Cidade: VILA VELHA
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 907
+Status: 0
+Próximo: -1
+ID: 908
+Ano: 2013
+Quantidade: 13
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 908
+Status: 0
+Próximo: -1
+ID: 909
+Ano: 2012
+Quantidade: 32
+Sigla: MG
+Cidade: SAO GONCALO DO PARA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 909
+Status: 0
+Próximo: -1
+ID: 910
+Ano: 2018
+Quantidade: 57
+Sigla: CE
+Cidade: 
+Marca: CHEVROLET
+Modelo: S10 HC DD4A
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 910
+Status: 0
+Próximo: -1
+ID: 911
+Ano: 2014
+Quantidade: 14
+Sigla: MG
+Cidade: DIVINOPOLIS
+Marca: VOLVO
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 911
+Status: 0
+Próximo: -1
+ID: 912
+Ano: 2007
+Quantidade: 27
+Sigla: PE
+Cidade: 
+Marca: SUNDOWN
+Modelo: HUNTER 125 SE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 912
+Status: 0
+Próximo: -1
+ID: 913
+Ano: 1996
+Quantidade: 12
+Sigla: PR
+Cidade: SAO JOSE DOS PINHAIS
+Marca: 
+Modelo: FORD RANGER STX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 913
+Status: 0
+Próximo: -1
+ID: 914
+Ano: 2003
+Quantidade: 22
+Sigla: 
+Cidade: QUIXADA
+Marca: 
+Modelo: UNO MILLE FIRE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 914
+Status: 0
+Próximo: -1
+ID: 915
+Ano: -1
+Quantidade: 26
+Sigla: 
+Cidade: JUAZEIRO DO NORTE
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 915
+Status: 0
+Próximo: -1
+ID: 916
+Ano: 1981
+Quantidade: 13
+Sigla: AC
+Cidade: RIO BRANCO
+Marca: FORD
+Modelo: CORCEL II
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 916
+Status: 0
+Próximo: -1
+ID: 917
+Ano: 2002
+Quantidade: 19
+Sigla: PR
+Cidade: CORNELIO PROCOPIO
+Marca: VW
+Modelo: GOL 16V POWER
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 917
+Status: 0
+Próximo: -1
+ID: 918
+Ano: 1976
+Quantidade: 14
+Sigla: PR
+Cidade: SANTA IZABEL DO OESTE
+Marca: 
+Modelo: FUSCA 1300
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 918
+Status: 0
+Próximo: -1
+ID: 919
+Ano: 1994
+Quantidade: 57
+Sigla: CE
+Cidade: CRATO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 919
+Status: 0
+Próximo: -1
+ID: 920
+Ano: 1988
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: FORD
+Modelo: DEL REY BELINA GHIA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 920
+Status: 0
+Próximo: -1
+ID: 921
+Ano: -1
+Quantidade: 15
+Sigla: PA
+Cidade: 
+Marca: YAMAHA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 921
+Status: 0
+Próximo: -1
+ID: 922
+Ano: 2010
+Quantidade: 14
+Sigla: RJ
+Cidade: 
+Marca: VW
+Modelo: VOYAGE 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 922
+Status: 0
+Próximo: -1
+ID: 923
+Ano: 2012
+Quantidade: 19
+Sigla: CE
+Cidade: 
+Marca: 
+Modelo: GOLF 1.6 SPORTLINE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 923
+Status: 0
+Próximo: -1
+ID: 924
+Ano: 1989
+Quantidade: 12
+Sigla: 
+Cidade: GUARAPARI
+Marca: FORD
+Modelo: ESCORT L
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 924
+Status: 0
+Próximo: -1
+ID: 925
+Ano: 2011
+Quantidade: 19
+Sigla: 
+Cidade: 
+Marca: YAMAHA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 925
+Status: 0
+Próximo: -1
+ID: 926
+Ano: 2001
+Quantidade: 32
+Sigla: 
+Cidade: FOZ DO IGUACU
+Marca: YAMAHA
+Modelo: YBR 125E
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 926
+Status: 0
+Próximo: -1
+ID: 927
+Ano: 1980
+Quantidade: 21
+Sigla: 
+Cidade: 
+Marca: FIAT
+Modelo: 147 GLS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 927
+Status: 0
+Próximo: -1
+ID: 928
+Ano: 2012
+Quantidade: 22
+Sigla: PA
+Cidade: 
+Marca: HYUNDAI
+Modelo: HB20 1.6M 1.6M
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 928
+Status: 0
+Próximo: -1
+ID: 929
+Ano: 2013
+Quantidade: 56
+Sigla: RO
+Cidade: 
+Marca: 
+Modelo: NXR150 BROS ESD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 929
+Status: 0
+Próximo: -1
+ID: 930
+Ano: 2001
+Quantidade: 11
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 930
+Status: 0
+Próximo: -1
+ID: 931
+Ano: 2005
+Quantidade: 30
+Sigla: CE
+Cidade: JUAZEIRO DO NORTE
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 931
+Status: 0
+Próximo: -1
+ID: 932
+Ano: 2004
+Quantidade: 21
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 932
+Status: 0
+Próximo: -1
+ID: 933
+Ano: 2011
+Quantidade: 13
+Sigla: PR
+Cidade: PATO BRANCO
+Marca: 
+Modelo: SUZUKI INTRUDER 125
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 933
+Status: 0
+Próximo: -1
+ID: 934
+Ano: 2013
+Quantidade: 56
+Sigla: BA
+Cidade: JUAZEIRO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 934
+Status: 0
+Próximo: -1
+ID: 935
+Ano: 2004
+Quantidade: 56
+Sigla: PR
+Cidade: SAO JOSE DOS PINHAIS
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 935
+Status: 0
+Próximo: -1
+ID: 936
+Ano: 2011
+Quantidade: 56
+Sigla: 
+Cidade: SAO JOSE DOS PINHAIS
+Marca: 
+Modelo: GOL 1.6
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 936
+Status: 0
+Próximo: -1
+ID: 937
+Ano: 2015
+Quantidade: 23
+Sigla: PA
+Cidade: URUARA
+Marca: MMC
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 937
+Status: 0
+Próximo: -1
+ID: 938
+Ano: 2014
+Quantidade: 10
+Sigla: MA
+Cidade: GRAJAU
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 938
+Status: 0
+Próximo: -1
+ID: 939
+Ano: 2021
+Quantidade: 55
+Sigla: PE
+Cidade: SALGUEIRO
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 939
+Status: 0
+Próximo: -1
+ID: 940
+Ano: 2003
+Quantidade: 10
+Sigla: BA
+Cidade: QUEIMADAS
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 940
+Status: 0
+Próximo: -1
+ID: 941
+Ano: 2003
+Quantidade: 17
+Sigla: PA
+Cidade: SANTA MARIA DO PARA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 941
+Status: 0
+Próximo: -1
+ID: 942
+Ano: -1
+Quantidade: 10
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: FOX 1.6 GII
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 942
+Status: 0
+Próximo: -1
+ID: 943
+Ano: 1995
+Quantidade: 19
+Sigla: GO
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 943
+Status: 0
+Próximo: -1
+ID: 944
+Ano: 2003
+Quantidade: 55
+Sigla: MG
+Cidade: JOAO PINHEIRO
+Marca: VW
+Modelo: GOL 1.0
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 944
+Status: 0
+Próximo: -1
+ID: 945
+Ano: 2004
+Quantidade: 55
+Sigla: BA
+Cidade: 
+Marca: HONDA
+Modelo: CG 150 TITAN ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 945
+Status: 0
+Próximo: -1
+ID: 946
+Ano: 1988
+Quantidade: 55
+Sigla: RJ
+Cidade: ARARUAMA
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 946
+Status: 0
+Próximo: -1
+ID: 947
+Ano: 2003
+Quantidade: 55
+Sigla: 
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 947
+Status: 0
+Próximo: -1
+ID: 948
+Ano: 2009
+Quantidade: 51
+Sigla: CE
+Cidade: MONSENHOR TABOSA
+Marca: 
+Modelo: CG 125 FAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 948
+Status: 0
+Próximo: -1
+ID: 949
+Ano: 2005
+Quantidade: 22
+Sigla: MG
+Cidade: UNAI
+Marca: SR
+Modelo: GUERRA AG GR
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 949
+Status: 0
+Próximo: -1
+ID: 950
+Ano: 2008
+Quantidade: 24
+Sigla: 
+Cidade: PARNAMIRIM
+Marca: VW
+Modelo: POLO SEDAN 1.6
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 950
+Status: 0
+Próximo: -1
+ID: 951
+Ano: 2002
+Quantidade: 20
+Sigla: CE
+Cidade: MORADA NOVA
+Marca: FIAT
+Modelo: UNO MILLE FIRE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 951
+Status: 0
+Próximo: -1
+ID: 952
+Ano: 2007
+Quantidade: 24
+Sigla: BA
+Cidade: BRUMADO
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 952
+Status: 0
+Próximo: -1
+ID: 953
+Ano: 1997
+Quantidade: 20
+Sigla: MG
+Cidade: 
+Marca: VW
+Modelo: GOL MI
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 953
+Status: 0
+Próximo: -1
+ID: 954
+Ano: 2009
+Quantidade: 12
+Sigla: MG
+Cidade: 
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 954
+Status: 0
+Próximo: -1
+ID: 955
+Ano: 2008
+Quantidade: 22
+Sigla: BA
+Cidade: EUNAPOLIS
+Marca: YAMAHA
+Modelo: FACTOR YBR125 E
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 955
+Status: 0
+Próximo: -1
+ID: 956
+Ano: 1983
+Quantidade: 12
+Sigla: MG
+Cidade: TEOFILO OTONI
+Marca: VW
+Modelo: VOYAGE LS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 956
+Status: 0
+Próximo: -1
+ID: 957
+Ano: 2012
+Quantidade: 11
+Sigla: PR
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 957
+Status: 0
+Próximo: -1
+ID: 958
+Ano: 1996
+Quantidade: 40
+Sigla: RJ
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 958
+Status: 0
+Próximo: -1
+ID: 959
+Ano: 2000
+Quantidade: 10
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 959
+Status: 0
+Próximo: -1
+ID: 960
+Ano: 2008
+Quantidade: 19
+Sigla: MG
+Cidade: BETIM
+Marca: GM
+Modelo: VECTRA SEDAN ELEGANCE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 960
+Status: 0
+Próximo: -1
+ID: 961
+Ano: 1976
+Quantidade: 13
+Sigla: RJ
+Cidade: ITATIAIA
+Marca: VW
+Modelo: BRASILIA
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 961
+Status: 0
+Próximo: -1
+ID: 962
+Ano: 2013
+Quantidade: 54
+Sigla: PE
+Cidade: RECIFE
+Marca: TOYOTA
+Modelo: ETIOS SD X
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 962
+Status: 0
+Próximo: -1
+ID: 963
+Ano: -1
+Quantidade: 13
+Sigla: GO
+Cidade: QUIRINOPOLIS
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 963
+Status: 0
+Próximo: -1
+ID: 964
+Ano: -1
+Quantidade: 13
+Sigla: MT
+Cidade: RONDONOPOLIS
+Marca: FORD
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 964
+Status: 0
+Próximo: -1
+ID: 965
+Ano: 2011
+Quantidade: 15
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: GOLF 1.6 SPORTLINE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 965
+Status: 0
+Próximo: -1
+ID: 966
+Ano: -1
+Quantidade: 50
+Sigla: 
+Cidade: 
+Marca: GM
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 966
+Status: 0
+Próximo: -1
+ID: 967
+Ano: 2002
+Quantidade: 10
+Sigla: 
+Cidade: PARACATU
+Marca: VW
+Modelo: GOLF
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 967
+Status: 0
+Próximo: -1
+ID: 968
+Ano: 2010
+Quantidade: 54
+Sigla: MT
+Cidade: CACERES
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 968
+Status: 0
+Próximo: -1
+ID: 969
+Ano: 2013
+Quantidade: 26
+Sigla: 
+Cidade: LAVRAS
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 969
+Status: 0
+Próximo: -1
+ID: 970
+Ano: -1
+Quantidade: 54
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: UNO MILLE FIRE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 970
+Status: 0
+Próximo: -1
+ID: 971
+Ano: 2011
+Quantidade: 11
+Sigla: ES
+Cidade: SERRA
+Marca: FORD
+Modelo: FIESTA SEDAN FLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 971
+Status: 0
+Próximo: -1
+ID: 972
+Ano: 1996
+Quantidade: 13
+Sigla: MG
+Cidade: CASSIA
+Marca: FIAT
+Modelo: UNO MILLE SX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 972
+Status: 0
+Próximo: -1
+ID: 973
+Ano: 2014
+Quantidade: 24
+Sigla: MG
+Cidade: 
+Marca: SR
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 973
+Status: 0
+Próximo: -1
+ID: 974
+Ano: 2009
+Quantidade: 54
+Sigla: 
+Cidade: VILA VELHA
+Marca: HONDA
+Modelo: NXR150 BROS ES
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 974
+Status: 0
+Próximo: -1
+ID: 975
+Ano: 2004
+Quantidade: 54
+Sigla: CE
+Cidade: TRAIRI
+Marca: 
+Modelo: CG 150 TITAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 975
+Status: 0
+Próximo: -1
+ID: 976
+Ano: 1977
+Quantidade: 11
+Sigla: MG
+Cidade: ITAPECERICA
+Marca: VW
+Modelo: FUSCA 1300 L
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 976
+Status: 0
+Próximo: -1
+ID: 977
+Ano: -1
+Quantidade: 18
+Sigla: MT
+Cidade: VARZEA GRANDE
+Marca: 
+Modelo: C3 90M TENDANCE
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 977
+Status: 0
+Próximo: -1
+ID: 978
+Ano: 2009
+Quantidade: 34
+Sigla: MA
+Cidade: FORMOSA DA SERRA NEGRA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 978
+Status: 0
+Próximo: -1
+ID: 979
+Ano: 2009
+Quantidade: 13
+Sigla: 
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 979
+Status: 0
+Próximo: -1
+ID: 980
+Ano: 2017
+Quantidade: 15
+Sigla: RJ
+Cidade: NITEROI
+Marca: HYUNDAI
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 980
+Status: 0
+Próximo: -1
+ID: 981
+Ano: 1986
+Quantidade: 42
+Sigla: MG
+Cidade: 
+Marca: FIAT
+Modelo: UNO
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 981
+Status: 0
+Próximo: -1
+ID: 982
+Ano: 2000
+Quantidade: 19
+Sigla: ES
+Cidade: CACHOEIRO DE ITAPEMIRIM
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 982
+Status: 0
+Próximo: -1
+ID: 983
+Ano: -1
+Quantidade: 10
+Sigla: BA
+Cidade: 
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 983
+Status: 0
+Próximo: -1
+ID: 984
+Ano: 2008
+Quantidade: 53
+Sigla: PR
+Cidade: 
+Marca: FIAT
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 984
+Status: 0
+Próximo: -1
+ID: 985
+Ano: 2012
+Quantidade: 14
+Sigla: 
+Cidade: CARAUARI
+Marca: 
+Modelo: CG 125 FAN KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 985
+Status: 0
+Próximo: -1
+ID: 986
+Ano: 2000
+Quantidade: 19
+Sigla: PA
+Cidade: ALMEIRIM
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 986
+Status: 0
+Próximo: -1
+ID: 987
+Ano: 2006
+Quantidade: 20
+Sigla: MT
+Cidade: VARZEA GRANDE
+Marca: VW
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 987
+Status: 0
+Próximo: -1
+ID: 988
+Ano: 2019
+Quantidade: 14
+Sigla: PA
+Cidade: ITUPIRANGA
+Marca: SR
+Modelo: LIBRELATO SRCA 2E
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 988
+Status: 0
+Próximo: -1
+ID: 989
+Ano: 2012
+Quantidade: 17
+Sigla: BA
+Cidade: VITORIA DA CONQUISTA
+Marca: 
+Modelo: FRONTIER XE 4X2
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 989
+Status: 0
+Próximo: -1
+ID: 990
+Ano: 2015
+Quantidade: 29
+Sigla: MG
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 990
+Status: 0
+Próximo: -1
+ID: 991
+Ano: -1
+Quantidade: 53
+Sigla: PR
+Cidade: CURITIBA
+Marca: HONDA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 991
+Status: 0
+Próximo: -1
+ID: 992
+Ano: -1
+Quantidade: 23
+Sigla: MG
+Cidade: ITUIUTABA
+Marca: FIAT
+Modelo: STRADA VOLCANO 13CD
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 992
+Status: 0
+Próximo: -1
+ID: 993
+Ano: 2015
+Quantidade: 19
+Sigla: SE
+Cidade: 
+Marca: 
+Modelo: FAZER250 BLUEFLEX
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 993
+Status: 0
+Próximo: -1
+ID: 994
+Ano: 2010
+Quantidade: 12
+Sigla: 
+Cidade: 
+Marca: HONDA
+Modelo: CG150 TITAN MIX KS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 994
+Status: 0
+Próximo: -1
+ID: 995
+Ano: -1
+Quantidade: 11
+Sigla: 
+Cidade: LUZIANIA
+Marca: YAMAHA
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 995
+Status: 0
+Próximo: -1
+ID: 996
+Ano: 1974
+Quantidade: 13
+Sigla: TO
+Cidade: 
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 996
+Status: 0
+Próximo: -1
+ID: 997
+Ano: 2019
+Quantidade: 52
+Sigla: 
+Cidade: MARIBONDO
+Marca: 
+Modelo: POP 110I
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 997
+Status: 0
+Próximo: -1
+ID: 998
+Ano: 2005
+Quantidade: 12
+Sigla: PA
+Cidade: 
+Marca: 
+Modelo: C100 BIZ MAIS
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 998
+Status: 0
+Próximo: -1
+ID: 999
+Ano: 2002
+Quantidade: 16
+Sigla: MG
+Cidade: ESPINOSA
+Marca: 
+Modelo: XR 200R
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 999
+Status: 0
+Próximo: -1
+ID: 1000
+Ano: 1989
+Quantidade: 19
+Sigla: RN
+Cidade: MOSSORO
+Marca: 
+Modelo: 
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+

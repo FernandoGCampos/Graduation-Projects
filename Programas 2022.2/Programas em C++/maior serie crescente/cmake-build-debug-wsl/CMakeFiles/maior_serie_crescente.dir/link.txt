@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/maior_serie_crescente.dir/main.cpp.o  -o maior_serie_crescente 

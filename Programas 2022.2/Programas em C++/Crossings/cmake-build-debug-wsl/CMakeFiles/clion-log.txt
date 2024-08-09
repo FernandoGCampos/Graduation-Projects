@@ -1,0 +1,4 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd '/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/Crossings/cmake-build-debug-wsl' && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug '-DCMAKE_C_FLAGS=-Wall -Wextra' '-DCMAKE_CXX_FLAGS=-Wall -Wextra' -G 'CodeBlocks - Unix Makefiles' -S '/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/Crossings' -B '/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/Crossings/cmake-build-debug-wsl'; exitcode=$?; sleep 0.001; (exit $exitcode)"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/Crossings/cmake-build-debug-wsl

@@ -1,0 +1,35 @@
+newmtl lambert9SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd objects\castle\Texture\Castle Exterior Texture.jpg
+# bump objects\castle\Texture\Castle Exterior Texture Bump.jpg -bm 0.04
+Ni 1.00
+
+newmtl lambert10SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd objects\castle\Texture\Ground and Fountain Texture.jpg
+# bump objects\castle\Texture\Ground and Fountain Texture Bump.jpg -bm 0.035
+Ni 1.00
+
+newmtl lambert11SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd objects\castle\Texture\Towers Doors and Windows Texture.jpg
+# bump objects\castle\Texture\Towers Doors and Windows Texture Bump.jpg -bm 0.05
+Ni 1.00
+
+newmtl lambert12SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd objects\castle\Texture\Castle Interior Texture.jpg
+# bump objects\castle\Texture\Castle Interior Texture Bump.jpg -bm 0.04
+Ni 1.00

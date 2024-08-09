@@ -1,0 +1,24 @@
+INDEX VERSION 1.131+C:\Users\nandi\Documents\Programas 2022.1\Programas em Java\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+100692314.index
+101049097.index
+4194848983.index
+1543209607.index
+1176958794.index
+1353107245.index
+1629316978.index
+3622449587.index
+3612153165.index
+2510429844.index
+3455893843.index
+1865797976.index
+1666805024.index
+977785796.index
+2304963556.index
+1305463686.index
+2069280666.index
+1099572425.index
+2799823442.index
+2983614263.index
+2804178557.index
+815468610.index
+3381330370.index

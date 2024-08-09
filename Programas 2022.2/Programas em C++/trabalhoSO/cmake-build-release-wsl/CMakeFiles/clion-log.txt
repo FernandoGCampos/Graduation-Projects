@@ -1,0 +1,8 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd '/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/trabalhoSO/cmake-build-release-wsl' && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Release CMAKE_CXX_FLAGS '${CMAKE_CXX_FLAGS} -std=c++11 -pthread' -G 'CodeBlocks - Unix Makefiles' -S '/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/trabalhoSO' -B '/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/trabalhoSO/cmake-build-release-wsl'; exitcode=$?; sleep 0.001; (exit $exitcode)"
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  CXX_STANDARD is set to invalid value '14; -pthread'
+
+
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.

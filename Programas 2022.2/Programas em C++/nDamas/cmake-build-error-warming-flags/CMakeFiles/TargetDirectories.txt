@@ -1,0 +1,3 @@
+C:/Users/nandi/Documents/Programas 2022.2/Programas em C++/nDamas/cmake-build-error-warming-flags/CMakeFiles/nDamas.dir
+C:/Users/nandi/Documents/Programas 2022.2/Programas em C++/nDamas/cmake-build-error-warming-flags/CMakeFiles/edit_cache.dir
+C:/Users/nandi/Documents/Programas 2022.2/Programas em C++/nDamas/cmake-build-error-warming-flags/CMakeFiles/rebuild_cache.dir

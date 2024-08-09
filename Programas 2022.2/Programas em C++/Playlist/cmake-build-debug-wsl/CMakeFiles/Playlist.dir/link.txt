@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Playlist.dir/main.cpp.o  -o Playlist 

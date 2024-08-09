@@ -1,0 +1,6606 @@
+Status: 1
+Raiz: 599
+Próximo nó: 600
+Quantidade de nós: 201
+Lixo: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RRN: 0
+Tipo: 2
+Número de chaves: 2
+ID: 1 Posição dados: 190
+ID: 2 Posição dados: 217
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 1
+Tipo: 2
+Número de chaves: 1
+ID: 4 Posição dados: 334
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 2
+Tipo: 0
+Número de chaves: 2
+ID: 3 Posição dados: 286
+ID: 5 Posição dados: 378
+ID: -1 Posição dados: -1
+Filho0: 0
+Filho1: 0
+Filho2: 2
+Filho3: -1
+
+RRN: 3
+Tipo: 2
+Número de chaves: 2
+ID: 6 Posição dados: 416
+ID: 7 Posição dados: 454
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 4
+Tipo: 2
+Número de chaves: 1
+ID: 9 Posição dados: 577
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 5
+Tipo: 0
+Número de chaves: 2
+ID: 8 Posição dados: 531
+ID: 10 Posição dados: 624
+ID: -1 Posição dados: -1
+Filho0: 3
+Filho1: 3
+Filho2: 5
+Filho3: -1
+
+RRN: 6
+Tipo: 2
+Número de chaves: 2
+ID: 11 Posição dados: 669
+ID: 12 Posição dados: 739
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 7
+Tipo: 2
+Número de chaves: 1
+ID: 14 Posição dados: 844
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 8
+Tipo: 0
+Número de chaves: 2
+ID: 13 Posição dados: 779
+ID: 15 Posição dados: 916
+ID: -1 Posição dados: -1
+Filho0: 6
+Filho1: 6
+Filho2: 8
+Filho3: -1
+
+RRN: 9
+Tipo: 2
+Número de chaves: 2
+ID: 16 Posição dados: 968
+ID: 17 Posição dados: 1005
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 10
+Tipo: 2
+Número de chaves: 1
+ID: 19 Posição dados: 1140
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 11
+Tipo: 0
+Número de chaves: 2
+ID: 18 Posição dados: 1078
+ID: 20 Posição dados: 1196
+ID: -1 Posição dados: -1
+Filho0: 9
+Filho1: 9
+Filho2: 11
+Filho3: -1
+
+RRN: 12
+Tipo: 2
+Número de chaves: 2
+ID: 21 Posição dados: 1223
+ID: 22 Posição dados: 1260
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 13
+Tipo: 2
+Número de chaves: 1
+ID: 24 Posição dados: 1379
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 14
+Tipo: 0
+Número de chaves: 2
+ID: 23 Posição dados: 1326
+ID: 25 Posição dados: 1433
+ID: -1 Posição dados: -1
+Filho0: 12
+Filho1: 12
+Filho2: 14
+Filho3: -1
+
+RRN: 15
+Tipo: 2
+Número de chaves: 2
+ID: 26 Posição dados: 1476
+ID: 27 Posição dados: 1524
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 16
+Tipo: 2
+Número de chaves: 1
+ID: 29 Posição dados: 1628
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 17
+Tipo: 0
+Número de chaves: 2
+ID: 28 Posição dados: 1577
+ID: 30 Posição dados: 1680
+ID: -1 Posição dados: -1
+Filho0: 15
+Filho1: 15
+Filho2: 17
+Filho3: -1
+
+RRN: 18
+Tipo: 2
+Número de chaves: 2
+ID: 31 Posição dados: 1744
+ID: 32 Posição dados: 1782
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 19
+Tipo: 2
+Número de chaves: 1
+ID: 34 Posição dados: 1890
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 20
+Tipo: 0
+Número de chaves: 2
+ID: 33 Posição dados: 1838
+ID: 35 Posição dados: 1943
+ID: -1 Posição dados: -1
+Filho0: 18
+Filho1: 18
+Filho2: 20
+Filho3: -1
+
+RRN: 21
+Tipo: 2
+Número de chaves: 2
+ID: 36 Posição dados: 1983
+ID: 37 Posição dados: 2034
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 22
+Tipo: 2
+Número de chaves: 1
+ID: 39 Posição dados: 2150
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 23
+Tipo: 0
+Número de chaves: 2
+ID: 38 Posição dados: 2078
+ID: 40 Posição dados: 2218
+ID: -1 Posição dados: -1
+Filho0: 21
+Filho1: 21
+Filho2: 23
+Filho3: -1
+
+RRN: 24
+Tipo: 2
+Número de chaves: 2
+ID: 41 Posição dados: 2289
+ID: 42 Posição dados: 2359
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 25
+Tipo: 2
+Número de chaves: 1
+ID: 44 Posição dados: 2479
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 26
+Tipo: 0
+Número de chaves: 2
+ID: 43 Posição dados: 2422
+ID: 45 Posição dados: 2552
+ID: -1 Posição dados: -1
+Filho0: 24
+Filho1: 24
+Filho2: 26
+Filho3: -1
+
+RRN: 27
+Tipo: 2
+Número de chaves: 2
+ID: 46 Posição dados: 2610
+ID: 47 Posição dados: 2661
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 28
+Tipo: 2
+Número de chaves: 1
+ID: 49 Posição dados: 2784
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 29
+Tipo: 0
+Número de chaves: 2
+ID: 48 Posição dados: 2734
+ID: 50 Posição dados: 2856
+ID: -1 Posição dados: -1
+Filho0: 27
+Filho1: 27
+Filho2: 29
+Filho3: -1
+
+RRN: 30
+Tipo: 2
+Número de chaves: 2
+ID: 51 Posição dados: 2932
+ID: 52 Posição dados: 2997
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 31
+Tipo: 2
+Número de chaves: 1
+ID: 54 Posição dados: 3090
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 32
+Tipo: 0
+Número de chaves: 2
+ID: 53 Posição dados: 3038
+ID: 55 Posição dados: 3160
+ID: -1 Posição dados: -1
+Filho0: 30
+Filho1: 30
+Filho2: 32
+Filho3: -1
+
+RRN: 33
+Tipo: 2
+Número de chaves: 2
+ID: 56 Posição dados: 3223
+ID: 57 Posição dados: 3272
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 34
+Tipo: 2
+Número de chaves: 1
+ID: 59 Posição dados: 3356
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 35
+Tipo: 0
+Número de chaves: 2
+ID: 58 Posição dados: 3329
+ID: 60 Posição dados: 3421
+ID: -1 Posição dados: -1
+Filho0: 33
+Filho1: 33
+Filho2: 35
+Filho3: -1
+
+RRN: 36
+Tipo: 2
+Número de chaves: 2
+ID: 61 Posição dados: 3493
+ID: 62 Posição dados: 3556
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 37
+Tipo: 2
+Número de chaves: 1
+ID: 64 Posição dados: 3630
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 38
+Tipo: 0
+Número de chaves: 2
+ID: 63 Posição dados: 3603
+ID: 65 Posição dados: 3697
+ID: -1 Posição dados: -1
+Filho0: 36
+Filho1: 36
+Filho2: 38
+Filho3: -1
+
+RRN: 39
+Tipo: 2
+Número de chaves: 2
+ID: 66 Posição dados: 3735
+ID: 67 Posição dados: 3816
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 40
+Tipo: 2
+Número de chaves: 1
+ID: 69 Posição dados: 3923
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 41
+Tipo: 0
+Número de chaves: 2
+ID: 68 Posição dados: 3887
+ID: 70 Posição dados: 3970
+ID: -1 Posição dados: -1
+Filho0: 39
+Filho1: 39
+Filho2: 41
+Filho3: -1
+
+RRN: 42
+Tipo: 2
+Número de chaves: 2
+ID: 71 Posição dados: 3997
+ID: 72 Posição dados: 4057
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 43
+Tipo: 2
+Número de chaves: 1
+ID: 74 Posição dados: 4173
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 44
+Tipo: 0
+Número de chaves: 2
+ID: 73 Posição dados: 4116
+ID: 75 Posição dados: 4243
+ID: -1 Posição dados: -1
+Filho0: 42
+Filho1: 42
+Filho2: 44
+Filho3: -1
+
+RRN: 45
+Tipo: 2
+Número de chaves: 2
+ID: 76 Posição dados: 4282
+ID: 77 Posição dados: 4333
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 46
+Tipo: 2
+Número de chaves: 1
+ID: 79 Posição dados: 4430
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 47
+Tipo: 0
+Número de chaves: 2
+ID: 78 Posição dados: 4374
+ID: 80 Posição dados: 4468
+ID: -1 Posição dados: -1
+Filho0: 45
+Filho1: 45
+Filho2: 47
+Filho3: -1
+
+RRN: 48
+Tipo: 2
+Número de chaves: 2
+ID: 81 Posição dados: 4520
+ID: 82 Posição dados: 4576
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 49
+Tipo: 2
+Número de chaves: 1
+ID: 84 Posição dados: 4671
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 50
+Tipo: 0
+Número de chaves: 2
+ID: 83 Posição dados: 4624
+ID: 85 Posição dados: 4711
+ID: -1 Posição dados: -1
+Filho0: 48
+Filho1: 48
+Filho2: 50
+Filho3: -1
+
+RRN: 51
+Tipo: 2
+Número de chaves: 2
+ID: 86 Posição dados: 4767
+ID: 87 Posição dados: 4827
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 52
+Tipo: 2
+Número de chaves: 1
+ID: 89 Posição dados: 4921
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 53
+Tipo: 0
+Número de chaves: 2
+ID: 88 Posição dados: 4882
+ID: 90 Posição dados: 4948
+ID: -1 Posição dados: -1
+Filho0: 51
+Filho1: 51
+Filho2: 53
+Filho3: -1
+
+RRN: 54
+Tipo: 2
+Número de chaves: 2
+ID: 91 Posição dados: 5003
+ID: 92 Posição dados: 5051
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 55
+Tipo: 2
+Número de chaves: 1
+ID: 94 Posição dados: 5169
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 56
+Tipo: 0
+Número de chaves: 2
+ID: 93 Posição dados: 5108
+ID: 95 Posição dados: 5229
+ID: -1 Posição dados: -1
+Filho0: 54
+Filho1: 54
+Filho2: 56
+Filho3: -1
+
+RRN: 57
+Tipo: 2
+Número de chaves: 2
+ID: 96 Posição dados: 5293
+ID: 97 Posição dados: 5351
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 58
+Tipo: 2
+Número de chaves: 1
+ID: 99 Posição dados: 5447
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 59
+Tipo: 0
+Número de chaves: 2
+ID: 98 Posição dados: 5420
+ID: 100 Posição dados: 5499
+ID: -1 Posição dados: -1
+Filho0: 57
+Filho1: 57
+Filho2: 59
+Filho3: -1
+
+RRN: 60
+Tipo: 2
+Número de chaves: 2
+ID: 101 Posição dados: 5560
+ID: 102 Posição dados: 5614
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 61
+Tipo: 2
+Número de chaves: 1
+ID: 104 Posição dados: 5680
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 62
+Tipo: 0
+Número de chaves: 2
+ID: 103 Posição dados: 5653
+ID: 105 Posição dados: 5747
+ID: -1 Posição dados: -1
+Filho0: 60
+Filho1: 60
+Filho2: 62
+Filho3: -1
+
+RRN: 63
+Tipo: 2
+Número de chaves: 2
+ID: 106 Posição dados: 5797
+ID: 107 Posição dados: 5840
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 64
+Tipo: 2
+Número de chaves: 1
+ID: 109 Posição dados: 5908
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 65
+Tipo: 0
+Número de chaves: 2
+ID: 108 Posição dados: 5881
+ID: 110 Posição dados: 5942
+ID: -1 Posição dados: -1
+Filho0: 63
+Filho1: 63
+Filho2: 65
+Filho3: -1
+
+RRN: 66
+Tipo: 2
+Número de chaves: 2
+ID: 111 Posição dados: 6002
+ID: 112 Posição dados: 6053
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 67
+Tipo: 2
+Número de chaves: 1
+ID: 114 Posição dados: 6184
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 68
+Tipo: 0
+Número de chaves: 2
+ID: 113 Posição dados: 6110
+ID: 115 Posição dados: 6225
+ID: -1 Posição dados: -1
+Filho0: 66
+Filho1: 66
+Filho2: 68
+Filho3: -1
+
+RRN: 69
+Tipo: 2
+Número de chaves: 2
+ID: 116 Posição dados: 6300
+ID: 117 Posição dados: 6343
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 70
+Tipo: 2
+Número de chaves: 1
+ID: 119 Posição dados: 6431
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 71
+Tipo: 0
+Número de chaves: 2
+ID: 118 Posição dados: 6382
+ID: 120 Posição dados: 6487
+ID: -1 Posição dados: -1
+Filho0: 69
+Filho1: 69
+Filho2: 71
+Filho3: -1
+
+RRN: 72
+Tipo: 2
+Número de chaves: 2
+ID: 121 Posição dados: 6568
+ID: 122 Posição dados: 6635
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 73
+Tipo: 2
+Número de chaves: 1
+ID: 124 Posição dados: 6738
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 74
+Tipo: 0
+Número de chaves: 2
+ID: 123 Posição dados: 6678
+ID: 125 Posição dados: 6765
+ID: -1 Posição dados: -1
+Filho0: 72
+Filho1: 72
+Filho2: 74
+Filho3: -1
+
+RRN: 75
+Tipo: 2
+Número de chaves: 2
+ID: 126 Posição dados: 6802
+ID: 127 Posição dados: 6849
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 76
+Tipo: 2
+Número de chaves: 1
+ID: 129 Posição dados: 6948
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 77
+Tipo: 0
+Número de chaves: 2
+ID: 128 Posição dados: 6876
+ID: 130 Posição dados: 6985
+ID: -1 Posição dados: -1
+Filho0: 75
+Filho1: 75
+Filho2: 77
+Filho3: -1
+
+RRN: 78
+Tipo: 2
+Número de chaves: 2
+ID: 131 Posição dados: 7037
+ID: 132 Posição dados: 7094
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 79
+Tipo: 2
+Número de chaves: 1
+ID: 134 Posição dados: 7192
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 80
+Tipo: 0
+Número de chaves: 2
+ID: 133 Posição dados: 7142
+ID: 135 Posição dados: 7229
+ID: -1 Posição dados: -1
+Filho0: 78
+Filho1: 78
+Filho2: 80
+Filho3: -1
+
+RRN: 81
+Tipo: 2
+Número de chaves: 2
+ID: 136 Posição dados: 7275
+ID: 137 Posição dados: 7326
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 82
+Tipo: 2
+Número de chaves: 1
+ID: 139 Posição dados: 7432
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 83
+Tipo: 0
+Número de chaves: 2
+ID: 138 Posição dados: 7373
+ID: 140 Posição dados: 7479
+ID: -1 Posição dados: -1
+Filho0: 81
+Filho1: 81
+Filho2: 83
+Filho3: -1
+
+RRN: 84
+Tipo: 2
+Número de chaves: 2
+ID: 141 Posição dados: 7537
+ID: 142 Posição dados: 7589
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 85
+Tipo: 2
+Número de chaves: 1
+ID: 144 Posição dados: 7694
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 86
+Tipo: 0
+Número de chaves: 2
+ID: 143 Posição dados: 7638
+ID: 145 Posição dados: 7745
+ID: -1 Posição dados: -1
+Filho0: 84
+Filho1: 84
+Filho2: 86
+Filho3: -1
+
+RRN: 87
+Tipo: 2
+Número de chaves: 2
+ID: 146 Posição dados: 7810
+ID: 147 Posição dados: 7873
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 88
+Tipo: 2
+Número de chaves: 1
+ID: 149 Posição dados: 7972
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 89
+Tipo: 0
+Número de chaves: 2
+ID: 148 Posição dados: 7922
+ID: 150 Posição dados: 7999
+ID: -1 Posição dados: -1
+Filho0: 87
+Filho1: 87
+Filho2: 89
+Filho3: -1
+
+RRN: 90
+Tipo: 2
+Número de chaves: 2
+ID: 151 Posição dados: 8053
+ID: 152 Posição dados: 8090
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 91
+Tipo: 2
+Número de chaves: 1
+ID: 154 Posição dados: 8199
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 92
+Tipo: 0
+Número de chaves: 2
+ID: 153 Posição dados: 8138
+ID: 155 Posição dados: 8239
+ID: -1 Posição dados: -1
+Filho0: 90
+Filho1: 90
+Filho2: 92
+Filho3: -1
+
+RRN: 93
+Tipo: 2
+Número de chaves: 2
+ID: 156 Posição dados: 8281
+ID: 157 Posição dados: 8341
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 94
+Tipo: 2
+Número de chaves: 1
+ID: 159 Posição dados: 8451
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 95
+Tipo: 0
+Número de chaves: 2
+ID: 158 Posição dados: 8405
+ID: 160 Posição dados: 8515
+ID: -1 Posição dados: -1
+Filho0: 93
+Filho1: 93
+Filho2: 95
+Filho3: -1
+
+RRN: 96
+Tipo: 2
+Número de chaves: 2
+ID: 161 Posição dados: 8572
+ID: 162 Posição dados: 8599
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 97
+Tipo: 2
+Número de chaves: 1
+ID: 164 Posição dados: 8702
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 98
+Tipo: 0
+Número de chaves: 2
+ID: 163 Posição dados: 8655
+ID: 165 Posição dados: 8746
+ID: -1 Posição dados: -1
+Filho0: 96
+Filho1: 96
+Filho2: 98
+Filho3: -1
+
+RRN: 99
+Tipo: 2
+Número de chaves: 2
+ID: 166 Posição dados: 8803
+ID: 167 Posição dados: 8843
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 100
+Tipo: 2
+Número de chaves: 1
+ID: 169 Posição dados: 8952
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 101
+Tipo: 0
+Número de chaves: 2
+ID: 168 Posição dados: 8908
+ID: 170 Posição dados: 9029
+ID: -1 Posição dados: -1
+Filho0: 99
+Filho1: 99
+Filho2: 101
+Filho3: -1
+
+RRN: 102
+Tipo: 2
+Número de chaves: 2
+ID: 171 Posição dados: 9089
+ID: 172 Posição dados: 9151
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 103
+Tipo: 2
+Número de chaves: 1
+ID: 174 Posição dados: 9272
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 104
+Tipo: 0
+Número de chaves: 2
+ID: 173 Posição dados: 9203
+ID: 175 Posição dados: 9329
+ID: -1 Posição dados: -1
+Filho0: 102
+Filho1: 102
+Filho2: 104
+Filho3: -1
+
+RRN: 105
+Tipo: 2
+Número de chaves: 2
+ID: 176 Posição dados: 9365
+ID: 177 Posição dados: 9423
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 106
+Tipo: 2
+Número de chaves: 1
+ID: 179 Posição dados: 9548
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 107
+Tipo: 0
+Número de chaves: 2
+ID: 178 Posição dados: 9472
+ID: 180 Posição dados: 9597
+ID: -1 Posição dados: -1
+Filho0: 105
+Filho1: 105
+Filho2: 107
+Filho3: -1
+
+RRN: 108
+Tipo: 2
+Número de chaves: 2
+ID: 181 Posição dados: 9652
+ID: 182 Posição dados: 9721
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 109
+Tipo: 2
+Número de chaves: 1
+ID: 184 Posição dados: 9861
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 110
+Tipo: 0
+Número de chaves: 2
+ID: 183 Posição dados: 9779
+ID: 185 Posição dados: 9913
+ID: -1 Posição dados: -1
+Filho0: 108
+Filho1: 108
+Filho2: 110
+Filho3: -1
+
+RRN: 111
+Tipo: 2
+Número de chaves: 2
+ID: 186 Posição dados: 9950
+ID: 187 Posição dados: 9993
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 112
+Tipo: 2
+Número de chaves: 1
+ID: 189 Posição dados: 10108
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 113
+Tipo: 0
+Número de chaves: 2
+ID: 188 Posição dados: 10055
+ID: 190 Posição dados: 10154
+ID: -1 Posição dados: -1
+Filho0: 111
+Filho1: 111
+Filho2: 113
+Filho3: -1
+
+RRN: 114
+Tipo: 2
+Número de chaves: 2
+ID: 191 Posição dados: 10199
+ID: 192 Posição dados: 10260
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 115
+Tipo: 2
+Número de chaves: 1
+ID: 194 Posição dados: 10344
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 116
+Tipo: 0
+Número de chaves: 2
+ID: 193 Posição dados: 10297
+ID: 195 Posição dados: 10397
+ID: -1 Posição dados: -1
+Filho0: 114
+Filho1: 114
+Filho2: 116
+Filho3: -1
+
+RRN: 117
+Tipo: 2
+Número de chaves: 2
+ID: 196 Posição dados: 10469
+ID: 197 Posição dados: 10516
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 118
+Tipo: 2
+Número de chaves: 1
+ID: 199 Posição dados: 10620
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 119
+Tipo: 0
+Número de chaves: 2
+ID: 198 Posição dados: 10583
+ID: 200 Posição dados: 10688
+ID: -1 Posição dados: -1
+Filho0: 117
+Filho1: 117
+Filho2: 119
+Filho3: -1
+
+RRN: 120
+Tipo: 2
+Número de chaves: 2
+ID: 201 Posição dados: 10744
+ID: 202 Posição dados: 10771
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 121
+Tipo: 2
+Número de chaves: 1
+ID: 204 Posição dados: 10850
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 122
+Tipo: 0
+Número de chaves: 2
+ID: 203 Posição dados: 10823
+ID: 205 Posição dados: 10894
+ID: -1 Posição dados: -1
+Filho0: 120
+Filho1: 120
+Filho2: 122
+Filho3: -1
+
+RRN: 123
+Tipo: 2
+Número de chaves: 2
+ID: 206 Posição dados: 10950
+ID: 207 Posição dados: 11013
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 124
+Tipo: 2
+Número de chaves: 1
+ID: 209 Posição dados: 11142
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 125
+Tipo: 0
+Número de chaves: 2
+ID: 208 Posição dados: 11074
+ID: 210 Posição dados: 11189
+ID: -1 Posição dados: -1
+Filho0: 123
+Filho1: 123
+Filho2: 125
+Filho3: -1
+
+RRN: 126
+Tipo: 2
+Número de chaves: 2
+ID: 211 Posição dados: 11216
+ID: 212 Posição dados: 11263
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 127
+Tipo: 2
+Número de chaves: 1
+ID: 214 Posição dados: 11384
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 128
+Tipo: 0
+Número de chaves: 2
+ID: 213 Posição dados: 11328
+ID: 215 Posição dados: 11461
+ID: -1 Posição dados: -1
+Filho0: 126
+Filho1: 126
+Filho2: 128
+Filho3: -1
+
+RRN: 129
+Tipo: 2
+Número de chaves: 2
+ID: 216 Posição dados: 11530
+ID: 217 Posição dados: 11579
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 130
+Tipo: 2
+Número de chaves: 1
+ID: 219 Posição dados: 11661
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 131
+Tipo: 0
+Número de chaves: 2
+ID: 218 Posição dados: 11606
+ID: 220 Posição dados: 11688
+ID: -1 Posição dados: -1
+Filho0: 129
+Filho1: 129
+Filho2: 131
+Filho3: -1
+
+RRN: 132
+Tipo: 2
+Número de chaves: 2
+ID: 221 Posição dados: 11758
+ID: 222 Posição dados: 11823
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 133
+Tipo: 2
+Número de chaves: 1
+ID: 224 Posição dados: 11926
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 134
+Tipo: 0
+Número de chaves: 2
+ID: 223 Posição dados: 11882
+ID: 225 Posição dados: 11965
+ID: -1 Posição dados: -1
+Filho0: 132
+Filho1: 132
+Filho2: 134
+Filho3: -1
+
+RRN: 135
+Tipo: 2
+Número de chaves: 2
+ID: 226 Posição dados: 12019
+ID: 227 Posição dados: 12077
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 136
+Tipo: 2
+Número de chaves: 1
+ID: 229 Posição dados: 12186
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 137
+Tipo: 0
+Número de chaves: 2
+ID: 228 Posição dados: 12139
+ID: 230 Posição dados: 12261
+ID: -1 Posição dados: -1
+Filho0: 135
+Filho1: 135
+Filho2: 137
+Filho3: -1
+
+RRN: 138
+Tipo: 2
+Número de chaves: 2
+ID: 231 Posição dados: 12303
+ID: 232 Posição dados: 12368
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 139
+Tipo: 2
+Número de chaves: 1
+ID: 234 Posição dados: 12464
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 140
+Tipo: 0
+Número de chaves: 2
+ID: 233 Posição dados: 12422
+ID: 235 Posição dados: 12521
+ID: -1 Posição dados: -1
+Filho0: 138
+Filho1: 138
+Filho2: 140
+Filho3: -1
+
+RRN: 141
+Tipo: 2
+Número de chaves: 2
+ID: 236 Posição dados: 12574
+ID: 237 Posição dados: 12624
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 142
+Tipo: 2
+Número de chaves: 1
+ID: 239 Posição dados: 12685
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 143
+Tipo: 0
+Número de chaves: 2
+ID: 238 Posição dados: 12658
+ID: 240 Posição dados: 12712
+ID: -1 Posição dados: -1
+Filho0: 141
+Filho1: 141
+Filho2: 143
+Filho3: -1
+
+RRN: 144
+Tipo: 2
+Número de chaves: 2
+ID: 241 Posição dados: 12762
+ID: 242 Posição dados: 12831
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 145
+Tipo: 2
+Número de chaves: 1
+ID: 244 Posição dados: 12909
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 146
+Tipo: 0
+Número de chaves: 2
+ID: 243 Posição dados: 12868
+ID: 245 Posição dados: 12983
+ID: -1 Posição dados: -1
+Filho0: 144
+Filho1: 144
+Filho2: 146
+Filho3: -1
+
+RRN: 147
+Tipo: 2
+Número de chaves: 2
+ID: 246 Posição dados: 13035
+ID: 247 Posição dados: 13090
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 148
+Tipo: 2
+Número de chaves: 1
+ID: 249 Posição dados: 13200
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 149
+Tipo: 0
+Número de chaves: 2
+ID: 248 Posição dados: 13150
+ID: 250 Posição dados: 13236
+ID: -1 Posição dados: -1
+Filho0: 147
+Filho1: 147
+Filho2: 149
+Filho3: -1
+
+RRN: 150
+Tipo: 2
+Número de chaves: 2
+ID: 251 Posição dados: 13306
+ID: 252 Posição dados: 13333
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 151
+Tipo: 2
+Número de chaves: 1
+ID: 254 Posição dados: 13437
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 152
+Tipo: 0
+Número de chaves: 2
+ID: 253 Posição dados: 13382
+ID: 255 Posição dados: 13482
+ID: -1 Posição dados: -1
+Filho0: 150
+Filho1: 150
+Filho2: 152
+Filho3: -1
+
+RRN: 153
+Tipo: 2
+Número de chaves: 2
+ID: 256 Posição dados: 13552
+ID: 257 Posição dados: 13620
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 154
+Tipo: 2
+Número de chaves: 1
+ID: 259 Posição dados: 13733
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 155
+Tipo: 0
+Número de chaves: 2
+ID: 258 Posição dados: 13684
+ID: 260 Posição dados: 13789
+ID: -1 Posição dados: -1
+Filho0: 153
+Filho1: 153
+Filho2: 155
+Filho3: -1
+
+RRN: 156
+Tipo: 2
+Número de chaves: 2
+ID: 261 Posição dados: 13864
+ID: 262 Posição dados: 13918
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 157
+Tipo: 2
+Número de chaves: 1
+ID: 264 Posição dados: 14027
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 158
+Tipo: 0
+Número de chaves: 2
+ID: 263 Posição dados: 13978
+ID: 265 Posição dados: 14054
+ID: -1 Posição dados: -1
+Filho0: 156
+Filho1: 156
+Filho2: 158
+Filho3: -1
+
+RRN: 159
+Tipo: 2
+Número de chaves: 2
+ID: 266 Posição dados: 14105
+ID: 267 Posição dados: 14163
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 160
+Tipo: 2
+Número de chaves: 1
+ID: 269 Posição dados: 14228
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 161
+Tipo: 0
+Número de chaves: 2
+ID: 268 Posição dados: 14201
+ID: 270 Posição dados: 14265
+ID: -1 Posição dados: -1
+Filho0: 159
+Filho1: 159
+Filho2: 161
+Filho3: -1
+
+RRN: 162
+Tipo: 2
+Número de chaves: 2
+ID: 271 Posição dados: 14326
+ID: 272 Posição dados: 14368
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 163
+Tipo: 2
+Número de chaves: 1
+ID: 274 Posição dados: 14467
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 164
+Tipo: 0
+Número de chaves: 2
+ID: 273 Posição dados: 14428
+ID: 275 Posição dados: 14514
+ID: -1 Posição dados: -1
+Filho0: 162
+Filho1: 162
+Filho2: 164
+Filho3: -1
+
+RRN: 165
+Tipo: 2
+Número de chaves: 2
+ID: 276 Posição dados: 14548
+ID: 277 Posição dados: 14627
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 166
+Tipo: 2
+Número de chaves: 1
+ID: 279 Posição dados: 14741
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 167
+Tipo: 0
+Número de chaves: 2
+ID: 278 Posição dados: 14688
+ID: 280 Posição dados: 14801
+ID: -1 Posição dados: -1
+Filho0: 165
+Filho1: 165
+Filho2: 167
+Filho3: -1
+
+RRN: 168
+Tipo: 2
+Número de chaves: 2
+ID: 281 Posição dados: 14828
+ID: 282 Posição dados: 14887
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 169
+Tipo: 2
+Número de chaves: 1
+ID: 284 Posição dados: 14985
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 170
+Tipo: 0
+Número de chaves: 2
+ID: 283 Posição dados: 14937
+ID: 285 Posição dados: 15036
+ID: -1 Posição dados: -1
+Filho0: 168
+Filho1: 168
+Filho2: 170
+Filho3: -1
+
+RRN: 171
+Tipo: 2
+Número de chaves: 2
+ID: 286 Posição dados: 15080
+ID: 287 Posição dados: 15150
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 172
+Tipo: 2
+Número de chaves: 1
+ID: 289 Posição dados: 15260
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 173
+Tipo: 0
+Número de chaves: 2
+ID: 288 Posição dados: 15209
+ID: 290 Posição dados: 15308
+ID: -1 Posição dados: -1
+Filho0: 171
+Filho1: 171
+Filho2: 173
+Filho3: -1
+
+RRN: 174
+Tipo: 2
+Número de chaves: 2
+ID: 291 Posição dados: 15357
+ID: 292 Posição dados: 15431
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 175
+Tipo: 2
+Número de chaves: 1
+ID: 294 Posição dados: 15529
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 176
+Tipo: 0
+Número de chaves: 2
+ID: 293 Posição dados: 15478
+ID: 295 Posição dados: 15563
+ID: -1 Posição dados: -1
+Filho0: 174
+Filho1: 174
+Filho2: 176
+Filho3: -1
+
+RRN: 177
+Tipo: 2
+Número de chaves: 2
+ID: 296 Posição dados: 15607
+ID: 297 Posição dados: 15670
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 178
+Tipo: 2
+Número de chaves: 1
+ID: 299 Posição dados: 15791
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 179
+Tipo: 0
+Número de chaves: 2
+ID: 298 Posição dados: 15717
+ID: 300 Posição dados: 15866
+ID: -1 Posição dados: -1
+Filho0: 177
+Filho1: 177
+Filho2: 179
+Filho3: -1
+
+RRN: 180
+Tipo: 2
+Número de chaves: 2
+ID: 301 Posição dados: 15926
+ID: 302 Posição dados: 15970
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 181
+Tipo: 2
+Número de chaves: 1
+ID: 304 Posição dados: 16078
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 182
+Tipo: 0
+Número de chaves: 2
+ID: 303 Posição dados: 15997
+ID: 305 Posição dados: 16105
+ID: -1 Posição dados: -1
+Filho0: 180
+Filho1: 180
+Filho2: 182
+Filho3: -1
+
+RRN: 183
+Tipo: 2
+Número de chaves: 2
+ID: 306 Posição dados: 16140
+ID: 307 Posição dados: 16215
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 184
+Tipo: 2
+Número de chaves: 1
+ID: 309 Posição dados: 16336
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 185
+Tipo: 0
+Número de chaves: 2
+ID: 308 Posição dados: 16284
+ID: 310 Posição dados: 16388
+ID: -1 Posição dados: -1
+Filho0: 183
+Filho1: 183
+Filho2: 185
+Filho3: -1
+
+RRN: 186
+Tipo: 2
+Número de chaves: 2
+ID: 311 Posição dados: 16415
+ID: 312 Posição dados: 16454
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 187
+Tipo: 2
+Número de chaves: 1
+ID: 314 Posição dados: 16564
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 188
+Tipo: 0
+Número de chaves: 2
+ID: 313 Posição dados: 16518
+ID: 315 Posição dados: 16591
+ID: -1 Posição dados: -1
+Filho0: 186
+Filho1: 186
+Filho2: 188
+Filho3: -1
+
+RRN: 189
+Tipo: 2
+Número de chaves: 2
+ID: 316 Posição dados: 16658
+ID: 317 Posição dados: 16718
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 190
+Tipo: 2
+Número de chaves: 1
+ID: 319 Posição dados: 16843
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 191
+Tipo: 0
+Número de chaves: 2
+ID: 318 Posição dados: 16777
+ID: 320 Posição dados: 16898
+ID: -1 Posição dados: -1
+Filho0: 189
+Filho1: 189
+Filho2: 191
+Filho3: -1
+
+RRN: 192
+Tipo: 2
+Número de chaves: 2
+ID: 321 Posição dados: 16954
+ID: 322 Posição dados: 17021
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 193
+Tipo: 2
+Número de chaves: 1
+ID: 324 Posição dados: 17146
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 194
+Tipo: 0
+Número de chaves: 2
+ID: 323 Posição dados: 17097
+ID: 325 Posição dados: 17209
+ID: -1 Posição dados: -1
+Filho0: 192
+Filho1: 192
+Filho2: 194
+Filho3: -1
+
+RRN: 195
+Tipo: 2
+Número de chaves: 2
+ID: 326 Posição dados: 17245
+ID: 327 Posição dados: 17272
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 196
+Tipo: 2
+Número de chaves: 1
+ID: 329 Posição dados: 17360
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 197
+Tipo: 0
+Número de chaves: 2
+ID: 328 Posição dados: 17323
+ID: 330 Posição dados: 17399
+ID: -1 Posição dados: -1
+Filho0: 195
+Filho1: 195
+Filho2: 197
+Filho3: -1
+
+RRN: 198
+Tipo: 2
+Número de chaves: 2
+ID: 331 Posição dados: 17446
+ID: 332 Posição dados: 17509
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 199
+Tipo: 2
+Número de chaves: 1
+ID: 334 Posição dados: 17620
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 200
+Tipo: 0
+Número de chaves: 2
+ID: 333 Posição dados: 17564
+ID: 335 Posição dados: 17679
+ID: -1 Posição dados: -1
+Filho0: 198
+Filho1: 198
+Filho2: 200
+Filho3: -1
+
+RRN: 201
+Tipo: 2
+Número de chaves: 2
+ID: 336 Posição dados: 17732
+ID: 337 Posição dados: 17795
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 202
+Tipo: 2
+Número de chaves: 1
+ID: 339 Posição dados: 17878
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 203
+Tipo: 0
+Número de chaves: 2
+ID: 338 Posição dados: 17831
+ID: 340 Posição dados: 17936
+ID: -1 Posição dados: -1
+Filho0: 201
+Filho1: 201
+Filho2: 203
+Filho3: -1
+
+RRN: 204
+Tipo: 2
+Número de chaves: 2
+ID: 341 Posição dados: 17963
+ID: 342 Posição dados: 18023
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 205
+Tipo: 2
+Número de chaves: 1
+ID: 344 Posição dados: 18130
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 206
+Tipo: 0
+Número de chaves: 2
+ID: 343 Posição dados: 18096
+ID: 345 Posição dados: 18157
+ID: -1 Posição dados: -1
+Filho0: 204
+Filho1: 204
+Filho2: 206
+Filho3: -1
+
+RRN: 207
+Tipo: 2
+Número de chaves: 2
+ID: 346 Posição dados: 18194
+ID: 347 Posição dados: 18245
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 208
+Tipo: 2
+Número de chaves: 1
+ID: 349 Posição dados: 18366
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 209
+Tipo: 0
+Número de chaves: 2
+ID: 348 Posição dados: 18299
+ID: 350 Posição dados: 18393
+ID: -1 Posição dados: -1
+Filho0: 207
+Filho1: 207
+Filho2: 209
+Filho3: -1
+
+RRN: 210
+Tipo: 2
+Número de chaves: 2
+ID: 351 Posição dados: 18445
+ID: 352 Posição dados: 18481
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 211
+Tipo: 2
+Número de chaves: 1
+ID: 354 Posição dados: 18617
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 212
+Tipo: 0
+Número de chaves: 2
+ID: 353 Posição dados: 18542
+ID: 355 Posição dados: 18663
+ID: -1 Posição dados: -1
+Filho0: 210
+Filho1: 210
+Filho2: 212
+Filho3: -1
+
+RRN: 213
+Tipo: 2
+Número de chaves: 2
+ID: 356 Posição dados: 18744
+ID: 357 Posição dados: 18804
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 214
+Tipo: 2
+Número de chaves: 1
+ID: 359 Posição dados: 18935
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 215
+Tipo: 0
+Número de chaves: 2
+ID: 358 Posição dados: 18882
+ID: 360 Posição dados: 18981
+ID: -1 Posição dados: -1
+Filho0: 213
+Filho1: 213
+Filho2: 215
+Filho3: -1
+
+RRN: 216
+Tipo: 2
+Número de chaves: 2
+ID: 361 Posição dados: 19019
+ID: 362 Posição dados: 19075
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 217
+Tipo: 2
+Número de chaves: 1
+ID: 364 Posição dados: 19155
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 218
+Tipo: 0
+Número de chaves: 2
+ID: 363 Posição dados: 19118
+ID: 365 Posição dados: 19214
+ID: -1 Posição dados: -1
+Filho0: 216
+Filho1: 216
+Filho2: 218
+Filho3: -1
+
+RRN: 219
+Tipo: 2
+Número de chaves: 2
+ID: 366 Posição dados: 19292
+ID: 367 Posição dados: 19331
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 220
+Tipo: 2
+Número de chaves: 1
+ID: 369 Posição dados: 19395
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 221
+Tipo: 0
+Número de chaves: 2
+ID: 368 Posição dados: 19358
+ID: 370 Posição dados: 19446
+ID: -1 Posição dados: -1
+Filho0: 219
+Filho1: 219
+Filho2: 221
+Filho3: -1
+
+RRN: 222
+Tipo: 2
+Número de chaves: 2
+ID: 371 Posição dados: 19473
+ID: 372 Posição dados: 19500
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 223
+Tipo: 2
+Número de chaves: 1
+ID: 374 Posição dados: 19573
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 224
+Tipo: 0
+Número de chaves: 2
+ID: 373 Posição dados: 19527
+ID: 375 Posição dados: 19627
+ID: -1 Posição dados: -1
+Filho0: 222
+Filho1: 222
+Filho2: 224
+Filho3: -1
+
+RRN: 225
+Tipo: 2
+Número de chaves: 2
+ID: 376 Posição dados: 19684
+ID: 377 Posição dados: 19741
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 226
+Tipo: 2
+Número de chaves: 1
+ID: 379 Posição dados: 19821
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 227
+Tipo: 0
+Número de chaves: 2
+ID: 378 Posição dados: 19794
+ID: 380 Posição dados: 19865
+ID: -1 Posição dados: -1
+Filho0: 225
+Filho1: 225
+Filho2: 227
+Filho3: -1
+
+RRN: 228
+Tipo: 2
+Número de chaves: 2
+ID: 381 Posição dados: 19914
+ID: 382 Posição dados: 19957
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 229
+Tipo: 2
+Número de chaves: 1
+ID: 384 Posição dados: 20060
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 230
+Tipo: 0
+Número de chaves: 2
+ID: 383 Posição dados: 20009
+ID: 385 Posição dados: 20128
+ID: -1 Posição dados: -1
+Filho0: 228
+Filho1: 228
+Filho2: 230
+Filho3: -1
+
+RRN: 231
+Tipo: 2
+Número de chaves: 2
+ID: 386 Posição dados: 20170
+ID: 387 Posição dados: 20248
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 232
+Tipo: 2
+Número de chaves: 1
+ID: 389 Posição dados: 20345
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 233
+Tipo: 0
+Número de chaves: 2
+ID: 388 Posição dados: 20290
+ID: 390 Posição dados: 20394
+ID: -1 Posição dados: -1
+Filho0: 231
+Filho1: 231
+Filho2: 233
+Filho3: -1
+
+RRN: 234
+Tipo: 2
+Número de chaves: 2
+ID: 391 Posição dados: 20436
+ID: 392 Posição dados: 20480
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 235
+Tipo: 2
+Número de chaves: 1
+ID: 394 Posição dados: 20609
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 236
+Tipo: 0
+Número de chaves: 2
+ID: 393 Posição dados: 20552
+ID: 395 Posição dados: 20673
+ID: -1 Posição dados: -1
+Filho0: 234
+Filho1: 234
+Filho2: 236
+Filho3: -1
+
+RRN: 237
+Tipo: 2
+Número de chaves: 2
+ID: 396 Posição dados: 20744
+ID: 397 Posição dados: 20795
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 238
+Tipo: 2
+Número de chaves: 1
+ID: 399 Posição dados: 20929
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 239
+Tipo: 0
+Número de chaves: 2
+ID: 398 Posição dados: 20879
+ID: 400 Posição dados: 20969
+ID: -1 Posição dados: -1
+Filho0: 237
+Filho1: 237
+Filho2: 239
+Filho3: -1
+
+RRN: 240
+Tipo: 2
+Número de chaves: 2
+ID: 401 Posição dados: 21017
+ID: 402 Posição dados: 21062
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 241
+Tipo: 2
+Número de chaves: 1
+ID: 404 Posição dados: 21176
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 242
+Tipo: 0
+Número de chaves: 2
+ID: 403 Posição dados: 21122
+ID: 405 Posição dados: 21222
+ID: -1 Posição dados: -1
+Filho0: 240
+Filho1: 240
+Filho2: 242
+Filho3: -1
+
+RRN: 243
+Tipo: 2
+Número de chaves: 2
+ID: 406 Posição dados: 21264
+ID: 407 Posição dados: 21324
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 244
+Tipo: 2
+Número de chaves: 1
+ID: 409 Posição dados: 21433
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 245
+Tipo: 0
+Número de chaves: 2
+ID: 408 Posição dados: 21386
+ID: 410 Posição dados: 21483
+ID: -1 Posição dados: -1
+Filho0: 243
+Filho1: 243
+Filho2: 245
+Filho3: -1
+
+RRN: 246
+Tipo: 2
+Número de chaves: 2
+ID: 411 Posição dados: 21510
+ID: 412 Posição dados: 21582
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 247
+Tipo: 2
+Número de chaves: 1
+ID: 414 Posição dados: 21704
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 248
+Tipo: 0
+Número de chaves: 2
+ID: 413 Posição dados: 21653
+ID: 415 Posição dados: 21731
+ID: -1 Posição dados: -1
+Filho0: 246
+Filho1: 246
+Filho2: 248
+Filho3: -1
+
+RRN: 249
+Tipo: 2
+Número de chaves: 2
+ID: 416 Posição dados: 21805
+ID: 417 Posição dados: 21832
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 250
+Tipo: 2
+Número de chaves: 1
+ID: 419 Posição dados: 21917
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 251
+Tipo: 0
+Número de chaves: 2
+ID: 418 Posição dados: 21890
+ID: 420 Posição dados: 21975
+ID: -1 Posição dados: -1
+Filho0: 249
+Filho1: 249
+Filho2: 251
+Filho3: -1
+
+RRN: 252
+Tipo: 2
+Número de chaves: 2
+ID: 421 Posição dados: 22039
+ID: 422 Posição dados: 22092
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 253
+Tipo: 2
+Número de chaves: 1
+ID: 424 Posição dados: 22214
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 254
+Tipo: 0
+Número de chaves: 2
+ID: 423 Posição dados: 22154
+ID: 425 Posição dados: 22271
+ID: -1 Posição dados: -1
+Filho0: 252
+Filho1: 252
+Filho2: 254
+Filho3: -1
+
+RRN: 255
+Tipo: 2
+Número de chaves: 2
+ID: 426 Posição dados: 22326
+ID: 427 Posição dados: 22363
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 256
+Tipo: 2
+Número de chaves: 1
+ID: 429 Posição dados: 22486
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 257
+Tipo: 0
+Número de chaves: 2
+ID: 428 Posição dados: 22429
+ID: 430 Posição dados: 22534
+ID: -1 Posição dados: -1
+Filho0: 255
+Filho1: 255
+Filho2: 257
+Filho3: -1
+
+RRN: 258
+Tipo: 2
+Número de chaves: 2
+ID: 431 Posição dados: 22605
+ID: 432 Posição dados: 22641
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 259
+Tipo: 2
+Número de chaves: 1
+ID: 434 Posição dados: 22746
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 260
+Tipo: 0
+Número de chaves: 2
+ID: 433 Posição dados: 22692
+ID: 435 Posição dados: 22796
+ID: -1 Posição dados: -1
+Filho0: 258
+Filho1: 258
+Filho2: 260
+Filho3: -1
+
+RRN: 261
+Tipo: 2
+Número de chaves: 2
+ID: 436 Posição dados: 22837
+ID: 437 Posição dados: 22885
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 262
+Tipo: 2
+Número de chaves: 1
+ID: 439 Posição dados: 22975
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 263
+Tipo: 0
+Número de chaves: 2
+ID: 438 Posição dados: 22930
+ID: 440 Posição dados: 23031
+ID: -1 Posição dados: -1
+Filho0: 261
+Filho1: 261
+Filho2: 263
+Filho3: -1
+
+RRN: 264
+Tipo: 2
+Número de chaves: 2
+ID: 441 Posição dados: 23115
+ID: 442 Posição dados: 23162
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 265
+Tipo: 2
+Número de chaves: 1
+ID: 444 Posição dados: 23285
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 266
+Tipo: 0
+Número de chaves: 2
+ID: 443 Posição dados: 23236
+ID: 445 Posição dados: 23347
+ID: -1 Posição dados: -1
+Filho0: 264
+Filho1: 264
+Filho2: 266
+Filho3: -1
+
+RRN: 267
+Tipo: 2
+Número de chaves: 2
+ID: 446 Posição dados: 23390
+ID: 447 Posição dados: 23451
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 268
+Tipo: 2
+Número de chaves: 1
+ID: 449 Posição dados: 23580
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 269
+Tipo: 0
+Número de chaves: 2
+ID: 448 Posição dados: 23512
+ID: 450 Posição dados: 23637
+ID: -1 Posição dados: -1
+Filho0: 267
+Filho1: 267
+Filho2: 269
+Filho3: -1
+
+RRN: 270
+Tipo: 2
+Número de chaves: 2
+ID: 451 Posição dados: 23684
+ID: 452 Posição dados: 23744
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 271
+Tipo: 2
+Número de chaves: 1
+ID: 454 Posição dados: 23882
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 272
+Tipo: 0
+Número de chaves: 2
+ID: 453 Posição dados: 23797
+ID: 455 Posição dados: 23941
+ID: -1 Posição dados: -1
+Filho0: 270
+Filho1: 270
+Filho2: 272
+Filho3: -1
+
+RRN: 273
+Tipo: 2
+Número de chaves: 2
+ID: 456 Posição dados: 23980
+ID: 457 Posição dados: 24017
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 274
+Tipo: 2
+Número de chaves: 1
+ID: 459 Posição dados: 24105
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 275
+Tipo: 0
+Número de chaves: 2
+ID: 458 Posição dados: 24068
+ID: 460 Posição dados: 24139
+ID: -1 Posição dados: -1
+Filho0: 273
+Filho1: 273
+Filho2: 275
+Filho3: -1
+
+RRN: 276
+Tipo: 2
+Número de chaves: 2
+ID: 461 Posição dados: 24180
+ID: 462 Posição dados: 24218
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 277
+Tipo: 2
+Número de chaves: 1
+ID: 464 Posição dados: 24338
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 278
+Tipo: 0
+Número de chaves: 2
+ID: 463 Posição dados: 24278
+ID: 465 Posição dados: 24408
+ID: -1 Posição dados: -1
+Filho0: 276
+Filho1: 276
+Filho2: 278
+Filho3: -1
+
+RRN: 279
+Tipo: 2
+Número de chaves: 2
+ID: 466 Posição dados: 24444
+ID: 467 Posição dados: 24525
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 280
+Tipo: 2
+Número de chaves: 1
+ID: 469 Posição dados: 24648
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 281
+Tipo: 0
+Número de chaves: 2
+ID: 468 Posição dados: 24581
+ID: 470 Posição dados: 24722
+ID: -1 Posição dados: -1
+Filho0: 279
+Filho1: 279
+Filho2: 281
+Filho3: -1
+
+RRN: 282
+Tipo: 2
+Número de chaves: 2
+ID: 471 Posição dados: 24766
+ID: 472 Posição dados: 24806
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 283
+Tipo: 2
+Número de chaves: 1
+ID: 474 Posição dados: 24907
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 284
+Tipo: 0
+Número de chaves: 2
+ID: 473 Posição dados: 24855
+ID: 475 Posição dados: 24962
+ID: -1 Posição dados: -1
+Filho0: 282
+Filho1: 282
+Filho2: 284
+Filho3: -1
+
+RRN: 285
+Tipo: 2
+Número de chaves: 2
+ID: 476 Posição dados: 25014
+ID: 477 Posição dados: 25085
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 286
+Tipo: 2
+Número de chaves: 1
+ID: 479 Posição dados: 25170
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 287
+Tipo: 0
+Número de chaves: 2
+ID: 478 Posição dados: 25131
+ID: 480 Posição dados: 25234
+ID: -1 Posição dados: -1
+Filho0: 285
+Filho1: 285
+Filho2: 287
+Filho3: -1
+
+RRN: 288
+Tipo: 2
+Número de chaves: 2
+ID: 481 Posição dados: 25306
+ID: 482 Posição dados: 25371
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 289
+Tipo: 2
+Número de chaves: 1
+ID: 484 Posição dados: 25475
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 290
+Tipo: 0
+Número de chaves: 2
+ID: 483 Posição dados: 25418
+ID: 485 Posição dados: 25527
+ID: -1 Posição dados: -1
+Filho0: 288
+Filho1: 288
+Filho2: 290
+Filho3: -1
+
+RRN: 291
+Tipo: 2
+Número de chaves: 2
+ID: 486 Posição dados: 25579
+ID: 487 Posição dados: 25635
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 292
+Tipo: 2
+Número de chaves: 1
+ID: 489 Posição dados: 25708
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 293
+Tipo: 0
+Número de chaves: 2
+ID: 488 Posição dados: 25669
+ID: 490 Posição dados: 25752
+ID: -1 Posição dados: -1
+Filho0: 291
+Filho1: 291
+Filho2: 293
+Filho3: -1
+
+RRN: 294
+Tipo: 2
+Número de chaves: 2
+ID: 491 Posição dados: 25805
+ID: 492 Posição dados: 25855
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 295
+Tipo: 2
+Número de chaves: 1
+ID: 494 Posição dados: 25942
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 296
+Tipo: 0
+Número de chaves: 2
+ID: 493 Posição dados: 25882
+ID: 495 Posição dados: 26001
+ID: -1 Posição dados: -1
+Filho0: 294
+Filho1: 294
+Filho2: 296
+Filho3: -1
+
+RRN: 297
+Tipo: 2
+Número de chaves: 2
+ID: 496 Posição dados: 26042
+ID: 497 Posição dados: 26094
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 298
+Tipo: 2
+Número de chaves: 1
+ID: 499 Posição dados: 26157
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 299
+Tipo: 0
+Número de chaves: 2
+ID: 498 Posição dados: 26130
+ID: 500 Posição dados: 26205
+ID: -1 Posição dados: -1
+Filho0: 297
+Filho1: 297
+Filho2: 299
+Filho3: -1
+
+RRN: 300
+Tipo: 2
+Número de chaves: 2
+ID: 501 Posição dados: 26245
+ID: 502 Posição dados: 26285
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 301
+Tipo: 2
+Número de chaves: 1
+ID: 504 Posição dados: 26364
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 302
+Tipo: 0
+Número de chaves: 2
+ID: 503 Posição dados: 26312
+ID: 505 Posição dados: 26424
+ID: -1 Posição dados: -1
+Filho0: 300
+Filho1: 300
+Filho2: 302
+Filho3: -1
+
+RRN: 303
+Tipo: 2
+Número de chaves: 2
+ID: 506 Posição dados: 26486
+ID: 507 Posição dados: 26543
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 304
+Tipo: 2
+Número de chaves: 1
+ID: 509 Posição dados: 26638
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 305
+Tipo: 0
+Número de chaves: 2
+ID: 508 Posição dados: 26590
+ID: 510 Posição dados: 26687
+ID: -1 Posição dados: -1
+Filho0: 303
+Filho1: 303
+Filho2: 305
+Filho3: -1
+
+RRN: 306
+Tipo: 2
+Número de chaves: 2
+ID: 511 Posição dados: 26727
+ID: 512 Posição dados: 26773
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 307
+Tipo: 2
+Número de chaves: 1
+ID: 514 Posição dados: 26856
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 308
+Tipo: 0
+Número de chaves: 2
+ID: 513 Posição dados: 26829
+ID: 515 Posição dados: 26913
+ID: -1 Posição dados: -1
+Filho0: 306
+Filho1: 306
+Filho2: 308
+Filho3: -1
+
+RRN: 309
+Tipo: 2
+Número de chaves: 2
+ID: 516 Posição dados: 26966
+ID: 517 Posição dados: 27032
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 310
+Tipo: 2
+Número de chaves: 1
+ID: 519 Posição dados: 27132
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 311
+Tipo: 0
+Número de chaves: 2
+ID: 518 Posição dados: 27086
+ID: 520 Posição dados: 27203
+ID: -1 Posição dados: -1
+Filho0: 309
+Filho1: 309
+Filho2: 311
+Filho3: -1
+
+RRN: 312
+Tipo: 2
+Número de chaves: 2
+ID: 521 Posição dados: 27243
+ID: 522 Posição dados: 27299
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 313
+Tipo: 2
+Número de chaves: 1
+ID: 524 Posição dados: 27387
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 314
+Tipo: 0
+Número de chaves: 2
+ID: 523 Posição dados: 27349
+ID: 525 Posição dados: 27445
+ID: -1 Posição dados: -1
+Filho0: 312
+Filho1: 312
+Filho2: 314
+Filho3: -1
+
+RRN: 315
+Tipo: 2
+Número de chaves: 2
+ID: 526 Posição dados: 27483
+ID: 527 Posição dados: 27544
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 316
+Tipo: 2
+Número de chaves: 1
+ID: 529 Posição dados: 27642
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 317
+Tipo: 0
+Número de chaves: 2
+ID: 528 Posição dados: 27598
+ID: 530 Posição dados: 27689
+ID: -1 Posição dados: -1
+Filho0: 315
+Filho1: 315
+Filho2: 317
+Filho3: -1
+
+RRN: 318
+Tipo: 2
+Número de chaves: 2
+ID: 531 Posição dados: 27734
+ID: 532 Posição dados: 27803
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 319
+Tipo: 2
+Número de chaves: 1
+ID: 534 Posição dados: 27914
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 320
+Tipo: 0
+Número de chaves: 2
+ID: 533 Posição dados: 27877
+ID: 535 Posição dados: 27976
+ID: -1 Posição dados: -1
+Filho0: 318
+Filho1: 318
+Filho2: 320
+Filho3: -1
+
+RRN: 321
+Tipo: 2
+Número de chaves: 2
+ID: 536 Posição dados: 28015
+ID: 537 Posição dados: 28042
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 322
+Tipo: 2
+Número de chaves: 1
+ID: 539 Posição dados: 28125
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 323
+Tipo: 0
+Número de chaves: 2
+ID: 538 Posição dados: 28091
+ID: 540 Posição dados: 28163
+ID: -1 Posição dados: -1
+Filho0: 321
+Filho1: 321
+Filho2: 323
+Filho3: -1
+
+RRN: 324
+Tipo: 2
+Número de chaves: 2
+ID: 541 Posição dados: 28211
+ID: 542 Posição dados: 28238
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 325
+Tipo: 2
+Número de chaves: 1
+ID: 544 Posição dados: 28348
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 326
+Tipo: 0
+Número de chaves: 2
+ID: 543 Posição dados: 28306
+ID: 545 Posição dados: 28410
+ID: -1 Posição dados: -1
+Filho0: 324
+Filho1: 324
+Filho2: 326
+Filho3: -1
+
+RRN: 327
+Tipo: 2
+Número de chaves: 2
+ID: 546 Posição dados: 28462
+ID: 547 Posição dados: 28501
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 328
+Tipo: 2
+Número de chaves: 1
+ID: 549 Posição dados: 28596
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 329
+Tipo: 0
+Número de chaves: 2
+ID: 548 Posição dados: 28552
+ID: 550 Posição dados: 28634
+ID: -1 Posição dados: -1
+Filho0: 327
+Filho1: 327
+Filho2: 329
+Filho3: -1
+
+RRN: 330
+Tipo: 2
+Número de chaves: 2
+ID: 551 Posição dados: 28674
+ID: 552 Posição dados: 28741
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 331
+Tipo: 2
+Número de chaves: 1
+ID: 554 Posição dados: 28863
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 332
+Tipo: 0
+Número de chaves: 2
+ID: 553 Posição dados: 28788
+ID: 555 Posição dados: 28897
+ID: -1 Posição dados: -1
+Filho0: 330
+Filho1: 330
+Filho2: 332
+Filho3: -1
+
+RRN: 333
+Tipo: 2
+Número de chaves: 2
+ID: 556 Posição dados: 28943
+ID: 557 Posição dados: 29002
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 334
+Tipo: 2
+Número de chaves: 1
+ID: 559 Posição dados: 29081
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 335
+Tipo: 0
+Número de chaves: 2
+ID: 558 Posição dados: 29045
+ID: 560 Posição dados: 29150
+ID: -1 Posição dados: -1
+Filho0: 333
+Filho1: 333
+Filho2: 335
+Filho3: -1
+
+RRN: 336
+Tipo: 2
+Número de chaves: 2
+ID: 561 Posição dados: 29199
+ID: 562 Posição dados: 29253
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 337
+Tipo: 2
+Número de chaves: 1
+ID: 564 Posição dados: 29328
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 338
+Tipo: 0
+Número de chaves: 2
+ID: 563 Posição dados: 29301
+ID: 565 Posição dados: 29355
+ID: -1 Posição dados: -1
+Filho0: 336
+Filho1: 336
+Filho2: 338
+Filho3: -1
+
+RRN: 339
+Tipo: 2
+Número de chaves: 2
+ID: 566 Posição dados: 29394
+ID: 567 Posição dados: 29445
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 340
+Tipo: 2
+Número de chaves: 1
+ID: 569 Posição dados: 29573
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 341
+Tipo: 0
+Número de chaves: 2
+ID: 568 Posição dados: 29517
+ID: 570 Posição dados: 29609
+ID: -1 Posição dados: -1
+Filho0: 339
+Filho1: 339
+Filho2: 341
+Filho3: -1
+
+RRN: 342
+Tipo: 2
+Número de chaves: 2
+ID: 571 Posição dados: 29651
+ID: 572 Posição dados: 29699
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 343
+Tipo: 2
+Número de chaves: 1
+ID: 574 Posição dados: 29813
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 344
+Tipo: 0
+Número de chaves: 2
+ID: 573 Posição dados: 29767
+ID: 575 Posição dados: 29849
+ID: -1 Posição dados: -1
+Filho0: 342
+Filho1: 342
+Filho2: 344
+Filho3: -1
+
+RRN: 345
+Tipo: 2
+Número de chaves: 2
+ID: 576 Posição dados: 29887
+ID: 577 Posição dados: 29933
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 346
+Tipo: 2
+Número de chaves: 1
+ID: 579 Posição dados: 30023
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 347
+Tipo: 0
+Número de chaves: 2
+ID: 578 Posição dados: 29971
+ID: 580 Posição dados: 30089
+ID: -1 Posição dados: -1
+Filho0: 345
+Filho1: 345
+Filho2: 347
+Filho3: -1
+
+RRN: 348
+Tipo: 2
+Número de chaves: 2
+ID: 581 Posição dados: 30161
+ID: 582 Posição dados: 30224
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 349
+Tipo: 2
+Número de chaves: 1
+ID: 584 Posição dados: 30316
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 350
+Tipo: 0
+Número de chaves: 2
+ID: 583 Posição dados: 30279
+ID: 585 Posição dados: 30377
+ID: -1 Posição dados: -1
+Filho0: 348
+Filho1: 348
+Filho2: 350
+Filho3: -1
+
+RRN: 351
+Tipo: 2
+Número de chaves: 2
+ID: 586 Posição dados: 30433
+ID: 587 Posição dados: 30492
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 352
+Tipo: 2
+Número de chaves: 1
+ID: 589 Posição dados: 30592
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 353
+Tipo: 0
+Número de chaves: 2
+ID: 588 Posição dados: 30544
+ID: 590 Posição dados: 30644
+ID: -1 Posição dados: -1
+Filho0: 351
+Filho1: 351
+Filho2: 353
+Filho3: -1
+
+RRN: 354
+Tipo: 2
+Número de chaves: 2
+ID: 591 Posição dados: 30721
+ID: 592 Posição dados: 30771
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 355
+Tipo: 2
+Número de chaves: 1
+ID: 594 Posição dados: 30882
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 356
+Tipo: 0
+Número de chaves: 2
+ID: 593 Posição dados: 30834
+ID: 595 Posição dados: 30944
+ID: -1 Posição dados: -1
+Filho0: 354
+Filho1: 354
+Filho2: 356
+Filho3: -1
+
+RRN: 357
+Tipo: 2
+Número de chaves: 2
+ID: 596 Posição dados: 31003
+ID: 597 Posição dados: 31067
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 358
+Tipo: 2
+Número de chaves: 1
+ID: 599 Posição dados: 31166
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 359
+Tipo: 0
+Número de chaves: 2
+ID: 598 Posição dados: 31118
+ID: 600 Posição dados: 31207
+ID: -1 Posição dados: -1
+Filho0: 357
+Filho1: 357
+Filho2: 359
+Filho3: -1
+
+RRN: 360
+Tipo: 2
+Número de chaves: 2
+ID: 601 Posição dados: 31241
+ID: 602 Posição dados: 31298
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 361
+Tipo: 2
+Número de chaves: 1
+ID: 604 Posição dados: 31392
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 362
+Tipo: 0
+Número de chaves: 2
+ID: 603 Posição dados: 31346
+ID: 605 Posição dados: 31450
+ID: -1 Posição dados: -1
+Filho0: 360
+Filho1: 360
+Filho2: 362
+Filho3: -1
+
+RRN: 363
+Tipo: 2
+Número de chaves: 2
+ID: 606 Posição dados: 31524
+ID: 607 Posição dados: 31600
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 364
+Tipo: 2
+Número de chaves: 1
+ID: 609 Posição dados: 31691
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 365
+Tipo: 0
+Número de chaves: 2
+ID: 608 Posição dados: 31647
+ID: 610 Posição dados: 31728
+ID: -1 Posição dados: -1
+Filho0: 363
+Filho1: 363
+Filho2: 365
+Filho3: -1
+
+RRN: 366
+Tipo: 2
+Número de chaves: 2
+ID: 611 Posição dados: 31771
+ID: 612 Posição dados: 31807
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 367
+Tipo: 2
+Número de chaves: 1
+ID: 614 Posição dados: 31921
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 368
+Tipo: 0
+Número de chaves: 2
+ID: 613 Posição dados: 31864
+ID: 615 Posição dados: 31990
+ID: -1 Posição dados: -1
+Filho0: 366
+Filho1: 366
+Filho2: 368
+Filho3: -1
+
+RRN: 369
+Tipo: 2
+Número de chaves: 2
+ID: 616 Posição dados: 32027
+ID: 617 Posição dados: 32098
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 370
+Tipo: 2
+Número de chaves: 1
+ID: 619 Posição dados: 32197
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 371
+Tipo: 0
+Número de chaves: 2
+ID: 618 Posição dados: 32125
+ID: 620 Posição dados: 32252
+ID: -1 Posição dados: -1
+Filho0: 369
+Filho1: 369
+Filho2: 371
+Filho3: -1
+
+RRN: 372
+Tipo: 2
+Número de chaves: 2
+ID: 621 Posição dados: 32292
+ID: 622 Posição dados: 32375
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 373
+Tipo: 2
+Número de chaves: 1
+ID: 624 Posição dados: 32459
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 374
+Tipo: 0
+Número de chaves: 2
+ID: 623 Posição dados: 32432
+ID: 625 Posição dados: 32511
+ID: -1 Posição dados: -1
+Filho0: 372
+Filho1: 372
+Filho2: 374
+Filho3: -1
+
+RRN: 375
+Tipo: 2
+Número de chaves: 2
+ID: 626 Posição dados: 32575
+ID: 627 Posição dados: 32612
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 376
+Tipo: 2
+Número de chaves: 1
+ID: 629 Posição dados: 32751
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 377
+Tipo: 0
+Número de chaves: 2
+ID: 628 Posição dados: 32683
+ID: 630 Posição dados: 32778
+ID: -1 Posição dados: -1
+Filho0: 375
+Filho1: 375
+Filho2: 377
+Filho3: -1
+
+RRN: 378
+Tipo: 2
+Número de chaves: 2
+ID: 631 Posição dados: 32839
+ID: 632 Posição dados: 32876
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 379
+Tipo: 2
+Número de chaves: 1
+ID: 634 Posição dados: 33011
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 380
+Tipo: 0
+Número de chaves: 2
+ID: 633 Posição dados: 32947
+ID: 635 Posição dados: 33075
+ID: -1 Posição dados: -1
+Filho0: 378
+Filho1: 378
+Filho2: 380
+Filho3: -1
+
+RRN: 381
+Tipo: 2
+Número de chaves: 2
+ID: 636 Posição dados: 33118
+ID: 637 Posição dados: 33160
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 382
+Tipo: 2
+Número de chaves: 1
+ID: 639 Posição dados: 33250
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 383
+Tipo: 0
+Número de chaves: 2
+ID: 638 Posição dados: 33202
+ID: 640 Posição dados: 33291
+ID: -1 Posição dados: -1
+Filho0: 381
+Filho1: 381
+Filho2: 383
+Filho3: -1
+
+RRN: 384
+Tipo: 2
+Número de chaves: 2
+ID: 641 Posição dados: 33353
+ID: 642 Posição dados: 33389
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 385
+Tipo: 2
+Número de chaves: 1
+ID: 644 Posição dados: 33525
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 386
+Tipo: 0
+Número de chaves: 2
+ID: 643 Posição dados: 33453
+ID: 645 Posição dados: 33562
+ID: -1 Posição dados: -1
+Filho0: 384
+Filho1: 384
+Filho2: 386
+Filho3: -1
+
+RRN: 387
+Tipo: 2
+Número de chaves: 2
+ID: 646 Posição dados: 33639
+ID: 647 Posição dados: 33693
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 388
+Tipo: 2
+Número de chaves: 1
+ID: 649 Posição dados: 33816
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 389
+Tipo: 0
+Número de chaves: 2
+ID: 648 Posição dados: 33739
+ID: 650 Posição dados: 33863
+ID: -1 Posição dados: -1
+Filho0: 387
+Filho1: 387
+Filho2: 389
+Filho3: -1
+
+RRN: 390
+Tipo: 2
+Número de chaves: 2
+ID: 651 Posição dados: 33910
+ID: 652 Posição dados: 33953
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 391
+Tipo: 2
+Número de chaves: 1
+ID: 654 Posição dados: 34061
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 392
+Tipo: 0
+Número de chaves: 2
+ID: 653 Posição dados: 33999
+ID: 655 Posição dados: 34123
+ID: -1 Posição dados: -1
+Filho0: 390
+Filho1: 390
+Filho2: 392
+Filho3: -1
+
+RRN: 393
+Tipo: 2
+Número de chaves: 2
+ID: 656 Posição dados: 34174
+ID: 657 Posição dados: 34220
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 394
+Tipo: 2
+Número de chaves: 1
+ID: 659 Posição dados: 34320
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 395
+Tipo: 0
+Número de chaves: 2
+ID: 658 Posição dados: 34267
+ID: 660 Posição dados: 34367
+ID: -1 Posição dados: -1
+Filho0: 393
+Filho1: 393
+Filho2: 395
+Filho3: -1
+
+RRN: 396
+Tipo: 2
+Número de chaves: 2
+ID: 661 Posição dados: 34421
+ID: 662 Posição dados: 34458
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 397
+Tipo: 2
+Número de chaves: 1
+ID: 664 Posição dados: 34559
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 398
+Tipo: 0
+Número de chaves: 2
+ID: 663 Posição dados: 34503
+ID: 665 Posição dados: 34619
+ID: -1 Posição dados: -1
+Filho0: 396
+Filho1: 396
+Filho2: 398
+Filho3: -1
+
+RRN: 399
+Tipo: 2
+Número de chaves: 2
+ID: 666 Posição dados: 34679
+ID: 667 Posição dados: 34718
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 400
+Tipo: 2
+Número de chaves: 1
+ID: 669 Posição dados: 34818
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 401
+Tipo: 0
+Número de chaves: 2
+ID: 668 Posição dados: 34767
+ID: 670 Posição dados: 34866
+ID: -1 Posição dados: -1
+Filho0: 399
+Filho1: 399
+Filho2: 401
+Filho3: -1
+
+RRN: 402
+Tipo: 2
+Número de chaves: 2
+ID: 671 Posição dados: 34919
+ID: 672 Posição dados: 34972
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 403
+Tipo: 2
+Número de chaves: 1
+ID: 674 Posição dados: 35092
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 404
+Tipo: 0
+Número de chaves: 2
+ID: 673 Posição dados: 35013
+ID: 675 Posição dados: 35147
+ID: -1 Posição dados: -1
+Filho0: 402
+Filho1: 402
+Filho2: 404
+Filho3: -1
+
+RRN: 405
+Tipo: 2
+Número de chaves: 2
+ID: 676 Posição dados: 35184
+ID: 677 Posição dados: 35218
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 406
+Tipo: 2
+Número de chaves: 1
+ID: 679 Posição dados: 35340
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 407
+Tipo: 0
+Número de chaves: 2
+ID: 678 Posição dados: 35282
+ID: 680 Posição dados: 35400
+ID: -1 Posição dados: -1
+Filho0: 405
+Filho1: 405
+Filho2: 407
+Filho3: -1
+
+RRN: 408
+Tipo: 2
+Número de chaves: 2
+ID: 681 Posição dados: 35458
+ID: 682 Posição dados: 35511
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 409
+Tipo: 2
+Número de chaves: 1
+ID: 684 Posição dados: 35565
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 410
+Tipo: 0
+Número de chaves: 2
+ID: 683 Posição dados: 35538
+ID: 685 Posição dados: 35621
+ID: -1 Posição dados: -1
+Filho0: 408
+Filho1: 408
+Filho2: 410
+Filho3: -1
+
+RRN: 411
+Tipo: 2
+Número de chaves: 2
+ID: 686 Posição dados: 35679
+ID: 687 Posição dados: 35729
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 412
+Tipo: 2
+Número de chaves: 1
+ID: 689 Posição dados: 35828
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 413
+Tipo: 0
+Número de chaves: 2
+ID: 688 Posição dados: 35768
+ID: 690 Posição dados: 35874
+ID: -1 Posição dados: -1
+Filho0: 411
+Filho1: 411
+Filho2: 413
+Filho3: -1
+
+RRN: 414
+Tipo: 2
+Número de chaves: 2
+ID: 691 Posição dados: 35911
+ID: 692 Posição dados: 35945
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 415
+Tipo: 2
+Número de chaves: 1
+ID: 694 Posição dados: 36055
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 416
+Tipo: 0
+Número de chaves: 2
+ID: 693 Posição dados: 36012
+ID: 695 Posição dados: 36108
+ID: -1 Posição dados: -1
+Filho0: 414
+Filho1: 414
+Filho2: 416
+Filho3: -1
+
+RRN: 417
+Tipo: 2
+Número de chaves: 2
+ID: 696 Posição dados: 36158
+ID: 697 Posição dados: 36185
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 418
+Tipo: 2
+Número de chaves: 1
+ID: 699 Posição dados: 36303
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 419
+Tipo: 0
+Número de chaves: 2
+ID: 698 Posição dados: 36226
+ID: 700 Posição dados: 36352
+ID: -1 Posição dados: -1
+Filho0: 417
+Filho1: 417
+Filho2: 419
+Filho3: -1
+
+RRN: 420
+Tipo: 2
+Número de chaves: 2
+ID: 701 Posição dados: 36424
+ID: 702 Posição dados: 36474
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 421
+Tipo: 2
+Número de chaves: 1
+ID: 704 Posição dados: 36587
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 422
+Tipo: 0
+Número de chaves: 2
+ID: 703 Posição dados: 36512
+ID: 705 Posição dados: 36638
+ID: -1 Posição dados: -1
+Filho0: 420
+Filho1: 420
+Filho2: 422
+Filho3: -1
+
+RRN: 423
+Tipo: 2
+Número de chaves: 2
+ID: 706 Posição dados: 36684
+ID: 707 Posição dados: 36735
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 424
+Tipo: 2
+Número de chaves: 1
+ID: 709 Posição dados: 36809
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 425
+Tipo: 0
+Número de chaves: 2
+ID: 708 Posição dados: 36773
+ID: 710 Posição dados: 36860
+ID: -1 Posição dados: -1
+Filho0: 423
+Filho1: 423
+Filho2: 425
+Filho3: -1
+
+RRN: 426
+Tipo: 2
+Número de chaves: 2
+ID: 711 Posição dados: 36917
+ID: 712 Posição dados: 36976
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 427
+Tipo: 2
+Número de chaves: 1
+ID: 714 Posição dados: 37054
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 428
+Tipo: 0
+Número de chaves: 2
+ID: 713 Posição dados: 37017
+ID: 715 Posição dados: 37090
+ID: -1 Posição dados: -1
+Filho0: 426
+Filho1: 426
+Filho2: 428
+Filho3: -1
+
+RRN: 429
+Tipo: 2
+Número de chaves: 2
+ID: 716 Posição dados: 37166
+ID: 717 Posição dados: 37230
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 430
+Tipo: 2
+Número de chaves: 1
+ID: 719 Posição dados: 37360
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 431
+Tipo: 0
+Número de chaves: 2
+ID: 718 Posição dados: 37303
+ID: 720 Posição dados: 37410
+ID: -1 Posição dados: -1
+Filho0: 429
+Filho1: 429
+Filho2: 431
+Filho3: -1
+
+RRN: 432
+Tipo: 2
+Número de chaves: 2
+ID: 721 Posição dados: 37478
+ID: 722 Posição dados: 37543
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 433
+Tipo: 2
+Número de chaves: 1
+ID: 724 Posição dados: 37689
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 434
+Tipo: 0
+Número de chaves: 2
+ID: 723 Posição dados: 37619
+ID: 725 Posição dados: 37763
+ID: -1 Posição dados: -1
+Filho0: 432
+Filho1: 432
+Filho2: 434
+Filho3: -1
+
+RRN: 435
+Tipo: 2
+Número de chaves: 2
+ID: 726 Posição dados: 37831
+ID: 727 Posição dados: 37896
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 436
+Tipo: 2
+Número de chaves: 1
+ID: 729 Posição dados: 37987
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 437
+Tipo: 0
+Número de chaves: 2
+ID: 728 Posição dados: 37950
+ID: 730 Posição dados: 38043
+ID: -1 Posição dados: -1
+Filho0: 435
+Filho1: 435
+Filho2: 437
+Filho3: -1
+
+RRN: 438
+Tipo: 2
+Número de chaves: 2
+ID: 731 Posição dados: 38105
+ID: 732 Posição dados: 38164
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 439
+Tipo: 2
+Número de chaves: 1
+ID: 734 Posição dados: 38276
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 440
+Tipo: 0
+Número de chaves: 2
+ID: 733 Posição dados: 38216
+ID: 735 Posição dados: 38337
+ID: -1 Posição dados: -1
+Filho0: 438
+Filho1: 438
+Filho2: 440
+Filho3: -1
+
+RRN: 441
+Tipo: 2
+Número de chaves: 2
+ID: 736 Posição dados: 38373
+ID: 737 Posição dados: 38433
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 442
+Tipo: 2
+Número de chaves: 1
+ID: 739 Posição dados: 38527
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 443
+Tipo: 0
+Número de chaves: 2
+ID: 738 Posição dados: 38467
+ID: 740 Posição dados: 38582
+ID: -1 Posição dados: -1
+Filho0: 441
+Filho1: 441
+Filho2: 443
+Filho3: -1
+
+RRN: 444
+Tipo: 2
+Número de chaves: 2
+ID: 741 Posição dados: 38609
+ID: 742 Posição dados: 38667
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 445
+Tipo: 2
+Número de chaves: 1
+ID: 744 Posição dados: 38786
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 446
+Tipo: 0
+Número de chaves: 2
+ID: 743 Posição dados: 38720
+ID: 745 Posição dados: 38820
+ID: -1 Posição dados: -1
+Filho0: 444
+Filho1: 444
+Filho2: 446
+Filho3: -1
+
+RRN: 447
+Tipo: 2
+Número de chaves: 2
+ID: 746 Posição dados: 38876
+ID: 747 Posição dados: 38920
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 448
+Tipo: 2
+Número de chaves: 1
+ID: 749 Posição dados: 39051
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 449
+Tipo: 0
+Número de chaves: 2
+ID: 748 Posição dados: 38985
+ID: 750 Posição dados: 39104
+ID: -1 Posição dados: -1
+Filho0: 447
+Filho1: 447
+Filho2: 449
+Filho3: -1
+
+RRN: 450
+Tipo: 2
+Número de chaves: 2
+ID: 751 Posição dados: 39138
+ID: 752 Posição dados: 39180
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 451
+Tipo: 2
+Número de chaves: 1
+ID: 754 Posição dados: 39304
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 452
+Tipo: 0
+Número de chaves: 2
+ID: 753 Posição dados: 39248
+ID: 755 Posição dados: 39362
+ID: -1 Posição dados: -1
+Filho0: 450
+Filho1: 450
+Filho2: 452
+Filho3: -1
+
+RRN: 453
+Tipo: 2
+Número de chaves: 2
+ID: 756 Posição dados: 39417
+ID: 757 Posição dados: 39485
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 454
+Tipo: 2
+Número de chaves: 1
+ID: 759 Posição dados: 39605
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 455
+Tipo: 0
+Número de chaves: 2
+ID: 758 Posição dados: 39540
+ID: 760 Posição dados: 39662
+ID: -1 Posição dados: -1
+Filho0: 453
+Filho1: 453
+Filho2: 455
+Filho3: -1
+
+RRN: 456
+Tipo: 2
+Número de chaves: 2
+ID: 761 Posição dados: 39710
+ID: 762 Posição dados: 39760
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 457
+Tipo: 2
+Número de chaves: 1
+ID: 764 Posição dados: 39860
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 458
+Tipo: 0
+Número de chaves: 2
+ID: 763 Posição dados: 39797
+ID: 765 Posição dados: 39915
+ID: -1 Posição dados: -1
+Filho0: 456
+Filho1: 456
+Filho2: 458
+Filho3: -1
+
+RRN: 459
+Tipo: 2
+Número de chaves: 2
+ID: 766 Posição dados: 39963
+ID: 767 Posição dados: 40010
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 460
+Tipo: 2
+Número de chaves: 1
+ID: 769 Posição dados: 40115
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 461
+Tipo: 0
+Número de chaves: 2
+ID: 768 Posição dados: 40066
+ID: 770 Posição dados: 40164
+ID: -1 Posição dados: -1
+Filho0: 459
+Filho1: 459
+Filho2: 461
+Filho3: -1
+
+RRN: 462
+Tipo: 2
+Número de chaves: 2
+ID: 771 Posição dados: 40203
+ID: 772 Posição dados: 40240
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 463
+Tipo: 2
+Número de chaves: 1
+ID: 774 Posição dados: 40352
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 464
+Tipo: 0
+Número de chaves: 2
+ID: 773 Posição dados: 40309
+ID: 775 Posição dados: 40379
+ID: -1 Posição dados: -1
+Filho0: 462
+Filho1: 462
+Filho2: 464
+Filho3: -1
+
+RRN: 465
+Tipo: 2
+Número de chaves: 2
+ID: 776 Posição dados: 40428
+ID: 777 Posição dados: 40472
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 466
+Tipo: 2
+Número de chaves: 1
+ID: 779 Posição dados: 40568
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 467
+Tipo: 0
+Número de chaves: 2
+ID: 778 Posição dados: 40531
+ID: 780 Posição dados: 40619
+ID: -1 Posição dados: -1
+Filho0: 465
+Filho1: 465
+Filho2: 467
+Filho3: -1
+
+RRN: 468
+Tipo: 2
+Número de chaves: 2
+ID: 781 Posição dados: 40662
+ID: 782 Posição dados: 40742
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 469
+Tipo: 2
+Número de chaves: 1
+ID: 784 Posição dados: 40860
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 470
+Tipo: 0
+Número de chaves: 2
+ID: 783 Posição dados: 40800
+ID: 785 Posição dados: 40887
+ID: -1 Posição dados: -1
+Filho0: 468
+Filho1: 468
+Filho2: 470
+Filho3: -1
+
+RRN: 471
+Tipo: 2
+Número de chaves: 2
+ID: 786 Posição dados: 40931
+ID: 787 Posição dados: 40988
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 472
+Tipo: 2
+Número de chaves: 1
+ID: 789 Posição dados: 41090
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 473
+Tipo: 0
+Número de chaves: 2
+ID: 788 Posição dados: 41022
+ID: 790 Posição dados: 41141
+ID: -1 Posição dados: -1
+Filho0: 471
+Filho1: 471
+Filho2: 473
+Filho3: -1
+
+RRN: 474
+Tipo: 2
+Número de chaves: 2
+ID: 791 Posição dados: 41179
+ID: 792 Posição dados: 41231
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 475
+Tipo: 2
+Número de chaves: 1
+ID: 794 Posição dados: 41340
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 476
+Tipo: 0
+Número de chaves: 2
+ID: 793 Posição dados: 41286
+ID: 795 Posição dados: 41412
+ID: -1 Posição dados: -1
+Filho0: 474
+Filho1: 474
+Filho2: 476
+Filho3: -1
+
+RRN: 477
+Tipo: 2
+Número de chaves: 2
+ID: 796 Posição dados: 41460
+ID: 797 Posição dados: 41487
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 478
+Tipo: 2
+Número de chaves: 1
+ID: 799 Posição dados: 41608
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 479
+Tipo: 0
+Número de chaves: 2
+ID: 798 Posição dados: 41537
+ID: 800 Posição dados: 41656
+ID: -1 Posição dados: -1
+Filho0: 477
+Filho1: 477
+Filho2: 479
+Filho3: -1
+
+RRN: 480
+Tipo: 2
+Número de chaves: 2
+ID: 801 Posição dados: 41717
+ID: 802 Posição dados: 41757
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 481
+Tipo: 2
+Número de chaves: 1
+ID: 804 Posição dados: 41882
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 482
+Tipo: 0
+Número de chaves: 2
+ID: 803 Posição dados: 41822
+ID: 805 Posição dados: 41917
+ID: -1 Posição dados: -1
+Filho0: 480
+Filho1: 480
+Filho2: 482
+Filho3: -1
+
+RRN: 483
+Tipo: 2
+Número de chaves: 2
+ID: 806 Posição dados: 41985
+ID: 807 Posição dados: 42044
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 484
+Tipo: 2
+Número de chaves: 1
+ID: 809 Posição dados: 42116
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 485
+Tipo: 0
+Número de chaves: 2
+ID: 808 Posição dados: 42089
+ID: 810 Posição dados: 42201
+ID: -1 Posição dados: -1
+Filho0: 483
+Filho1: 483
+Filho2: 485
+Filho3: -1
+
+RRN: 486
+Tipo: 2
+Número de chaves: 2
+ID: 811 Posição dados: 42271
+ID: 812 Posição dados: 42341
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 487
+Tipo: 2
+Número de chaves: 1
+ID: 814 Posição dados: 42460
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 488
+Tipo: 0
+Número de chaves: 2
+ID: 813 Posição dados: 42417
+ID: 815 Posição dados: 42512
+ID: -1 Posição dados: -1
+Filho0: 486
+Filho1: 486
+Filho2: 488
+Filho3: -1
+
+RRN: 489
+Tipo: 2
+Número de chaves: 2
+ID: 816 Posição dados: 42569
+ID: 817 Posição dados: 42605
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 490
+Tipo: 2
+Número de chaves: 1
+ID: 819 Posição dados: 42723
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 491
+Tipo: 0
+Número de chaves: 2
+ID: 818 Posição dados: 42649
+ID: 820 Posição dados: 42780
+ID: -1 Posição dados: -1
+Filho0: 489
+Filho1: 489
+Filho2: 491
+Filho3: -1
+
+RRN: 492
+Tipo: 2
+Número de chaves: 2
+ID: 821 Posição dados: 42838
+ID: 822 Posição dados: 42877
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 493
+Tipo: 2
+Número de chaves: 1
+ID: 824 Posição dados: 42995
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 494
+Tipo: 0
+Número de chaves: 2
+ID: 823 Posição dados: 42936
+ID: 825 Posição dados: 43034
+ID: -1 Posição dados: -1
+Filho0: 492
+Filho1: 492
+Filho2: 494
+Filho3: -1
+
+RRN: 495
+Tipo: 2
+Número de chaves: 2
+ID: 826 Posição dados: 43094
+ID: 827 Posição dados: 43121
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 496
+Tipo: 2
+Número de chaves: 1
+ID: 829 Posição dados: 43214
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 497
+Tipo: 0
+Número de chaves: 2
+ID: 828 Posição dados: 43175
+ID: 830 Posição dados: 43274
+ID: -1 Posição dados: -1
+Filho0: 495
+Filho1: 495
+Filho2: 497
+Filho3: -1
+
+RRN: 498
+Tipo: 2
+Número de chaves: 2
+ID: 831 Posição dados: 43331
+ID: 832 Posição dados: 43387
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 499
+Tipo: 2
+Número de chaves: 1
+ID: 834 Posição dados: 43480
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 500
+Tipo: 0
+Número de chaves: 2
+ID: 833 Posição dados: 43423
+ID: 835 Posição dados: 43549
+ID: -1 Posição dados: -1
+Filho0: 498
+Filho1: 498
+Filho2: 500
+Filho3: -1
+
+RRN: 501
+Tipo: 2
+Número de chaves: 2
+ID: 836 Posição dados: 43596
+ID: 837 Posição dados: 43648
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 502
+Tipo: 2
+Número de chaves: 1
+ID: 839 Posição dados: 43758
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 503
+Tipo: 0
+Número de chaves: 2
+ID: 838 Posição dados: 43707
+ID: 840 Posição dados: 43819
+ID: -1 Posição dados: -1
+Filho0: 501
+Filho1: 501
+Filho2: 503
+Filho3: -1
+
+RRN: 504
+Tipo: 2
+Número de chaves: 2
+ID: 841 Posição dados: 43877
+ID: 842 Posição dados: 43911
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 505
+Tipo: 2
+Número de chaves: 1
+ID: 844 Posição dados: 44005
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 506
+Tipo: 0
+Número de chaves: 2
+ID: 843 Posição dados: 43964
+ID: 845 Posição dados: 44032
+ID: -1 Posição dados: -1
+Filho0: 504
+Filho1: 504
+Filho2: 506
+Filho3: -1
+
+RRN: 507
+Tipo: 2
+Número de chaves: 2
+ID: 846 Posição dados: 44083
+ID: 847 Posição dados: 44157
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 508
+Tipo: 2
+Número de chaves: 1
+ID: 849 Posição dados: 44261
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 509
+Tipo: 0
+Número de chaves: 2
+ID: 848 Posição dados: 44200
+ID: 850 Posição dados: 44298
+ID: -1 Posição dados: -1
+Filho0: 507
+Filho1: 507
+Filho2: 509
+Filho3: -1
+
+RRN: 510
+Tipo: 2
+Número de chaves: 2
+ID: 851 Posição dados: 44362
+ID: 852 Posição dados: 44415
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 511
+Tipo: 2
+Número de chaves: 1
+ID: 854 Posição dados: 44516
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 512
+Tipo: 0
+Número de chaves: 2
+ID: 853 Posição dados: 44461
+ID: 855 Posição dados: 44589
+ID: -1 Posição dados: -1
+Filho0: 510
+Filho1: 510
+Filho2: 512
+Filho3: -1
+
+RRN: 513
+Tipo: 2
+Número de chaves: 2
+ID: 856 Posição dados: 44674
+ID: 857 Posição dados: 44726
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 514
+Tipo: 2
+Número de chaves: 1
+ID: 859 Posição dados: 44805
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 515
+Tipo: 0
+Número de chaves: 2
+ID: 858 Posição dados: 44760
+ID: 860 Posição dados: 44832
+ID: -1 Posição dados: -1
+Filho0: 513
+Filho1: 513
+Filho2: 515
+Filho3: -1
+
+RRN: 516
+Tipo: 2
+Número de chaves: 2
+ID: 861 Posição dados: 44859
+ID: 862 Posição dados: 44911
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 517
+Tipo: 2
+Número de chaves: 1
+ID: 864 Posição dados: 45004
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 518
+Tipo: 0
+Número de chaves: 2
+ID: 863 Posição dados: 44977
+ID: 865 Posição dados: 45064
+ID: -1 Posição dados: -1
+Filho0: 516
+Filho1: 516
+Filho2: 518
+Filho3: -1
+
+RRN: 519
+Tipo: 2
+Número de chaves: 2
+ID: 866 Posição dados: 45129
+ID: 867 Posição dados: 45173
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 520
+Tipo: 2
+Número de chaves: 1
+ID: 869 Posição dados: 45260
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 521
+Tipo: 0
+Número de chaves: 2
+ID: 868 Posição dados: 45213
+ID: 870 Posição dados: 45312
+ID: -1 Posição dados: -1
+Filho0: 519
+Filho1: 519
+Filho2: 521
+Filho3: -1
+
+RRN: 522
+Tipo: 2
+Número de chaves: 2
+ID: 871 Posição dados: 45348
+ID: 872 Posição dados: 45398
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 523
+Tipo: 2
+Número de chaves: 1
+ID: 874 Posição dados: 45532
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 524
+Tipo: 0
+Número de chaves: 2
+ID: 873 Posição dados: 45447
+ID: 875 Posição dados: 45581
+ID: -1 Posição dados: -1
+Filho0: 522
+Filho1: 522
+Filho2: 524
+Filho3: -1
+
+RRN: 525
+Tipo: 2
+Número de chaves: 2
+ID: 876 Posição dados: 45633
+ID: 877 Posição dados: 45674
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 526
+Tipo: 2
+Número de chaves: 1
+ID: 879 Posição dados: 45760
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 527
+Tipo: 0
+Número de chaves: 2
+ID: 878 Posição dados: 45701
+ID: 880 Posição dados: 45819
+ID: -1 Posição dados: -1
+Filho0: 525
+Filho1: 525
+Filho2: 527
+Filho3: -1
+
+RRN: 528
+Tipo: 2
+Número de chaves: 2
+ID: 881 Posição dados: 45865
+ID: 882 Posição dados: 45934
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 529
+Tipo: 2
+Número de chaves: 1
+ID: 884 Posição dados: 46074
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 530
+Tipo: 0
+Número de chaves: 2
+ID: 883 Posição dados: 46004
+ID: 885 Posição dados: 46133
+ID: -1 Posição dados: -1
+Filho0: 528
+Filho1: 528
+Filho2: 530
+Filho3: -1
+
+RRN: 531
+Tipo: 2
+Número de chaves: 2
+ID: 886 Posição dados: 46201
+ID: 887 Posição dados: 46274
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 532
+Tipo: 2
+Número de chaves: 1
+ID: 889 Posição dados: 46401
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 533
+Tipo: 0
+Número de chaves: 2
+ID: 888 Posição dados: 46343
+ID: 890 Posição dados: 46450
+ID: -1 Posição dados: -1
+Filho0: 531
+Filho1: 531
+Filho2: 533
+Filho3: -1
+
+RRN: 534
+Tipo: 2
+Número de chaves: 2
+ID: 891 Posição dados: 46487
+ID: 892 Posição dados: 46535
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 535
+Tipo: 2
+Número de chaves: 1
+ID: 894 Posição dados: 46625
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 536
+Tipo: 0
+Número de chaves: 2
+ID: 893 Posição dados: 46569
+ID: 895 Posição dados: 46693
+ID: -1 Posição dados: -1
+Filho0: 534
+Filho1: 534
+Filho2: 536
+Filho3: -1
+
+RRN: 537
+Tipo: 2
+Número de chaves: 2
+ID: 896 Posição dados: 46741
+ID: 897 Posição dados: 46791
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 538
+Tipo: 2
+Número de chaves: 1
+ID: 899 Posição dados: 46886
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 539
+Tipo: 0
+Número de chaves: 2
+ID: 898 Posição dados: 46842
+ID: 900 Posição dados: 46966
+ID: -1 Posição dados: -1
+Filho0: 537
+Filho1: 537
+Filho2: 539
+Filho3: -1
+
+RRN: 540
+Tipo: 2
+Número de chaves: 2
+ID: 901 Posição dados: 47029
+ID: 902 Posição dados: 47073
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 541
+Tipo: 2
+Número de chaves: 1
+ID: 904 Posição dados: 47156
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 542
+Tipo: 0
+Número de chaves: 2
+ID: 903 Posição dados: 47119
+ID: 905 Posição dados: 47204
+ID: -1 Posição dados: -1
+Filho0: 540
+Filho1: 540
+Filho2: 542
+Filho3: -1
+
+RRN: 543
+Tipo: 2
+Número de chaves: 2
+ID: 906 Posição dados: 47254
+ID: 907 Posição dados: 47303
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 544
+Tipo: 2
+Número de chaves: 1
+ID: 909 Posição dados: 47379
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 545
+Tipo: 0
+Número de chaves: 2
+ID: 908 Posição dados: 47352
+ID: 910 Posição dados: 47440
+ID: -1 Posição dados: -1
+Filho0: 543
+Filho1: 543
+Filho2: 545
+Filho3: -1
+
+RRN: 546
+Tipo: 2
+Número de chaves: 2
+ID: 911 Posição dados: 47497
+ID: 912 Posição dados: 47550
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 547
+Tipo: 2
+Número de chaves: 1
+ID: 914 Posição dados: 47679
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 548
+Tipo: 0
+Número de chaves: 2
+ID: 913 Posição dados: 47607
+ID: 915 Posição dados: 47737
+ID: -1 Posição dados: -1
+Filho0: 546
+Filho1: 546
+Filho2: 548
+Filho3: -1
+
+RRN: 549
+Tipo: 2
+Número de chaves: 2
+ID: 916 Posição dados: 47786
+ID: 917 Posição dados: 47851
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 550
+Tipo: 2
+Número de chaves: 1
+ID: 919 Posição dados: 47993
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 551
+Tipo: 0
+Número de chaves: 2
+ID: 918 Posição dados: 47925
+ID: 920 Posição dados: 48030
+ID: -1 Posição dados: -1
+Filho0: 549
+Filho1: 549
+Filho2: 551
+Filho3: -1
+
+RRN: 552
+Tipo: 2
+Número de chaves: 2
+ID: 921 Posição dados: 48090
+ID: 922 Posição dados: 48128
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 553
+Tipo: 2
+Número de chaves: 1
+ID: 924 Posição dados: 48227
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 554
+Tipo: 0
+Número de chaves: 2
+ID: 923 Posição dados: 48177
+ID: 925 Posição dados: 48290
+ID: -1 Posição dados: -1
+Filho0: 552
+Filho1: 552
+Filho2: 554
+Filho3: -1
+
+RRN: 555
+Tipo: 2
+Número de chaves: 2
+ID: 926 Posição dados: 48328
+ID: 927 Posição dados: 48397
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 556
+Tipo: 2
+Número de chaves: 1
+ID: 929 Posição dados: 48503
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 557
+Tipo: 0
+Número de chaves: 2
+ID: 928 Posição dados: 48445
+ID: 930 Posição dados: 48550
+ID: -1 Posição dados: -1
+Filho0: 555
+Filho1: 555
+Filho2: 557
+Filho3: -1
+
+RRN: 558
+Tipo: 2
+Número de chaves: 2
+ID: 931 Posição dados: 48587
+ID: 932 Posição dados: 48636
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 559
+Tipo: 2
+Número de chaves: 1
+ID: 934 Posição dados: 48730
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 560
+Tipo: 0
+Número de chaves: 2
+ID: 933 Posição dados: 48663
+ID: 935 Posição dados: 48770
+ID: -1 Posição dados: -1
+Filho0: 558
+Filho1: 558
+Filho2: 560
+Filho3: -1
+
+RRN: 561
+Tipo: 2
+Número de chaves: 2
+ID: 936 Posição dados: 48832
+ID: 937 Posição dados: 48896
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 562
+Tipo: 2
+Número de chaves: 1
+ID: 939 Posição dados: 48980
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 563
+Tipo: 0
+Número de chaves: 2
+ID: 938 Posição dados: 48942
+ID: 940 Posição dados: 49031
+ID: -1 Posição dados: -1
+Filho0: 561
+Filho1: 561
+Filho2: 563
+Filho3: -1
+
+RRN: 564
+Tipo: 2
+Número de chaves: 2
+ID: 941 Posição dados: 49081
+ID: 942 Posição dados: 49142
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 565
+Tipo: 2
+Número de chaves: 1
+ID: 944 Posição dados: 49228
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 566
+Tipo: 0
+Número de chaves: 2
+ID: 943 Posição dados: 49192
+ID: 945 Posição dados: 49292
+ID: -1 Posição dados: -1
+Filho0: 564
+Filho1: 564
+Filho2: 566
+Filho3: -1
+
+RRN: 567
+Tipo: 2
+Número de chaves: 2
+ID: 946 Posição dados: 49349
+ID: 947 Posição dados: 49396
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 568
+Tipo: 2
+Número de chaves: 1
+ID: 949 Posição dados: 49489
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 569
+Tipo: 0
+Número de chaves: 2
+ID: 948 Posição dados: 49423
+ID: 950 Posição dados: 49549
+ID: -1 Posição dados: -1
+Filho0: 567
+Filho1: 567
+Filho2: 569
+Filho3: -1
+
+RRN: 570
+Tipo: 2
+Número de chaves: 2
+ID: 951 Posição dados: 49617
+ID: 952 Posição dados: 49688
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 571
+Tipo: 2
+Número de chaves: 1
+ID: 954 Posição dados: 49779
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 572
+Tipo: 0
+Número de chaves: 2
+ID: 953 Posição dados: 49734
+ID: 955 Posição dados: 49816
+ID: -1 Posição dados: -1
+Filho0: 570
+Filho1: 570
+Filho2: 572
+Filho3: -1
+
+RRN: 573
+Tipo: 2
+Número de chaves: 2
+ID: 956 Posição dados: 49888
+ID: 957 Posição dados: 49954
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 574
+Tipo: 2
+Número de chaves: 1
+ID: 959 Posição dados: 50015
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 575
+Tipo: 0
+Número de chaves: 2
+ID: 958 Posição dados: 49988
+ID: 960 Posição dados: 50049
+ID: -1 Posição dados: -1
+Filho0: 573
+Filho1: 573
+Filho2: 575
+Filho3: -1
+
+RRN: 576
+Tipo: 2
+Número de chaves: 2
+ID: 961 Posição dados: 50119
+ID: 962 Posição dados: 50179
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 577
+Tipo: 2
+Número de chaves: 1
+ID: 964 Posição dados: 50287
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 578
+Tipo: 0
+Número de chaves: 2
+ID: 963 Posição dados: 50243
+ID: 965 Posição dados: 50340
+ID: -1 Posição dados: -1
+Filho0: 576
+Filho1: 576
+Filho2: 578
+Filho3: -1
+
+RRN: 579
+Tipo: 2
+Número de chaves: 2
+ID: 966 Posição dados: 50397
+ID: 967 Posição dados: 50431
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 580
+Tipo: 2
+Número de chaves: 1
+ID: 969 Posição dados: 50526
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 581
+Tipo: 0
+Número de chaves: 2
+ID: 968 Posição dados: 50487
+ID: 970 Posição dados: 50571
+ID: -1 Posição dados: -1
+Filho0: 579
+Filho1: 579
+Filho2: 581
+Filho3: -1
+
+RRN: 582
+Tipo: 2
+Número de chaves: 2
+ID: 971 Posição dados: 50617
+ID: 972 Posição dados: 50685
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 583
+Tipo: 2
+Número de chaves: 1
+ID: 974 Posição dados: 50783
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 584
+Tipo: 0
+Número de chaves: 2
+ID: 973 Posição dados: 50749
+ID: 975 Posição dados: 50854
+ID: -1 Posição dados: -1
+Filho0: 582
+Filho1: 582
+Filho2: 584
+Filho3: -1
+
+RRN: 585
+Tipo: 2
+Número de chaves: 2
+ID: 976 Posição dados: 50912
+ID: 977 Posição dados: 50979
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 586
+Tipo: 2
+Número de chaves: 1
+ID: 979 Posição dados: 51108
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 587
+Tipo: 0
+Número de chaves: 2
+ID: 978 Posição dados: 51044
+ID: 980 Posição dados: 51142
+ID: -1 Posição dados: -1
+Filho0: 585
+Filho1: 585
+Filho2: 587
+Filho3: -1
+
+RRN: 588
+Tipo: 2
+Número de chaves: 2
+ID: 981 Posição dados: 51193
+ID: 982 Posição dados: 51237
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 589
+Tipo: 2
+Número de chaves: 1
+ID: 984 Posição dados: 51333
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 590
+Tipo: 0
+Número de chaves: 2
+ID: 983 Posição dados: 51299
+ID: 985 Posição dados: 51369
+ID: -1 Posição dados: -1
+Filho0: 588
+Filho1: 588
+Filho2: 590
+Filho3: -1
+
+RRN: 591
+Tipo: 2
+Número de chaves: 2
+ID: 986 Posição dados: 51427
+ID: 987 Posição dados: 51477
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 592
+Tipo: 2
+Número de chaves: 1
+ID: 989 Posição dados: 51600
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 593
+Tipo: 0
+Número de chaves: 2
+ID: 988 Posição dados: 51529
+ID: 990 Posição dados: 51672
+ID: -1 Posição dados: -1
+Filho0: 591
+Filho1: 591
+Filho2: 593
+Filho3: -1
+
+RRN: 594
+Tipo: 2
+Número de chaves: 2
+ID: 991 Posição dados: 51699
+ID: 992 Posição dados: 51749
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 595
+Tipo: 2
+Número de chaves: 1
+ID: 994 Posição dados: 51872
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 596
+Tipo: 0
+Número de chaves: 2
+ID: 993 Posição dados: 51823
+ID: 995 Posição dados: 51932
+ID: -1 Posição dados: -1
+Filho0: 594
+Filho1: 594
+Filho2: 596
+Filho3: -1
+
+RRN: 597
+Tipo: 2
+Número de chaves: 3
+ID: 996 Posição dados: 51983
+ID: 997 Posição dados: 52010
+ID: 1000 Posição dados: 52161
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 598
+Tipo: 2
+Número de chaves: 1
+ID: 999 Posição dados: 52109
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: -1
+Filho1: -1
+Filho2: -1
+Filho3: -1
+
+RRN: 599
+Tipo: 0
+Número de chaves: 1
+ID: 998 Posição dados: 52064
+ID: -1 Posição dados: -1
+ID: -1 Posição dados: -1
+Filho0: 597
+Filho1: 597
+Filho2: -1
+Filho3: -1
+

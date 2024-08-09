@@ -1,0 +1,3 @@
+/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/trabalhoSO/cmake-build-release-wsl/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/trabalhoSO/cmake-build-release-wsl/CMakeFiles/edit_cache.dir
+/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/trabalhoSO/cmake-build-release-wsl/CMakeFiles/trabalhoSO.dir

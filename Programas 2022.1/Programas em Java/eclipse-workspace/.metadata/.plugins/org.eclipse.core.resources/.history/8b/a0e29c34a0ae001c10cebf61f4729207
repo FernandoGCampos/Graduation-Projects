@@ -1,0 +1,23 @@
+import java.io.IOException;
+
+public class Ex1 {
+
+	public static void main(String[] args) throws IOException {
+		double x;
+		System.out.println("Digite o valor do qual se quer a raiz: ");
+		x = EntradaTeclado.leDouble();
+		double x_raiz;
+		System.out.println("Digite o chute inicial: ");
+		x_raiz = EntradaTeclado.leDouble();
+		
+		int i = 0;
+		while(x_raiz - x/x_raiz > 0.00000001 || x_raiz - x/x_raiz < -0.00000001){
+			x_raiz = (x_raiz + (x / x_raiz))/2;
+			++i;
+		}
+		
+		System.out.printf("A raiz de %d é: %d\n", x, x_raiz);
+		System.out.printf("O número de iterações necessárias foi: %d\n", i);
+	}
+	
+}

@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/data.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/extralib.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+data.h
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/data.h
+
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/index2.c
+index2.h
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/index2.h
+
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/index2.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+data.h
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/data.h
+extralib.h
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/extralib.h
+
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/type2.c
+type2.h
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/type2.h
+
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/type2.h
+extralib.h
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/extralib.h
+data.h
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/data.h
+index2.h
+/mnt/c/Users/nandi/Documents/Programas 2022.1/Programas em C/TrabArq3/index2.h
+

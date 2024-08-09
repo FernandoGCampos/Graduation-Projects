@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/nDamas.dir/main.cpp.o  -o nDamas 

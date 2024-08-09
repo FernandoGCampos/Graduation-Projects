@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/nandi/Documents/Programas 2022.2/Programas em C++/CercaDeMenorPerimetro/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+iomanip
+-
+math.h
+-
+

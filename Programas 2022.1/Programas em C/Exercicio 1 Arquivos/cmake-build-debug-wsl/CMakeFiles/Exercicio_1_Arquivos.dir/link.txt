@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -g   CMakeFiles/Exercicio_1_Arquivos.dir/main.c.o CMakeFiles/Exercicio_1_Arquivos.dir/comandos.c.o CMakeFiles/Exercicio_1_Arquivos.dir/funcoes.c.o  -o Exercicio_1_Arquivos 
